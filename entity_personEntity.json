@@ -1,0 +1,24 @@
+{
+  "beanName" : "personEntity",
+  "dupeDetectionStrategy" : "cost",
+  "entityType" : "com.touchdata.entity.impl.DataDrivenEntity",
+  "nounDescriptions" : {
+    "enus" : {
+      "countNoun" : true,
+      "singularForm" : "person",
+      "pluralForm" : "people",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "A person",
+      "defaultPluralForm" : "people",
+      "defaultSingularForm" : "person",
+      "singularAndPluralForms" : "person,people"
+    }
+  },
+  "bits" : [ "bitPIN", "bitName", "bitTestBatchNumber", "bitSSN", "bitFirstName", "bitLastName", "bitPhone", "bitCounty", "bitCity", "bitState", "bitHintDupe", "bitBedrooms", "bitBathrooms", "bitSubdivision", "bitStreetName", "bitStreetNumber", "bitAssessedValue", "bitGradeschool", "bitHighschool", "bitSchoolDistrict", "bitDupeId", "bitNotes", "bitNotesSentiment", "bitModel", "bitShortSale", "bitSqFt", "bitYrBlt", "bitTownship", "bitZipcode", "bitPropertyType", "bitAge", "bitEducation", "bitTransportationToWork", "bitRace", "bitImgUrl" ],
+  "subTypes" : [ ]
+}

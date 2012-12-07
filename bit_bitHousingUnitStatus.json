@@ -1,0 +1,69 @@
+{
+  "beanName" : "bitHousingUnitStatus",
+  "uuid" : null,
+  "desirabilityOrientation" : "NEUTRAL",
+  "bitId" : 33,
+  "nounDescriptions" : {
+    "enus" : {
+      "countNoun" : true,
+      "singularForm" : "housing unit status",
+      "pluralForm" : "housing unit statuses",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "Housing unit status",
+      "defaultPluralForm" : "housing unit statuses",
+      "defaultSingularForm" : "housing unit status",
+      "singularAndPluralForms" : "housing unit status,housing unit statuses"
+    }
+  },
+  "aggregatedEntityName" : "placeEntity",
+  "aggregatedEntityBitName" : "bitOccupancyStatus",
+  "minimumValue" : 0.0,
+  "maximumValue" : null,
+  "maximumValueBit" : {
+    "beanName" : "bitTotalHousingUnits",
+    "uuid" : null,
+    "desirabilityOrientation" : "NEUTRAL",
+    "bitId" : 36,
+    "nounDescriptions" : {
+      "enus" : {
+        "countNoun" : true,
+        "singularForm" : "housing unit,house,home",
+        "pluralForm" : "housing units,houses,homes",
+        "quantifier" : "number",
+        "adjective" : "sheltered",
+        "lessComparator" : "less",
+        "lessSuperlative" : "least",
+        "moreComparator" : "more",
+        "moreSuperlative" : "most",
+        "description" : "Number of housing units",
+        "defaultPluralForm" : "housing units",
+        "defaultSingularForm" : "housing unit",
+        "singularAndPluralForms" : "housing unit,house,home,housing units,houses,homes"
+      }
+    },
+    "bitsInHash" : 47,
+    "numericMin" : -2.147483648E9,
+    "numericMax" : 2.147483647E9,
+    "basicDataType" : "NUMERIC",
+    "icon" : "icons/housing-128x128-House.png",
+    "doesHashDegrade" : true,
+    "defaultLocaleDescription" : "Number of housing units",
+    "dependentDataAnalysisJobClass" : null,
+    "bitType" : "bitTotalHousingUnits"
+  },
+  "brokenDownEntityName" : {
+    "enus" : "housing units"
+  },
+  "basicDataType" : "PARTSOFAWHOLE",
+  "icon" : "icons/housing-128x128-House.png",
+  "doesHashDegrade" : true,
+  "defaultLocaleDescription" : "Housing unit status",
+  "dependentDataAnalysisJobClass" : null,
+  "bitType" : "bitHousingUnitStatus",
+  "bitsInHash" : 16
+}

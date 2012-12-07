@@ -1,0 +1,31 @@
+{
+  "beanName" : "bitPhone",
+  "uuid" : null,
+  "desirabilityOrientation" : "NEUTRAL",
+  "bitId" : 20,
+  "nounDescriptions" : {
+    "enus" : {
+      "countNoun" : true,
+      "singularForm" : "phone number,phone numbers,mobiles,phones",
+      "pluralForm" : "phone numbers,mobile numbers,phones,mobiles",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "Phone number",
+      "defaultPluralForm" : "phone numbers",
+      "defaultSingularForm" : "phone number",
+      "singularAndPluralForms" : "phone number,phone numbers,mobiles,phones,phone numbers,mobile numbers,phones,mobiles"
+    }
+  },
+  "abbreviations" : null,
+  "basicDataType" : "STRING",
+  "bitsInHash" : 16,
+  "icon" : "icons/atom.png",
+  "doesHashDegrade" : false,
+  "defaultLocaleDescription" : "Phone number",
+  "dependentDataAnalysisJobClass" : null,
+  "bitType" : "bitPhone"
+}

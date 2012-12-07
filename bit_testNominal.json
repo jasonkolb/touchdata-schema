@@ -1,0 +1,127 @@
+{
+  "beanName" : "testNominal",
+  "uuid" : null,
+  "desirabilityOrientation" : "NEUTRAL",
+  "bitId" : 60,
+  "nounDescriptions" : { },
+  "abbreviations" : null,
+  "dimensions" : {
+    "H0030002" : {
+      "indicatorsOrAbbreviations" : "H0030002",
+      "icon" : "icons/land_and_water-128x128-Water.png",
+      "desireabilityOrientation" : "NEUTRAL",
+      "nounDescriptions" : {
+        "enus" : {
+          "countNoun" : true,
+          "singularForm" : "one",
+          "pluralForm" : "ones",
+          "quantifier" : "number",
+          "adjective" : "one",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : "",
+          "defaultPluralForm" : "ones",
+          "defaultSingularForm" : "one",
+          "singularAndPluralForms" : "one,ones"
+        }
+      }
+    },
+    "H0030003" : {
+      "indicatorsOrAbbreviations" : "H0030003",
+      "icon" : "icons/land_and_water-128x128-Water.png",
+      "desireabilityOrientation" : "NEUTRAL",
+      "nounDescriptions" : {
+        "enus" : {
+          "countNoun" : true,
+          "singularForm" : "two",
+          "pluralForm" : "twos",
+          "quantifier" : "number",
+          "adjective" : "two",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : "",
+          "defaultPluralForm" : "twos",
+          "defaultSingularForm" : "two",
+          "singularAndPluralForms" : "two,twos"
+        }
+      }
+    },
+    "H0030004" : {
+      "indicatorsOrAbbreviations" : "H0030004",
+      "icon" : "icons/land_and_water-128x128-Water.png",
+      "desireabilityOrientation" : "NEUTRAL",
+      "nounDescriptions" : {
+        "enus" : {
+          "countNoun" : true,
+          "singularForm" : "three",
+          "pluralForm" : "threes",
+          "quantifier" : "number",
+          "adjective" : "three",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : "",
+          "defaultPluralForm" : "threes",
+          "defaultSingularForm" : "three",
+          "singularAndPluralForms" : "three,threes"
+        }
+      }
+    },
+    "H0030005" : {
+      "indicatorsOrAbbreviations" : "H0030005",
+      "icon" : "icons/land_and_water-128x128-Water.png",
+      "desireabilityOrientation" : "NEUTRAL",
+      "nounDescriptions" : {
+        "enus" : {
+          "countNoun" : true,
+          "singularForm" : "four",
+          "pluralForm" : "fours",
+          "quantifier" : "number",
+          "adjective" : "four",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : "",
+          "defaultPluralForm" : "fours",
+          "defaultSingularForm" : "four",
+          "singularAndPluralForms" : "four,fours"
+        }
+      }
+    },
+    "H0030006" : {
+      "indicatorsOrAbbreviations" : "H0030006",
+      "icon" : "icons/land_and_water-128x128-Water.png",
+      "desireabilityOrientation" : "NEUTRAL",
+      "nounDescriptions" : {
+        "enus" : {
+          "countNoun" : true,
+          "singularForm" : "five",
+          "pluralForm" : "fives",
+          "quantifier" : "number",
+          "adjective" : "five",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : "",
+          "defaultPluralForm" : "fives",
+          "defaultSingularForm" : "five",
+          "singularAndPluralForms" : "five,fives"
+        }
+      }
+    }
+  },
+  "basicDataType" : "STRING",
+  "bitsInHash" : 16,
+  "icon" : "icons/atom.png",
+  "doesHashDegrade" : false,
+  "defaultLocaleDescription" : null,
+  "dependentDataAnalysisJobClass" : null,
+  "bitType" : "testNominal"
+}

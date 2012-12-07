@@ -1,0 +1,30 @@
+{
+  "beanName" : "bitNotes",
+  "uuid" : null,
+  "desirabilityOrientation" : "NEUTRAL",
+  "bitId" : 5,
+  "nounDescriptions" : {
+    "enus" : {
+      "countNoun" : true,
+      "singularForm" : "note,comment",
+      "pluralForm" : "notes,comments",
+      "quantifier" : "amount",
+      "adjective" : "comment",
+      "lessComparator" : "fewer,briefer",
+      "lessSuperlative" : "fewest,briefest",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "Notes.",
+      "defaultPluralForm" : "notes",
+      "defaultSingularForm" : "note",
+      "singularAndPluralForms" : "note,comment,notes,comments"
+    }
+  },
+  "basicDataType" : "FREEFORM",
+  "icon" : "icons/atom.png",
+  "doesHashDegrade" : false,
+  "defaultLocaleDescription" : "Notes.",
+  "dependentDataAnalysisJobClass" : null,
+  "bitType" : "bitNotes",
+  "bitsInHash" : 16
+}

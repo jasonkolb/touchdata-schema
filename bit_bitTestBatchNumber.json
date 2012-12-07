@@ -1,0 +1,32 @@
+{
+  "beanName" : "bitTestBatchNumber",
+  "uuid" : null,
+  "desirabilityOrientation" : "NEUTRAL",
+  "bitId" : 2,
+  "nounDescriptions" : {
+    "enus" : {
+      "countNoun" : true,
+      "singularForm" : "test batch number",
+      "pluralForm" : "test batch numbers",
+      "quantifier" : "number",
+      "adjective" : "conversational",
+      "lessComparator" : "fewer",
+      "lessSuperlative" : "fewest",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "A test batch number",
+      "defaultPluralForm" : "test batch numbers",
+      "defaultSingularForm" : "test batch number",
+      "singularAndPluralForms" : "test batch number,test batch numbers"
+    }
+  },
+  "bitsInHash" : 47,
+  "numericMin" : -2.147483648E9,
+  "numericMax" : 2.147483647E9,
+  "basicDataType" : "NUMERIC",
+  "icon" : "icons/atom.png",
+  "doesHashDegrade" : false,
+  "defaultLocaleDescription" : "A test batch number",
+  "dependentDataAnalysisJobClass" : null,
+  "bitType" : "bitTestBatchNumber"
+}

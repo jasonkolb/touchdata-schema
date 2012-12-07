@@ -1,0 +1,31 @@
+{
+  "beanName" : "bitCity",
+  "uuid" : null,
+  "desirabilityOrientation" : "NEUTRAL",
+  "bitId" : 40,
+  "nounDescriptions" : {
+    "enus" : {
+      "countNoun" : true,
+      "singularForm" : "city,town,village",
+      "pluralForm" : "cities,towns,villages",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "City",
+      "defaultPluralForm" : "cities",
+      "defaultSingularForm" : "city",
+      "singularAndPluralForms" : "city,town,village,cities,towns,villages"
+    }
+  },
+  "abbreviations" : null,
+  "basicDataType" : "STRING",
+  "bitsInHash" : 16,
+  "icon" : "icons/atom.png",
+  "doesHashDegrade" : true,
+  "defaultLocaleDescription" : "City",
+  "dependentDataAnalysisJobClass" : null,
+  "bitType" : "bitCity"
+}

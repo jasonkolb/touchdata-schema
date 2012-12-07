@@ -1,0 +1,31 @@
+{
+  "beanName" : "bitModel",
+  "uuid" : null,
+  "desirabilityOrientation" : "NEUTRAL",
+  "bitId" : 53,
+  "nounDescriptions" : {
+    "enus" : {
+      "countNoun" : true,
+      "singularForm" : "model",
+      "pluralForm" : "models",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "Model type",
+      "defaultPluralForm" : "models",
+      "defaultSingularForm" : "model",
+      "singularAndPluralForms" : "model,models"
+    }
+  },
+  "abbreviations" : null,
+  "basicDataType" : "STRING",
+  "bitsInHash" : 16,
+  "icon" : "icons/atom.png",
+  "doesHashDegrade" : true,
+  "defaultLocaleDescription" : "Model type",
+  "dependentDataAnalysisJobClass" : null,
+  "bitType" : "bitModel"
+}

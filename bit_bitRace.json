@@ -1,0 +1,187 @@
+{
+  "beanName" : "bitRace",
+  "uuid" : null,
+  "desirabilityOrientation" : "NEUTRAL",
+  "bitId" : 22,
+  "nounDescriptions" : {
+    "enus" : {
+      "countNoun" : true,
+      "singularForm" : "race",
+      "pluralForm" : "races",
+      "quantifier" : "number",
+      "adjective" : "ethnic",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "The person's race",
+      "defaultPluralForm" : "races",
+      "defaultSingularForm" : "race",
+      "singularAndPluralForms" : "race,races"
+    }
+  },
+  "abbreviations" : null,
+  "dimensions" : {
+    "dpsf0080003" : {
+      "indicatorsOrAbbreviations" : "dpsf0080003",
+      "icon" : "icons/races-128x128-white.png",
+      "desireabilityOrientation" : "NEUTRAL",
+      "nounDescriptions" : {
+        "enus" : {
+          "countNoun" : true,
+          "singularForm" : "caucasian,white,white mixed",
+          "pluralForm" : "caucasians,whites",
+          "quantifier" : "number",
+          "adjective" : "white",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : "",
+          "defaultPluralForm" : "caucasians",
+          "defaultSingularForm" : "caucasian",
+          "singularAndPluralForms" : "caucasian,white,white mixed,caucasians,whites"
+        }
+      }
+    },
+    "dpsf0080004" : {
+      "indicatorsOrAbbreviations" : "dpsf0080004",
+      "icon" : "icons/races-128x128-black.png",
+      "desireabilityOrientation" : "NEUTRAL",
+      "nounDescriptions" : {
+        "enus" : {
+          "countNoun" : true,
+          "singularForm" : "african american,black,black mixed",
+          "pluralForm" : "african americans,blacks",
+          "quantifier" : "number",
+          "adjective" : "black",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : "",
+          "defaultPluralForm" : "african americans",
+          "defaultSingularForm" : "african american",
+          "singularAndPluralForms" : "african american,black,black mixed,african americans,blacks"
+        }
+      }
+    },
+    "dpsf0080005" : {
+      "indicatorsOrAbbreviations" : "dpsf0080005",
+      "icon" : "icons/races-128x128-American_Indian.png",
+      "desireabilityOrientation" : "NEUTRAL",
+      "nounDescriptions" : {
+        "enus" : {
+          "countNoun" : true,
+          "singularForm" : "american indian,native american,native alaskan,indian",
+          "pluralForm" : "american indians,native americans,native alaskans,indians",
+          "quantifier" : "number",
+          "adjective" : "american indian",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : "",
+          "defaultPluralForm" : "american indians",
+          "defaultSingularForm" : "american indian",
+          "singularAndPluralForms" : "american indian,native american,native alaskan,indian,american indians,native americans,native alaskans,indians"
+        }
+      }
+    },
+    "dpsf0080006" : {
+      "indicatorsOrAbbreviations" : "dpsf0080006",
+      "icon" : "icons/races-128x128-asian.png",
+      "desireabilityOrientation" : "NEUTRAL",
+      "nounDescriptions" : {
+        "enus" : {
+          "countNoun" : true,
+          "singularForm" : "asian",
+          "pluralForm" : "asians",
+          "quantifier" : "number",
+          "adjective" : "asian",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : "",
+          "defaultPluralForm" : "asians",
+          "defaultSingularForm" : "asian",
+          "singularAndPluralForms" : "asian,asians"
+        }
+      }
+    },
+    "dpsf0080014" : {
+      "indicatorsOrAbbreviations" : "dpsf0080014",
+      "icon" : "icons/races-128x128-hawaiian.png",
+      "desireabilityOrientation" : "NEUTRAL",
+      "nounDescriptions" : {
+        "enus" : {
+          "countNoun" : true,
+          "singularForm" : "native hawaiian,hawaiian",
+          "pluralForm" : "native hawaiians,hawaiians",
+          "quantifier" : "number",
+          "adjective" : "hawaiian",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : "",
+          "defaultPluralForm" : "native hawaiians",
+          "defaultSingularForm" : "native hawaiian",
+          "singularAndPluralForms" : "native hawaiian,hawaiian,native hawaiians,hawaiians"
+        }
+      }
+    },
+    "dpsf0080019" : {
+      "indicatorsOrAbbreviations" : "dpsf0080019",
+      "icon" : "icons/races-128x128-mixed.png",
+      "desireabilityOrientation" : "NEUTRAL",
+      "nounDescriptions" : {
+        "enus" : {
+          "countNoun" : true,
+          "singularForm" : "unspecified race",
+          "pluralForm" : "unspecified races",
+          "quantifier" : "number",
+          "adjective" : "unspecified or other",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : "",
+          "defaultPluralForm" : "unspecified races",
+          "defaultSingularForm" : "unspecified race",
+          "singularAndPluralForms" : "unspecified race,unspecified races"
+        }
+      }
+    },
+    "dpsf0080020" : {
+      "indicatorsOrAbbreviations" : "dpsf0080020",
+      "icon" : "icons/races-128x128-mixed.png",
+      "desireabilityOrientation" : "NEUTRAL",
+      "nounDescriptions" : {
+        "enus" : {
+          "countNoun" : true,
+          "singularForm" : "mixed race,mixed",
+          "pluralForm" : "mixed races,mixed",
+          "quantifier" : "number",
+          "adjective" : "mixed",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : "",
+          "defaultPluralForm" : "mixed races",
+          "defaultSingularForm" : "mixed race",
+          "singularAndPluralForms" : "mixed race,mixed,mixed races,mixed"
+        }
+      }
+    }
+  },
+  "basicDataType" : "STRING",
+  "bitsInHash" : 16,
+  "icon" : "icons/Population-128x128.png",
+  "doesHashDegrade" : false,
+  "defaultLocaleDescription" : "The person's race",
+  "dependentDataAnalysisJobClass" : null,
+  "bitType" : "bitRace"
+}

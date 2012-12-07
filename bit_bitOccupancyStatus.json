@@ -1,0 +1,77 @@
+{
+  "beanName" : "bitOccupancyStatus",
+  "uuid" : null,
+  "desirabilityOrientation" : "NEUTRAL",
+  "bitId" : 32,
+  "nounDescriptions" : {
+    "enus" : {
+      "countNoun" : true,
+      "singularForm" : "housing unit status",
+      "pluralForm" : "housing unit statuses",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "Housing unit status",
+      "defaultPluralForm" : "housing unit statuses",
+      "defaultSingularForm" : "housing unit status",
+      "singularAndPluralForms" : "housing unit status,housing unit statuses"
+    }
+  },
+  "abbreviations" : null,
+  "dimensions" : {
+    "H0030002" : {
+      "indicatorsOrAbbreviations" : "H0030002",
+      "icon" : "icons/housing-128x128-Occupied_house.png",
+      "desireabilityOrientation" : "MOREISBETTER",
+      "nounDescriptions" : {
+        "enus" : {
+          "countNoun" : true,
+          "singularForm" : "occupied house",
+          "pluralForm" : "occupied houses",
+          "quantifier" : "number",
+          "adjective" : "occupied",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : "",
+          "defaultPluralForm" : "occupied houses",
+          "defaultSingularForm" : "occupied house",
+          "singularAndPluralForms" : "occupied house,occupied houses"
+        }
+      }
+    },
+    "H0030003" : {
+      "indicatorsOrAbbreviations" : "H0030003",
+      "icon" : "icons/housing-128x128-Vacant_house.png",
+      "desireabilityOrientation" : "LESSISBETTER",
+      "nounDescriptions" : {
+        "enus" : {
+          "countNoun" : true,
+          "singularForm" : "vacant house",
+          "pluralForm" : "vacant houses",
+          "quantifier" : "number",
+          "adjective" : "vacant",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : "",
+          "defaultPluralForm" : "vacant houses",
+          "defaultSingularForm" : "vacant house",
+          "singularAndPluralForms" : "vacant house,vacant houses"
+        }
+      }
+    }
+  },
+  "basicDataType" : "STRING",
+  "bitsInHash" : 16,
+  "icon" : "icons/housing-128x128-House.png",
+  "doesHashDegrade" : false,
+  "defaultLocaleDescription" : "Housing unit status",
+  "dependentDataAnalysisJobClass" : null,
+  "bitType" : "bitOccupancyStatus"
+}

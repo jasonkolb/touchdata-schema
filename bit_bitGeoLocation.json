@@ -1,0 +1,32 @@
+{
+  "beanName" : "bitGeoLocation",
+  "uuid" : null,
+  "desirabilityOrientation" : "NEUTRAL",
+  "bitId" : 37,
+  "nounDescriptions" : {
+    "enus" : {
+      "countNoun" : false,
+      "singularForm" : "geolocation,geographic location,geographic coordinate",
+      "pluralForm" : "gelocations,geographic locations,geographic coordinates",
+      "quantifier" : "distance",
+      "adjective" : "located",
+      "lessComparator" : "close,closer",
+      "lessSuperlative" : "closest",
+      "moreComparator" : "far,farther",
+      "moreSuperlative" : "farthest",
+      "description" : "Geographic coordinate",
+      "defaultPluralForm" : "gelocations",
+      "defaultSingularForm" : "geolocation",
+      "singularAndPluralForms" : "geolocation,geographic location,geographic coordinate,gelocations,geographic locations,geographic coordinates"
+    }
+  },
+  "latitudeField" : "INTPTLAT",
+  "longitudeField" : "INTPTLON",
+  "basicDataType" : "STRING",
+  "dependentDataAnalysisJobClass" : null,
+  "icon" : "icons/atom.png",
+  "doesHashDegrade" : true,
+  "defaultLocaleDescription" : "Geographic coordinate",
+  "bitType" : "bitGeoLocation",
+  "bitsInHash" : 16
+}

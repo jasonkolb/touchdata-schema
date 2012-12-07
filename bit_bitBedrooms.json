@@ -1,0 +1,33 @@
+{
+  "beanName" : "bitBedrooms",
+  "uuid" : null,
+  "desirabilityOrientation" : "NEUTRAL",
+  "bitId" : 42,
+  "nounDescriptions" : {
+    "enus" : {
+      "countNoun" : true,
+      "singularForm" : "bedroom",
+      "pluralForm" : "bedrooms",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "Number of bedrooms",
+      "defaultPluralForm" : "bedrooms",
+      "defaultSingularForm" : "bedroom",
+      "singularAndPluralForms" : "bedroom,bedrooms"
+    }
+  },
+  "bitsInHash" : 12,
+  "decimalPrecision" : 2,
+  "numericMin" : 0.0,
+  "numericMax" : 9.0,
+  "basicDataType" : "DECIMAL",
+  "icon" : "icons/atom.png",
+  "doesHashDegrade" : true,
+  "defaultLocaleDescription" : "Number of bedrooms",
+  "dependentDataAnalysisJobClass" : null,
+  "bitType" : "bitBedrooms"
+}

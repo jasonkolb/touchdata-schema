@@ -1,0 +1,69 @@
+{
+  "beanName" : "bitRaceProfile",
+  "uuid" : null,
+  "desirabilityOrientation" : "NEUTRAL",
+  "bitId" : 29,
+  "nounDescriptions" : {
+    "enus" : {
+      "countNoun" : true,
+      "singularForm" : "race,race profile,race makeup,race breakdown",
+      "pluralForm" : "races,racial profiles,race profiles,race makeups,race breakdowns",
+      "quantifier" : "number",
+      "adjective" : "racial",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "This bit describes racial breakdown of the geographic level. A finer level of detail is available in the Census data but is not loaded in as of version 0.4.",
+      "defaultPluralForm" : "races",
+      "defaultSingularForm" : "race",
+      "singularAndPluralForms" : "race,race profile,race makeup,race breakdown,races,racial profiles,race profiles,race makeups,race breakdowns"
+    }
+  },
+  "aggregatedEntityName" : "personEntity",
+  "aggregatedEntityBitName" : "bitRace",
+  "minimumValue" : 0.0,
+  "maximumValue" : null,
+  "maximumValueBit" : {
+    "beanName" : "bitPopulationTotal",
+    "uuid" : null,
+    "desirabilityOrientation" : "NEUTRAL",
+    "bitId" : 25,
+    "nounDescriptions" : {
+      "enus" : {
+        "countNoun" : false,
+        "singularForm" : "people,population,population size,residents",
+        "pluralForm" : "populations",
+        "quantifier" : "",
+        "adjective" : "populated",
+        "lessComparator" : "fewer,depopulated",
+        "lessSuperlative" : "fewest,least populated",
+        "moreComparator" : "more,populated",
+        "moreSuperlative" : "most,most populated",
+        "description" : "Total population",
+        "defaultPluralForm" : "populations",
+        "defaultSingularForm" : "people",
+        "singularAndPluralForms" : "people,population,population size,residents,populations"
+      }
+    },
+    "bitsInHash" : 37,
+    "numericMin" : 0.0,
+    "numericMax" : 5.0E7,
+    "basicDataType" : "NUMERIC",
+    "icon" : "icons/Population-128x128.png",
+    "doesHashDegrade" : true,
+    "defaultLocaleDescription" : "Total population",
+    "dependentDataAnalysisJobClass" : null,
+    "bitType" : "bitPopulationTotal"
+  },
+  "brokenDownEntityName" : {
+    "enus" : "people"
+  },
+  "basicDataType" : "PARTSOFAWHOLE",
+  "icon" : "icons/Population-128x128.png",
+  "doesHashDegrade" : true,
+  "defaultLocaleDescription" : "This bit describes racial breakdown of the geographic level. A finer level of detail is available in the Census data but is not loaded in as of version 0.4.",
+  "dependentDataAnalysisJobClass" : null,
+  "bitType" : "bitRaceProfile",
+  "bitsInHash" : 16
+}

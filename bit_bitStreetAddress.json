@@ -1,0 +1,31 @@
+{
+  "beanName" : "bitStreetAddress",
+  "uuid" : null,
+  "desirabilityOrientation" : "NEUTRAL",
+  "bitId" : 47,
+  "nounDescriptions" : {
+    "enus" : {
+      "countNoun" : true,
+      "singularForm" : "street address,address",
+      "pluralForm" : "street addresses,addresses",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "Street address",
+      "defaultPluralForm" : "street addresses",
+      "defaultSingularForm" : "street address",
+      "singularAndPluralForms" : "street address,address,street addresses,addresses"
+    }
+  },
+  "abbreviations" : null,
+  "basicDataType" : "STRING",
+  "bitsInHash" : 16,
+  "icon" : "icons/atom.png",
+  "doesHashDegrade" : false,
+  "defaultLocaleDescription" : "Street address",
+  "dependentDataAnalysisJobClass" : null,
+  "bitType" : "bitStreetAddress"
+}

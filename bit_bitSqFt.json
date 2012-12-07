@@ -1,0 +1,32 @@
+{
+  "beanName" : "bitSqFt",
+  "uuid" : null,
+  "desirabilityOrientation" : "NEUTRAL",
+  "bitId" : 55,
+  "nounDescriptions" : {
+    "enus" : {
+      "countNoun" : true,
+      "singularForm" : "square foot",
+      "pluralForm" : "square feet",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "Square feet",
+      "defaultPluralForm" : "square feet",
+      "defaultSingularForm" : "square foot",
+      "singularAndPluralForms" : "square foot,square feet"
+    }
+  },
+  "bitsInHash" : 19,
+  "numericMin" : 0.0,
+  "numericMax" : 10000.0,
+  "basicDataType" : "NUMERIC",
+  "icon" : "icons/atom.png",
+  "doesHashDegrade" : true,
+  "defaultLocaleDescription" : "Square feet",
+  "dependentDataAnalysisJobClass" : null,
+  "bitType" : "bitSqFt"
+}

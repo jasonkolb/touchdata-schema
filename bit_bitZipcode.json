@@ -1,0 +1,31 @@
+{
+  "beanName" : "bitZipcode",
+  "uuid" : null,
+  "desirabilityOrientation" : "NEUTRAL",
+  "bitId" : 58,
+  "nounDescriptions" : {
+    "enus" : {
+      "countNoun" : true,
+      "singularForm" : "zip code,postal code",
+      "pluralForm" : "zip codes,postal codes",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "Zip or postal code",
+      "defaultPluralForm" : "zip codes",
+      "defaultSingularForm" : "zip code",
+      "singularAndPluralForms" : "zip code,postal code,zip codes,postal codes"
+    }
+  },
+  "abbreviations" : null,
+  "basicDataType" : "STRING",
+  "bitsInHash" : 16,
+  "icon" : "icons/atom.png",
+  "doesHashDegrade" : false,
+  "defaultLocaleDescription" : "Zip or postal code",
+  "dependentDataAnalysisJobClass" : null,
+  "bitType" : "bitZipcode"
+}

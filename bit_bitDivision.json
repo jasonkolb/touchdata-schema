@@ -1,0 +1,31 @@
+{
+  "beanName" : "bitDivision",
+  "uuid" : null,
+  "desirabilityOrientation" : "NEUTRAL",
+  "bitId" : 35,
+  "nounDescriptions" : {
+    "enus" : {
+      "countNoun" : true,
+      "singularForm" : "geographic division",
+      "pluralForm" : "geographic divisions",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "Geographic division",
+      "defaultPluralForm" : "geographic divisions",
+      "defaultSingularForm" : "geographic division",
+      "singularAndPluralForms" : "geographic division,geographic divisions"
+    }
+  },
+  "abbreviations" : null,
+  "basicDataType" : "STRING",
+  "bitsInHash" : 16,
+  "icon" : "icons/atom.png",
+  "doesHashDegrade" : false,
+  "defaultLocaleDescription" : "Geographic division",
+  "dependentDataAnalysisJobClass" : null,
+  "bitType" : "bitDivision"
+}

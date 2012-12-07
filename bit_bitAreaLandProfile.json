@@ -1,0 +1,38 @@
+{
+  "beanName" : "bitAreaLandProfile",
+  "uuid" : null,
+  "desirabilityOrientation" : "NEUTRAL",
+  "bitId" : 31,
+  "nounDescriptions" : {
+    "enus" : {
+      "countNoun" : false,
+      "singularForm" : "land,land area,land makeup,land profile",
+      "pluralForm" : "land areas,land profiles,land makeup",
+      "quantifier" : "amount",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "Describes the amount of land area as opposed to water area in a place",
+      "defaultPluralForm" : "land areas",
+      "defaultSingularForm" : "land",
+      "singularAndPluralForms" : "land,land area,land makeup,land profile,land areas,land profiles,land makeup"
+    }
+  },
+  "aggregatedEntityName" : "placeEntity",
+  "aggregatedEntityBitName" : "bitLandOrWater",
+  "minimumValue" : 0.0,
+  "maximumValue" : null,
+  "maximumValueBit" : null,
+  "brokenDownEntityName" : {
+    "enus" : "areas"
+  },
+  "basicDataType" : "PARTSOFAWHOLE",
+  "icon" : "icons/land_and_water-128x128-Land_and_water.png",
+  "doesHashDegrade" : true,
+  "defaultLocaleDescription" : "Describes the amount of land area as opposed to water area in a place",
+  "dependentDataAnalysisJobClass" : null,
+  "bitType" : "bitAreaLandProfile",
+  "bitsInHash" : 16
+}

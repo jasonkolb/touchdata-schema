@@ -1,0 +1,33 @@
+{
+  "beanName" : "bitAssessedValue",
+  "uuid" : null,
+  "desirabilityOrientation" : "NEUTRAL",
+  "bitId" : 49,
+  "nounDescriptions" : {
+    "enus" : {
+      "countNoun" : false,
+      "singularForm" : "assessed values",
+      "pluralForm" : "assessed values",
+      "quantifier" : "amount",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "Assessed value",
+      "defaultPluralForm" : "assessed values",
+      "defaultSingularForm" : "assessed values",
+      "singularAndPluralForms" : "assessed values,assessed values"
+    }
+  },
+  "bitsInHash" : 66,
+  "decimalPrecision" : 2,
+  "numericMin" : 0.0,
+  "numericMax" : 200000.0,
+  "basicDataType" : "DECIMAL",
+  "icon" : "icons/atom.png",
+  "doesHashDegrade" : true,
+  "defaultLocaleDescription" : "Assessed value",
+  "dependentDataAnalysisJobClass" : null,
+  "bitType" : "bitAssessedValue"
+}

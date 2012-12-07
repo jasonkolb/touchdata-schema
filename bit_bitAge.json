@@ -1,0 +1,32 @@
+{
+  "beanName" : "bitAge",
+  "uuid" : null,
+  "desirabilityOrientation" : "NEUTRAL",
+  "bitId" : 9,
+  "nounDescriptions" : {
+    "enus" : {
+      "countNoun" : false,
+      "singularForm" : "age",
+      "pluralForm" : "ages",
+      "quantifier" : "amount",
+      "adjective" : "age",
+      "lessComparator" : "young",
+      "lessSuperlative" : "youngest",
+      "moreComparator" : "old",
+      "moreSuperlative" : "oldest",
+      "description" : "Age",
+      "defaultPluralForm" : "ages",
+      "defaultSingularForm" : "age",
+      "singularAndPluralForms" : "age,ages"
+    }
+  },
+  "bitsInHash" : 10,
+  "numericMin" : 0.0,
+  "numericMax" : 150.0,
+  "basicDataType" : "NUMERIC",
+  "icon" : "icons/atom.png",
+  "doesHashDegrade" : true,
+  "defaultLocaleDescription" : "Age",
+  "dependentDataAnalysisJobClass" : null,
+  "bitType" : "bitAge"
+}

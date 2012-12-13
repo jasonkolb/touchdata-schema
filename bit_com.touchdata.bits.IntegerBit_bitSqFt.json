@@ -1,0 +1,26 @@
+{
+  "com.touchdata.bits.IntegerBit" : {
+    "beanName" : "bitSqFt",
+    "uuid" : null,
+    "desirabilityOrientation" : "NEUTRAL",
+    "bitId" : 53,
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : true,
+      "singularForm" : "square foot",
+      "pluralForm" : "square feet",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "Square feet"
+    } ],
+    "numericMin" : 0.0,
+    "numericMax" : 10000.0,
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

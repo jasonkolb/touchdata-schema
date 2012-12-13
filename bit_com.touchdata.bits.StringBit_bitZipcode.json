@@ -1,0 +1,25 @@
+{
+  "com.touchdata.bits.StringBit" : {
+    "beanName" : "bitZipcode",
+    "uuid" : null,
+    "desirabilityOrientation" : "NEUTRAL",
+    "bitId" : 56,
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : true,
+      "singularForm" : "zip code,postal code",
+      "pluralForm" : "zip codes,postal codes",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "Zip or postal code"
+    } ],
+    "abbreviations" : null,
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

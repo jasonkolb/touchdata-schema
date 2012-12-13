@@ -1,0 +1,26 @@
+{
+  "com.touchdata.bits.IntegerBit" : {
+    "beanName" : "bitDupeId",
+    "uuid" : null,
+    "desirabilityOrientation" : "NEUTRAL",
+    "bitId" : 4,
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : true,
+      "singularForm" : "duplicate ID",
+      "pluralForm" : "duplicate IDs",
+      "quantifier" : "number",
+      "adjective" : "duplicate",
+      "lessComparator" : "fewer",
+      "lessSuperlative" : "fewest",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "The record number of the duplicate"
+    } ],
+    "numericMin" : -2.147483648E9,
+    "numericMax" : 2.147483647E9,
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

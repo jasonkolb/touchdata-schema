@@ -1,0 +1,26 @@
+{
+  "com.touchdata.bits.StringConcatenatorBit" : {
+    "beanName" : "bitFullName",
+    "uuid" : null,
+    "desirabilityOrientation" : "NEUTRAL",
+    "bitId" : 16,
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : true,
+      "singularForm" : "full name",
+      "pluralForm" : "full names",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "Full name"
+    } ],
+    "abbreviations" : null,
+    "resultString" : "[bitFirstName] [bitLastName]",
+    "dependentDataAnalysisJobClass" : null,
+    "icon" : "icons/atom.png"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "com.touchdata.bits.DateTimeBit" : {
+    "beanName" : "bitDateCreated",
+    "uuid" : null,
+    "desirabilityOrientation" : "NEUTRAL",
+    "bitId" : 85,
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "created time",
+      "pluralForm" : "creation times",
+      "quantifier" : "number",
+      "adjective" : "large",
+      "lessComparator" : "fewer",
+      "lessSuperlative" : "fewest",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "A place"
+    } ],
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

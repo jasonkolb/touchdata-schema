@@ -1,0 +1,32 @@
+{
+  "com.touchdata.bits.NominalRollupBit" : {
+    "beanName" : "bitAreaLandProfile",
+    "uuid" : null,
+    "desirabilityOrientation" : "NEUTRAL",
+    "bitId" : 29,
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "land,land area,land makeup,land profile",
+      "pluralForm" : "land areas,land profiles,land makeup",
+      "quantifier" : "amount",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "Describes the amount of land area as opposed to water area in a place"
+    } ],
+    "aggregatedEntityName" : "placeEntity",
+    "aggregatedEntityBitName" : "bitLandOrWater",
+    "minimumValue" : 0.0,
+    "maximumValue" : null,
+    "maximumValueBit" : null,
+    "brokenDownEntityName" : {
+      "enus" : "areas"
+    },
+    "icon" : "icons/land_and_water-128x128-Land_and_water.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

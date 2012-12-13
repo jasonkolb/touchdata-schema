@@ -1,0 +1,22 @@
+{
+  "com.touchdata.entity.impl.PlaceEntity" : {
+    "beanName" : "placeEntity",
+    "dupeDetectionStrategy" : "cost",
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "countNoun" : true,
+      "singularForm" : "place,location",
+      "pluralForm" : "places,locations",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "fewer",
+      "lessSuperlative" : "fewest",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "A place"
+    } ],
+    "sizeBit" : "bitPopulationTotal",
+    "bits" : [ "bitSubtype", "bitLogicalRecordNumber", "bitPopulationTotal", "bitPopulationAgeDistribution", "bitDivision", "bitAreaLandProfile", "bitGeoLocation", "bitCongressionalDistrict", "bitTotalHousingUnits", "bitHousingUnitStatus", "bitRaceProfile", "bitPopulationIncomeDistribution", "bitEducationProfile", "bitPIN", "bitCounty", "bitCity", "bitState", "bitCountry", "bitBedrooms", "bitBathrooms", "bitSubdivision", "bitStreetName", "bitStreetNumber", "bitStreetAddress", "bitAssessedValue", "bitGradeschool", "bitHighschool", "bitSchoolDistrict", "bitDupeId", "bitNotes", "bitNotesSentiment", "bitModel", "bitShortSale", "bitSqFt", "bitYrBlt", "bitTownship", "bitZipcode", "bitPropertyType", "bitOccupancyStatus", "bitLandOrWater", "bitName", "bitImgUrl" ],
+    "subTypes" : [ "Name: bitStreetAddress\nNumeric ID: 45@@0", "Name: bitSubdivision\nNumeric ID: 42@@1", "Name: bitCity\nNumeric ID: 38@@2", "Name: bitCounty\nNumeric ID: 37@@3", "Name: bitState\nNumeric ID: 39@@4", "Name: bitCountry\nNumeric ID: 46@@5" ]
+  }
+}

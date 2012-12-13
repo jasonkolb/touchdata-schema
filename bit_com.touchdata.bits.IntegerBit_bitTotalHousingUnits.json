@@ -1,0 +1,26 @@
+{
+  "com.touchdata.bits.IntegerBit" : {
+    "beanName" : "bitTotalHousingUnits",
+    "uuid" : null,
+    "desirabilityOrientation" : "NEUTRAL",
+    "bitId" : 34,
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : true,
+      "singularForm" : "housing unit,house,home",
+      "pluralForm" : "housing units,houses,homes",
+      "quantifier" : "number",
+      "adjective" : "sheltered",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "Number of housing units"
+    } ],
+    "numericMin" : -2.147483648E9,
+    "numericMax" : 2.147483647E9,
+    "icon" : "icons/housing-128x128-House.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

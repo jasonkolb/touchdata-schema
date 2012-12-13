@@ -1,0 +1,24 @@
+{
+  "com.touchdata.bits.BooleanBit" : {
+    "beanName" : "bitHintDupe",
+    "uuid" : null,
+    "desirabilityOrientation" : "NEUTRAL",
+    "bitId" : 3,
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : true,
+      "singularForm" : "duplicate flag",
+      "pluralForm" : "duplicate flags",
+      "quantifier" : "number",
+      "adjective" : "duplicate",
+      "lessComparator" : "fewer",
+      "lessSuperlative" : "fewest",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "A flag indicating the record is a duplicate."
+    } ],
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

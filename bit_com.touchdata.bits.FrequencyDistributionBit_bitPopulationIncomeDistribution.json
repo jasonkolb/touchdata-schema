@@ -1,0 +1,68 @@
+{
+  "com.touchdata.bits.FrequencyDistributionBit" : {
+    "beanName" : "bitPopulationIncomeDistribution",
+    "uuid" : null,
+    "desirabilityOrientation" : "MOREISBETTER",
+    "bitId" : 25,
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "income,income breakdown,wealth,wealth breakdown",
+      "pluralForm" : "incomes,salaries",
+      "quantifier" : "amount",
+      "adjective" : "",
+      "lessComparator" : "less,poor,destitute,low income,impoverished",
+      "lessSuperlative" : "least,poorest,most destitute,impoverished,lowest income",
+      "moreComparator" : "more,wealthy,rich,high income",
+      "moreSuperlative" : "most,wealthiest,richest,highest income",
+      "description" : "Income distribution"
+    } ],
+    "aggregatedEntityName" : "personEntity",
+    "aggregatedEntityBitName" : "bitIncome",
+    "buckets" : {
+      "0" : "No income",
+      "1" : "$1 to $9K or loss",
+      "2" : "$10K to $15K",
+      "3" : "$15K to $25K",
+      "4" : "$25K to $35K",
+      "5" : "$35K to $49K",
+      "6" : "$50K to $65K",
+      "7" : "$65K to $75K",
+      "8" : "$75K or more"
+    },
+    "bucketRanges" : {
+      "0" : "0-0",
+      "1" : "1-9999",
+      "2" : "10000-14999",
+      "3" : "15000-24999",
+      "4" : "25000-34999",
+      "5" : "35000-49999",
+      "6" : "50000-64999",
+      "7" : "65000-74999",
+      "8" : "75000-84999"
+    },
+    "icons" : {
+      "0" : "",
+      "1" : "icons/coins_1.png",
+      "2" : "icons/coins_2.png",
+      "3" : "icons/coins_3.png",
+      "4" : "icons/coins_4.png",
+      "5" : "icons/coins_5.png",
+      "6" : "icons/coins_6.png",
+      "7" : "icons/coins_7.png",
+      "8" : "icons/coins_8.png"
+    },
+    "lowRangeNames" : {
+      "enus" : "poorest,poor,impoverished,low income"
+    },
+    "highRangeNames" : {
+      "enus" : "wealthiest,richest,rich,wealthy,high income"
+    },
+    "representedPropertyName" : {
+      "enus" : "income"
+    },
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

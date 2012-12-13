@@ -1,0 +1,26 @@
+{
+  "com.touchdata.bits.IntegerBit" : {
+    "beanName" : "bitTestBatchNumber",
+    "uuid" : null,
+    "desirabilityOrientation" : "NEUTRAL",
+    "bitId" : 2,
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : true,
+      "singularForm" : "test batch number",
+      "pluralForm" : "test batch numbers",
+      "quantifier" : "number",
+      "adjective" : "conversational",
+      "lessComparator" : "fewer",
+      "lessSuperlative" : "fewest",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "A test batch number"
+    } ],
+    "numericMin" : -2.147483648E9,
+    "numericMax" : 2.147483647E9,
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "com.touchdata.bits.NominalRollupBit" : {
+    "beanName" : "testPartsOfAWholeBit",
+    "uuid" : null,
+    "desirabilityOrientation" : "NEUTRAL",
+    "bitId" : 59,
+    "nounDescriptions" : [ ],
+    "aggregatedEntityName" : "personEntity",
+    "aggregatedEntityBitName" : "testNominal",
+    "minimumValue" : 0.0,
+    "maximumValue" : null,
+    "maximumValueBit" : null,
+    "brokenDownEntityName" : null,
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

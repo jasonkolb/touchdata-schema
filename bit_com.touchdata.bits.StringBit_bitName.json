@@ -1,0 +1,25 @@
+{
+  "com.touchdata.bits.StringBit" : {
+    "beanName" : "bitName",
+    "uuid" : null,
+    "desirabilityOrientation" : "NEUTRAL",
+    "bitId" : 7,
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : true,
+      "singularForm" : "name",
+      "pluralForm" : "names",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "",
+      "lessSuperlative" : "",
+      "moreComparator" : "",
+      "moreSuperlative" : "",
+      "description" : "Entity name."
+    } ],
+    "abbreviations" : null,
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

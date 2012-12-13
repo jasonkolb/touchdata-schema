@@ -1,0 +1,27 @@
+{
+  "com.touchdata.bits.DecimalBit" : {
+    "beanName" : "bitAssessedValue",
+    "uuid" : null,
+    "desirabilityOrientation" : "NEUTRAL",
+    "bitId" : 47,
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "assessed values",
+      "pluralForm" : "assessed values",
+      "quantifier" : "amount",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "Assessed value"
+    } ],
+    "decimalPrecision" : 2,
+    "numericMin" : 0.0,
+    "numericMax" : 200000.0,
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

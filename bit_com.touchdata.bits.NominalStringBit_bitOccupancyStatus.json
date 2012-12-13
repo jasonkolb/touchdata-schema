@@ -1,0 +1,65 @@
+{
+  "com.touchdata.bits.NominalStringBit" : {
+    "beanName" : "bitOccupancyStatus",
+    "uuid" : null,
+    "desirabilityOrientation" : "NEUTRAL",
+    "bitId" : 30,
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : true,
+      "singularForm" : "housing unit status",
+      "pluralForm" : "housing unit statuses",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "Housing unit status"
+    } ],
+    "abbreviations" : null,
+    "dimensions" : {
+      "H0030002" : {
+        "indicatorsOrAbbreviations" : "H0030002",
+        "icon" : "icons/housing-128x128-Occupied_house.png",
+        "desireabilityOrientation" : "MOREISBETTER",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "occupied house",
+          "pluralForm" : "occupied houses",
+          "quantifier" : "number",
+          "adjective" : "occupied",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "H0030003" : {
+        "indicatorsOrAbbreviations" : "H0030003",
+        "icon" : "icons/housing-128x128-Vacant_house.png",
+        "desireabilityOrientation" : "LESSISBETTER",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "vacant house",
+          "pluralForm" : "vacant houses",
+          "quantifier" : "number",
+          "adjective" : "vacant",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      }
+    },
+    "icon" : "icons/housing-128x128-House.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

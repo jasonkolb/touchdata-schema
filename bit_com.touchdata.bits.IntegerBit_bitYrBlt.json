@@ -1,0 +1,26 @@
+{
+  "com.touchdata.bits.IntegerBit" : {
+    "beanName" : "bitYrBlt",
+    "uuid" : null,
+    "desirabilityOrientation" : "NEUTRAL",
+    "bitId" : 54,
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : true,
+      "singularForm" : "year built",
+      "pluralForm" : "years built",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "Year built"
+    } ],
+    "numericMin" : 1800.0,
+    "numericMax" : 2200.0,
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "com.touchdata.bits.NominalStringBit" : {
+    "beanName" : "bitLandOrWater",
+    "uuid" : null,
+    "desirabilityOrientation" : "NEUTRAL",
+    "bitId" : 28,
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "land or water",
+      "pluralForm" : "land or water",
+      "quantifier" : "land or water",
+      "adjective" : "land or water",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "The place's land or water association"
+    } ],
+    "abbreviations" : null,
+    "dimensions" : {
+      "AREAWATR" : {
+        "indicatorsOrAbbreviations" : "AREAWATR",
+        "icon" : "icons/land_and_water-128x128-Water.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "water area",
+          "pluralForm" : "water area,water in square meters",
+          "quantifier" : "number",
+          "adjective" : "covered by water",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "AREALAND" : {
+        "indicatorsOrAbbreviations" : "AREALAND",
+        "icon" : "icons/land_and_water-128x128-Land_and_water.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "land area,land area in square meters",
+          "pluralForm" : "land area,land area in square meters",
+          "quantifier" : "number",
+          "adjective" : "land",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      }
+    },
+    "icon" : "icons/Population-128x128.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

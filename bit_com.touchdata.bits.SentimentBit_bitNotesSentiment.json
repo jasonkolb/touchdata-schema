@@ -1,0 +1,26 @@
+{
+  "com.touchdata.bits.SentimentBit" : {
+    "beanName" : "bitNotesSentiment",
+    "uuid" : null,
+    "desirabilityOrientation" : "NEUTRAL",
+    "bitId" : 6,
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "sentiment,feeling",
+      "pluralForm" : "sentiments,feelings",
+      "quantifier" : "amount",
+      "adjective" : "duplicate",
+      "lessComparator" : "negative",
+      "lessSuperlative" : "most negative",
+      "moreComparator" : "positive",
+      "moreSuperlative" : "most positive",
+      "description" : "Sentiment."
+    } ],
+    "numericMin" : 0.0,
+    "numericMax" : 10.0,
+    "dependentDataAnalysisJobClass" : "com.touchdata.analysis.BitSentimentAnalysisJob",
+    "icon" : "icons/atom.png"
+  }
+}

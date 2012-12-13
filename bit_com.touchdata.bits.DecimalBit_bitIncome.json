@@ -1,0 +1,27 @@
+{
+  "com.touchdata.bits.DecimalBit" : {
+    "beanName" : "bitIncome",
+    "uuid" : null,
+    "desirabilityOrientation" : "NEUTRAL",
+    "bitId" : 10,
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "income,salary,money",
+      "pluralForm" : "incomes,salaries",
+      "quantifier" : "amount",
+      "adjective" : "wealthy",
+      "lessComparator" : "poor,destitute,low income",
+      "lessSuperlative" : "poorest,most destitute",
+      "moreComparator" : "wealthy,rich",
+      "moreSuperlative" : "wealthiest,richest",
+      "description" : "Income"
+    } ],
+    "decimalPrecision" : 2,
+    "numericMin" : 0.0,
+    "numericMax" : 3000000.0,
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

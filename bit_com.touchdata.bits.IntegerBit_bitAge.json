@@ -1,0 +1,26 @@
+{
+  "com.touchdata.bits.IntegerBit" : {
+    "beanName" : "bitAge",
+    "uuid" : null,
+    "desirabilityOrientation" : "NEUTRAL",
+    "bitId" : 9,
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "age",
+      "pluralForm" : "ages",
+      "quantifier" : "amount",
+      "adjective" : "age",
+      "lessComparator" : "young",
+      "lessSuperlative" : "youngest",
+      "moreComparator" : "old",
+      "moreSuperlative" : "oldest",
+      "description" : "Age"
+    } ],
+    "numericMin" : 0.0,
+    "numericMax" : 150.0,
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

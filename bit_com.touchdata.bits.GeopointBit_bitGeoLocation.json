@@ -1,0 +1,26 @@
+{
+  "com.touchdata.bits.GeopointBit" : {
+    "beanName" : "bitGeoLocation",
+    "uuid" : null,
+    "desirabilityOrientation" : "NEUTRAL",
+    "bitId" : 35,
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "geolocation,geographic location,geographic coordinate",
+      "pluralForm" : "gelocations,geographic locations,geographic coordinates",
+      "quantifier" : "distance",
+      "adjective" : "located",
+      "lessComparator" : "close,closer",
+      "lessSuperlative" : "closest",
+      "moreComparator" : "far,farther",
+      "moreSuperlative" : "farthest",
+      "description" : "Geographic coordinate"
+    } ],
+    "latitudeField" : "INTPTLAT",
+    "longitudeField" : "INTPTLON",
+    "dependentDataAnalysisJobClass" : null,
+    "icon" : "icons/atom.png"
+  }
+}

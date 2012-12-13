@@ -1,0 +1,24 @@
+{
+  "com.touchdata.bits.FreeformBit" : {
+    "beanName" : "bitNotes",
+    "uuid" : null,
+    "desirabilityOrientation" : "NEUTRAL",
+    "bitId" : 5,
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : true,
+      "singularForm" : "note,comment",
+      "pluralForm" : "notes,comments",
+      "quantifier" : "amount",
+      "adjective" : "comment",
+      "lessComparator" : "fewer,briefer",
+      "lessSuperlative" : "fewest,briefest",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "Notes."
+    } ],
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "com.touchdata.bits.IntegerBit" : {
+    "beanName" : "bitPopulationTotal",
+    "uuid" : null,
+    "desirabilityOrientation" : "NEUTRAL",
+    "bitId" : 23,
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "people,population,population size,residents",
+      "pluralForm" : "populations",
+      "quantifier" : "",
+      "adjective" : "populated",
+      "lessComparator" : "fewer,depopulated",
+      "lessSuperlative" : "fewest,least populated",
+      "moreComparator" : "more,populated",
+      "moreSuperlative" : "most,most populated",
+      "description" : "Total population"
+    } ],
+    "numericMin" : 0.0,
+    "numericMax" : 5.0E7,
+    "icon" : "icons/Population-128x128.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

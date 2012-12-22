@@ -4,6 +4,7 @@
     "uuid" : null,
     "desirabilityOrientation" : "NEUTRAL",
     "bitId" : 43,
+    "hashAlgorithms" : [ "PHONETIC" ],    
     "nounDescriptions" : [ {
       "localeCode" : "enus",
       "localeCode" : "enus",

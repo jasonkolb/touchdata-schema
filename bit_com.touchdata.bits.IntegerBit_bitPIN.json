@@ -1,9 +1,11 @@
 {
   "com.touchdata.bits.IntegerBit" : {
     "beanName" : "bitPIN",
+    "securityAccessList" : [ ],
     "uuid" : null,
     "desirabilityOrientation" : "NEUTRAL",
-    "bitId" : 1,
+    "bitId" : 17,
+    "stringFormat" : null,
     "nounDescriptions" : [ {
       "localeCode" : "enus",
       "localeCode" : "enus",

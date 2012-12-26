@@ -1,0 +1,21 @@
+{
+  "com.touchdata.entity.impl.DataDrivenEntity" : {
+    "beanName" : "interactionEntity",
+    "dupeDetectionStrategy" : "cost",
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "countNoun" : true,
+      "singularForm" : "interaction,customer request,customer contact,contact",
+      "pluralForm" : "interactions,customer requests,customer contacts,contacts",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "An interaction"
+    } ],
+      "bits" : [ "bitDateCreated", "bitInteractionReferenceNumber", "bitDuration", "bitCustomerAccountNumber", "bitDomainName", "bitCustomerGrade", "bitInteractionStatus", "bitInteractionChannel", "bitInteractionResult", "bitInteractionEventType", "bitInteractionEventResult", "bitBusinessUnitName", "bitContactCenterName", "bitInteractionQueueName", "bitCreditLimit", "bitSalesChannel", "bitMarketSegment", "bitSalesDivision" ],
+    "subTypes" : [ ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "com.touchdata.bits.NominalStringBit" : {
+    "beanName" : "bitInteractionChannel",
+    "desirabilityOrientation" : "NEUTRAL",
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "interaction channel,contact channel",
+      "pluralForm" : "interaction channels,contact channels",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "fewer",
+      "lessSuperlative" : "fewest",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "customer interaction type"
+    } ],
+    "dimensions" : {
+      "closed" : {
+        "indicatorsOrAbbreviations" : "inbound",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : false,
+          "singularForm" : "inbound call",
+          "pluralForm" : "inbound calls",
+          "quantifier" : "number",
+          "adjective" : "inbound",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : "inbound call"
+        } ]
+      }
+    },
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

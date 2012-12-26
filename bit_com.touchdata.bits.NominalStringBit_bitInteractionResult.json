@@ -1,0 +1,41 @@
+{
+  "com.touchdata.bits.NominalStringBit" : {
+    "beanName" : "bitInteractionResult",
+    "desirabilityOrientation" : "NEUTRAL",
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "interaction result,contact result",
+      "pluralForm" : "interaction results,contact results",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "fewer",
+      "lessSuperlative" : "fewest",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "customer interaction result"
+    } ],
+    "dimensions" : {
+      "closed" : {
+        "indicatorsOrAbbreviations" : "sale",
+        "desireabilityOrientation" : "MOREISBETTER",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : false,
+          "singularForm" : "sale",
+          "pluralForm" : "sales",
+          "quantifier" : "number",
+          "adjective" : "sale",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : "sale"
+        } ]
+      }
+    },
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

@@ -1,25 +1,23 @@
 {
-  "com.touchdata.bits.DecimalBit" : {
-    "beanName" : "bitBedrooms",
+  "com.touchdata.bits.IntegerBit" : {
+    "beanName" : "bitDuration",
     "desirabilityOrientation" : "NEUTRAL",
     "hashAlgorithms" : [ "NUMERIC_MIN_TO_MAX" ],    
     "nounDescriptions" : [ {
       "localeCode" : "enus",
-      "localeCode" : "enus",
-      "countNoun" : true,
-      "singularForm" : "bedroom",
-      "pluralForm" : "bedrooms",
-      "quantifier" : "number",
+      "countNoun" : false,
+      "singularForm" : "duration,length",
+      "pluralForm" : "durations,lengths",
+      "quantifier" : "amount",
       "adjective" : "",
       "lessComparator" : "less",
       "lessSuperlative" : "least",
       "moreComparator" : "more",
       "moreSuperlative" : "most",
-      "description" : "Number of bedrooms"
+      "description" : "contact duration in minutes.seconds"
     } ],
-    "decimalPrecision" : 2,
     "numericMin" : 0.0,
-    "numericMax" : 9.0,
+    "numericMax" : 10000.0,
     "icon" : "icons/atom.png",
     "dependentDataAnalysisJobClass" : null
   }

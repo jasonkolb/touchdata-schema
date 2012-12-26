@@ -1,0 +1,30 @@
+{
+  "com.touchdata.bits.NominalRollupBit" : {
+    "aggregatedEntityName" : "interactionEntity",
+    "aggregatedEntityBitName" : "bitContactCenterName",
+    "beanName" : "bitContactCenterNameDistribution",
+    "desirabilityOrientation" : "NEUTRAL",
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "contact center distribution",
+      "pluralForm" : "contact center distributions",
+      "quantifier" : "amount",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "This bit describes a distribution of contact centers"
+    } ],
+    "minimumValue" : 0.0,
+    "maximumValue" : null,
+    "maximumValueBit" : null,
+    "brokenDownEntityName" : {
+      "enus" : "contact centers"
+    },
+    "icon" : "icons/Education-128x128-Education.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

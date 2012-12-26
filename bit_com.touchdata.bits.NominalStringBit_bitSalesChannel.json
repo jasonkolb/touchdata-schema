@@ -1,20 +1,19 @@
 {
-  "com.touchdata.bits.BooleanBit" : {
-    "beanName" : "bitHintDupe",
+  "com.touchdata.bits.NominalStringBit" : {
+    "beanName" : "bitSalesChannel",
     "desirabilityOrientation" : "NEUTRAL",
     "nounDescriptions" : [ {
       "localeCode" : "enus",
-      "localeCode" : "enus",
-      "countNoun" : true,
-      "singularForm" : "duplicate flag",
-      "pluralForm" : "duplicate flags",
+      "countNoun" : false,
+      "singularForm" : "sales channel",
+      "pluralForm" : "sales channels",
       "quantifier" : "number",
-      "adjective" : "duplicate",
+      "adjective" : "",
       "lessComparator" : "fewer",
       "lessSuperlative" : "fewest",
       "moreComparator" : "more",
       "moreSuperlative" : "most",
-      "description" : "A flag indicating the record is a duplicate."
+      "description" : "A sales channel"
     } ],
     "icon" : "icons/atom.png",
     "dependentDataAnalysisJobClass" : null

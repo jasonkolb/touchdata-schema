@@ -1,20 +1,19 @@
 {
-  "com.touchdata.bits.BooleanBit" : {
-    "beanName" : "bitHintDupe",
+  "com.touchdata.bits.NominalStringBit" : {
+    "beanName" : "bitSalesDivision",
     "desirabilityOrientation" : "NEUTRAL",
     "nounDescriptions" : [ {
       "localeCode" : "enus",
-      "localeCode" : "enus",
-      "countNoun" : true,
-      "singularForm" : "duplicate flag",
-      "pluralForm" : "duplicate flags",
+      "countNoun" : false,
+      "singularForm" : "sales division",
+      "pluralForm" : "sales divisions",
       "quantifier" : "number",
-      "adjective" : "duplicate",
+      "adjective" : "",
       "lessComparator" : "fewer",
       "lessSuperlative" : "fewest",
       "moreComparator" : "more",
       "moreSuperlative" : "most",
-      "description" : "A flag indicating the record is a duplicate."
+      "description" : "A sales division"
     } ],
     "icon" : "icons/atom.png",
     "dependentDataAnalysisJobClass" : null

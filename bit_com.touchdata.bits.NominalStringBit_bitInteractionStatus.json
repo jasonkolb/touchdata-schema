@@ -1,0 +1,41 @@
+{
+  "com.touchdata.bits.NominalStringBit" : {
+    "beanName" : "bitInteractionStatus",
+    "desirabilityOrientation" : "NEUTRAL",
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "interaction status,contact status",
+      "pluralForm" : "interaction statuses,contact statuses",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "fewer",
+      "lessSuperlative" : "fewest",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "A customer interaction status"
+    } ],
+    "dimensions" : {
+      "closed" : {
+        "indicatorsOrAbbreviations" : "closed",
+        "desireabilityOrientation" : "MOREISBETTER",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : false,
+          "singularForm" : "closed",
+          "pluralForm" : "closed",
+          "quantifier" : "number",
+          "adjective" : "interaction is closed",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      }
+    },
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "com.touchdata.bits.NominalRollupBit" : {
+    "aggregatedEntityName" : "interactionEntity",
+    "aggregatedEntityBitName" : "bitInteractionQueueName",
+    "beanName" : "bitInteractionQueueNameDistribution",
+    "desirabilityOrientation" : "NEUTRAL",
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "customer interaction queue distribution",
+      "pluralForm" : "customer interaction queue distributions",
+      "quantifier" : "amount",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "This bit describes a distribution of customer interaction queues"
+    } ],
+    "minimumValue" : 0.0,
+    "maximumValue" : null,
+    "maximumValueBit" : null,
+    "brokenDownEntityName" : {
+      "enus" : "customer interaction queues"
+    },
+    "icon" : "icons/Education-128x128-Education.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

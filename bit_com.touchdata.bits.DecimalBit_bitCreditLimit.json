@@ -1,21 +1,21 @@
 {
   "com.touchdata.bits.DecimalBit" : {
-    "beanName" : "bitIncome",
+    "beanName" : "bitCreditLimit",
     "desirabilityOrientation" : "MOREISBETTER",
     "hashAlgorithms" : [ "NUMERIC_MIN_TO_MAX" ],    
     "nounDescriptions" : [ {
       "localeCode" : "enus",
       "localeCode" : "enus",
       "countNoun" : false,
-      "singularForm" : "income,salary,money",
-      "pluralForm" : "incomes,salaries",
+      "singularForm" : "credit limit",
+      "pluralForm" : "credit limits",
       "quantifier" : "amount",
-      "adjective" : "wealthy",
-      "lessComparator" : "poor,destitute,low income",
-      "lessSuperlative" : "poorest,most destitute",
-      "moreComparator" : "wealthy,rich",
-      "moreSuperlative" : "wealthiest,richest",
-      "description" : "Income"
+      "adjective" : "",
+      "lessComparator" : "low credit",
+      "lessSuperlative" : "lowest credit",
+      "moreComparator" : "more credit",
+      "moreSuperlative" : "most credit",
+      "description" : "Credit"
     } ],
     "decimalPrecision" : 2,
     "numericMin" : 0.0,

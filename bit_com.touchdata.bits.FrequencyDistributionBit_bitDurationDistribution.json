@@ -1,0 +1,94 @@
+{
+  "com.touchdata.bits.FrequencyDistributionBit" : {
+    "beanName" : "bitPopulationAgeDistribution",
+    "uuid" : null,
+    "desirabilityOrientation" : "NEUTRAL",
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : true,
+      "singularForm" : "durations,duration profile",
+      "pluralForm" : "durations,duration profiles",
+      "quantifier" : "amount",
+      "adjective" : "",
+      "lessComparator" : "short",
+      "lessSuperlative" : "shortest",
+      "moreComparator" : "long",
+      "moreSuperlative" : "longest",
+      "description" : "Duration distribution"
+    } ],
+    "aggregatedEntityName" : "interactionEntity",
+    "aggregatedEntityBitName" : "bitDuration",
+    "buckets" : {
+      "0" : "< 5",
+      "1" : "5 - 9",
+      "2" : "10 - 14",
+      "3" : "15 - 19",
+      "4" : "20 - 24",
+      "5" : "25 - 29",
+      "6" : "30 - 34",
+      "7" : "35 - 39",
+      "8" : "40 - 44",
+      "9" : "45 - 49",
+      "10" : "50 - 54",
+      "11" : "55 - 59",
+      "12" : "60 - 64",
+      "13" : "65 - 69",
+      "14" : "70 - 74",
+      "15" : "74 - 79",
+      "16" : "80 - 84",
+      "17" : "> 85"
+    },
+    "bucketRanges" : {
+      "0" : "0-5",
+      "1" : "5-9",
+      "2" : "10-14",
+      "3" : "15-19",
+      "4" : "20-24",
+      "5" : "25-29",
+      "6" : "30-34",
+      "7" : "35-39",
+      "8" : "40-44",
+      "9" : "45-49",
+      "10" : "50-54",
+      "11" : "55-59",
+      "12" : "60-64",
+      "13" : "65-69",
+      "14" : "70-74",
+      "15" : "74-79",
+      "16" : "80-84",
+      "17" : "85-100"
+    },
+    "icons" : {
+      "0" : "icons/age-128x128-5.png",
+      "1" : "icons/age-128x128-5-9.png",
+      "2" : "icons/age-128x128-10-14.png",
+      "3" : "icons/age-128x128-15-19.png",
+      "4" : "icons/age-128x128-20-24.png",
+      "5" : "icons/age-128x128-25-29.png",
+      "6" : "icons/age-128x128-30-34.png",
+      "7" : "icons/age-128x128-35-39.png",
+      "8" : "icons/age-128x128-40-44.png",
+      "9" : "icons/age-128x128-45-49.png",
+      "10" : "icons/age-128x128-50-54.png",
+      "11" : "icons/age-128x128-55-59.png",
+      "12" : "icons/age-128x128-60-64.png",
+      "13" : "icons/age-128x128-65-69.png",
+      "14" : "icons/age-128x128-70-74.png",
+      "15" : "icons/age-128x128-75-79.png",
+      "16" : "icons/age-128x128-80-84.png",
+      "17" : "icons/age-128x128-85.png"
+    },
+    "lowRangeNames" : {
+      "enus" : "short,shorter,shortest"
+    },
+    "highRangeNames" : {
+      "enus" : "long,longer,longest"
+    },
+    "representedPropertyName" : {
+      "enus" : "duration"
+    },
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

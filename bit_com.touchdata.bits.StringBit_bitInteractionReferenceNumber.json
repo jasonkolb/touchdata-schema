@@ -1,25 +1,21 @@
 {
-  "com.touchdata.bits.DecimalBit" : {
-    "beanName" : "bitBedrooms",
+  "com.touchdata.bits.StringBit" : {
+    "beanName" : "bitInteractionReferenceNumber",
     "desirabilityOrientation" : "NEUTRAL",
-    "hashAlgorithms" : [ "NUMERIC_MIN_TO_MAX" ],    
     "nounDescriptions" : [ {
       "localeCode" : "enus",
-      "localeCode" : "enus",
       "countNoun" : true,
-      "singularForm" : "bedroom",
-      "pluralForm" : "bedrooms",
+      "singularForm" : "interaction reference number",
+      "pluralForm" : "interaction reference numbers",
       "quantifier" : "number",
       "adjective" : "",
       "lessComparator" : "less",
       "lessSuperlative" : "least",
       "moreComparator" : "more",
       "moreSuperlative" : "most",
-      "description" : "Number of bedrooms"
+      "description" : "An interaction reference number"
     } ],
-    "decimalPrecision" : 2,
-    "numericMin" : 0.0,
-    "numericMax" : 9.0,
+    "abbreviations" : null,
     "icon" : "icons/atom.png",
     "dependentDataAnalysisJobClass" : null
   }

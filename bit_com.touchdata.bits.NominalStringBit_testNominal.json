@@ -1,9 +1,7 @@
 {
   "com.touchdata.bits.NominalStringBit" : {
     "beanName" : "testNominal",
-    "uuid" : null,
     "desirabilityOrientation" : "NEUTRAL",
-    "bitId" : 58,
     "nounDescriptions" : [ ],
     "abbreviations" : null,
     "dimensions" : {

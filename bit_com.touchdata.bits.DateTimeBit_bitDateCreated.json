@@ -1,9 +1,7 @@
 {
   "com.touchdata.bits.DateTimeBit" : {
     "beanName" : "bitDateCreated",
-    "uuid" : null,
     "desirabilityOrientation" : "NEUTRAL",
-    "bitId" : 85,
     "nounDescriptions" : [ {
       "localeCode" : "enus",
       "localeCode" : "enus",

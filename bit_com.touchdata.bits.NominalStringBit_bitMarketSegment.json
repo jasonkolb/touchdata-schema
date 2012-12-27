@@ -21,7 +21,7 @@
     } ],
     "abbreviations" : null,
     "dimensions" : {
-      "" : {
+      "1: Small Sites" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -41,8 +41,7 @@
         } ]
       }
     },
-    "indexType" : "DISCRETE",
-    "icon" : "icons/atom.png",
-    "dependentDataAnalysisJobClass" : null
+    "dependentDataAnalysisJobClass" : null,
+    "icon" : "icons/atom.png"
   }
 }

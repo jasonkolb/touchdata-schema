@@ -1,9 +1,7 @@
 {
   "com.touchdata.bits.BooleanBit" : {
     "beanName" : "bitShortSale",
-    "uuid" : null,
     "desirabilityOrientation" : "NEUTRAL",
-    "bitId" : 52,
     "nounDescriptions" : [ {
       "localeCode" : "enus",
       "localeCode" : "enus",

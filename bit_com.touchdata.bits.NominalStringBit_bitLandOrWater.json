@@ -1,9 +1,7 @@
 {
   "com.touchdata.bits.NominalStringBit" : {
     "beanName" : "bitLandOrWater",
-    "uuid" : null,
     "desirabilityOrientation" : "NEUTRAL",
-    "bitId" : 28,
     "nounDescriptions" : [ {
       "localeCode" : "enus",
       "localeCode" : "enus",

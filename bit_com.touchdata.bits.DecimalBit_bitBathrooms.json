@@ -1,9 +1,7 @@
 {
   "com.touchdata.bits.DecimalBit" : {
     "beanName" : "bitBathrooms",
-    "uuid" : null,
     "desirabilityOrientation" : "NEUTRAL",
-    "bitId" : 41,
     "nounDescriptions" : [ {
       "localeCode" : "enus",
       "localeCode" : "enus",

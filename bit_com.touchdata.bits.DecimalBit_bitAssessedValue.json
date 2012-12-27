@@ -1,9 +1,7 @@
 {
   "com.touchdata.bits.DecimalBit" : {
     "beanName" : "bitAssessedValue",
-    "uuid" : null,
     "desirabilityOrientation" : "NEUTRAL",
-    "bitId" : 47,
     "hashAlgorithms" : [ "NUMERIC_MIN_TO_MAX" ],    
     "nounDescriptions" : [ {
       "localeCode" : "enus",

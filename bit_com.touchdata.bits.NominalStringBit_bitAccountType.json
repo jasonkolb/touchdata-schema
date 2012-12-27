@@ -1,6 +1,6 @@
 {
   "com.touchdata.bits.NominalStringBit" : {
-    "beanName" : "bitInteractionQueueName",
+    "beanName" : "bitAccountType",
     "securityAccessList" : [ ],
     "hashAlgorithms" : [ ],
     "desirabilityOrientation" : "NEUTRAL",
@@ -9,19 +9,19 @@
       "localeCode" : "enus",
       "localeCode" : "enus",
       "countNoun" : false,
-      "singularForm" : "queue",
-      "pluralForm" : "queues",
+      "singularForm" : "account type",
+      "pluralForm" : "account types",
       "quantifier" : "number",
       "adjective" : "",
       "lessComparator" : "fewer",
       "lessSuperlative" : "fewest",
       "moreComparator" : "more",
       "moreSuperlative" : "most",
-      "description" : "An interaction queue"
+      "description" : "account type"
     } ],
     "abbreviations" : null,
     "dimensions" : {
-      "Payment" : {
+      "Credit Card" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",

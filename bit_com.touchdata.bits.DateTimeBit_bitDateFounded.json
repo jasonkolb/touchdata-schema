@@ -1,0 +1,22 @@
+{
+  "com.touchdata.bits.DateTimeBit" : {
+    "beanName" : "bitDateFounded",
+    "desirabilityOrientation" : "NEUTRAL",
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "date founded",
+      "pluralForm" : "dates founded",
+      "quantifier" : "number",
+      "adjective" : "large",
+      "lessComparator" : "fewer",
+      "lessSuperlative" : "fewest",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "The date it was founded"
+    } ],
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "com.touchdata.bits.StringBit" : {
+    "beanName" : "bitTwitterID",
+    "desirabilityOrientation" : "NEUTRAL",
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "twitter ID,twitter handle",
+      "pluralForm" : "twitter IDs,twitter handles",
+      "quantifier" : "",
+      "adjective" : "",
+      "lessComparator" : "fewer",
+      "lessSuperlative" : "fewest",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "A twitter handle"
+    } ],
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

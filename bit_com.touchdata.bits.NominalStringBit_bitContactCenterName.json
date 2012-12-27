@@ -1,8 +1,12 @@
 {
   "com.touchdata.bits.NominalStringBit" : {
     "beanName" : "bitContactCenterName",
+    "securityAccessList" : [ ],
+    "hashAlgorithms" : [ ],
     "desirabilityOrientation" : "NEUTRAL",
+    "stringFormat" : null,
     "nounDescriptions" : [ {
+      "localeCode" : "enus",
       "localeCode" : "enus",
       "countNoun" : false,
       "singularForm" : "contact center",
@@ -15,6 +19,29 @@
       "moreSuperlative" : "most",
       "description" : "A contact center"
     } ],
+    "abbreviations" : null,
+    "dimensions" : {
+      "Supplies" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      }
+    },
+    "indexType" : "DISCRETE",
     "icon" : "icons/atom.png",
     "dependentDataAnalysisJobClass" : null
   }

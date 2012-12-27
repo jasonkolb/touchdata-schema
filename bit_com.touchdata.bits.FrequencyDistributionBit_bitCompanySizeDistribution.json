@@ -1,0 +1,56 @@
+{
+  "com.touchdata.bits.FrequencyDistributionBit" : {
+    "beanName" : "bitCompanySizeDistribution",
+    "desirabilityOrientation" : "NEUTRAL",
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : true,
+      "singularForm" : "company size",
+      "pluralForm" : "company sizes",
+      "quantifier" : "size",
+      "adjective" : "",
+      "lessComparator" : "small",
+      "lessSuperlative" : "smallest",
+      "moreComparator" : "large",
+      "moreSuperlative" : "largest",
+      "description" : "Company size"
+    } ],
+    "aggregatedEntityName" : "customerEntity",
+    "aggregatedEntityBitName" : "bitCompanySize",
+    "buckets" : {
+      "0" : "1",
+      "1" : "2 - 10",
+      "2" : "11 - 50",
+      "3" : "51 - 200",
+      "4" : "201 - 500",
+      "5" : "501 - 1000",
+      "6" : "1001 - 5000",
+      "7" : "5001 - 10000",
+      "8" : "> 10000",
+      "17" : "> 85"
+    },
+    "bucketRanges" : {
+      "0" : "0-1",
+      "1" : "2-10",
+      "2" : "11-50",
+      "3" : "51-200",
+      "4" : "201-500",
+      "5" : "501-1000",
+      "6" : "1001-5000",
+      "7" : "5001-10000",
+      "8" : "10000-1000000"
+    },
+    "lowRangeNames" : {
+      "enus" : "small,smaller,smallest"
+    },
+    "highRangeNames" : {
+      "enus" : "large,larger,largest,big,bigger,biggest"
+    },
+    "representedPropertyName" : {
+      "enus" : "size"
+    },
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

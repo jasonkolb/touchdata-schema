@@ -1,8 +1,12 @@
 {
   "com.touchdata.bits.NominalStringBit" : {
     "beanName" : "bitInteractionStatus",
+    "securityAccessList" : [ ],
+    "hashAlgorithms" : [ ],
     "desirabilityOrientation" : "NEUTRAL",
+    "stringFormat" : null,
     "nounDescriptions" : [ {
+      "localeCode" : "enus",
       "localeCode" : "enus",
       "countNoun" : false,
       "singularForm" : "interaction status,contact status",
@@ -15,9 +19,11 @@
       "moreSuperlative" : "most",
       "description" : "A customer interaction status"
     } ],
+    "abbreviations" : null,
     "dimensions" : {
       "closed" : {
         "indicatorsOrAbbreviations" : "closed",
+        "icon" : "icons/atom.png",
         "desireabilityOrientation" : "MOREISBETTER",
         "nounDescriptions" : [ {
           "localeCode" : "enus",
@@ -33,8 +39,28 @@
           "moreSuperlative" : "most",
           "description" : ""
         } ]
+      },
+      "" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
       }
     },
+    "indexType" : "DISCRETE",
     "icon" : "icons/atom.png",
     "dependentDataAnalysisJobClass" : null
   }

@@ -1,9 +1,7 @@
 {
   "com.touchdata.bits.SentimentBit" : {
     "beanName" : "bitNotesSentiment",
-    "uuid" : null,
     "desirabilityOrientation" : "NEUTRAL",
-    "bitId" : 6,
     "nounDescriptions" : [ {
       "localeCode" : "enus",
       "localeCode" : "enus",

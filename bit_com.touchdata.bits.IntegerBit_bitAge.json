@@ -1,9 +1,7 @@
 {
   "com.touchdata.bits.IntegerBit" : {
     "beanName" : "bitAge",
-    "uuid" : null,
     "desirabilityOrientation" : "NEUTRAL",
-    "bitId" : 9,
     "hashAlgorithms" : [ "NUMERIC_MIN_TO_MAX" ],    
     "nounDescriptions" : [ {
       "localeCode" : "enus",

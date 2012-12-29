@@ -1,9 +1,7 @@
 {
   "com.touchdata.bits.GeopointBit" : {
     "beanName" : "bitGeoLocation",
-    "uuid" : null,
     "desirabilityOrientation" : "NEUTRAL",
-    "bitId" : 35,
     "nounDescriptions" : [ {
       "localeCode" : "enus",
       "localeCode" : "enus",

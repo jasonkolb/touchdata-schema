@@ -1,9 +1,7 @@
 {
   "com.touchdata.bits.FrequencyDistributionBit" : {
     "beanName" : "bitPopulationAgeDistribution",
-    "uuid" : null,
     "desirabilityOrientation" : "NEUTRAL",
-    "bitId" : 24,
     "nounDescriptions" : [ {
       "localeCode" : "enus",
       "localeCode" : "enus",

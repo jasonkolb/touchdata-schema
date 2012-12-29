@@ -1,9 +1,7 @@
 {
   "com.touchdata.bits.StringBit" : {
     "beanName" : "bitLastName",
-    "uuid" : null,
     "desirabilityOrientation" : "NEUTRAL",
-    "bitId" : 17,
     "hashAlgorithms" : [ "PHONETIC" ],    
     "nounDescriptions" : [ {
       "localeCode" : "enus",

@@ -1,9 +1,7 @@
 {
   "com.touchdata.bits.SubtypeBit" : {
     "beanName" : "bitSubtype",
-    "uuid" : null,
     "desirabilityOrientation" : "NEUTRAL",
-    "bitId" : 0,
     "nounDescriptions" : [ {
       "localeCode" : "enus",
       "localeCode" : "enus",

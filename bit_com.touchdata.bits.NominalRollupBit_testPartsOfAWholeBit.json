@@ -1,9 +1,7 @@
 {
   "com.touchdata.bits.NominalRollupBit" : {
     "beanName" : "testPartsOfAWholeBit",
-    "uuid" : null,
     "desirabilityOrientation" : "NEUTRAL",
-    "bitId" : 59,
     "nounDescriptions" : [ ],
     "aggregatedEntityName" : "personEntity",
     "aggregatedEntityBitName" : "testNominal",

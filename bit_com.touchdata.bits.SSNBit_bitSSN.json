@@ -1,9 +1,7 @@
 {
   "com.touchdata.bits.SSNBit" : {
     "beanName" : "bitSSN",
-    "uuid" : null,
     "desirabilityOrientation" : "NEUTRAL",
-    "bitId" : 14,
     "nounDescriptions" : [ {
       "localeCode" : "enus",
       "localeCode" : "enus",

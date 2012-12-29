@@ -1,9 +1,7 @@
 {
   "com.touchdata.bits.StringConcatenatorBit" : {
     "beanName" : "bitFullName",
-    "uuid" : null,
     "desirabilityOrientation" : "NEUTRAL",
-    "bitId" : 16,
     "hashAlgorithms" : [ "PHONETIC" ],    
     "nounDescriptions" : [ {
       "localeCode" : "enus",

@@ -1,9 +1,7 @@
 {
   "com.touchdata.bits.NominalRollupBit" : {
     "beanName" : "bitEducationProfile",
-    "uuid" : null,
     "desirabilityOrientation" : "NEUTRAL",
-    "bitId" : 26,
     "nounDescriptions" : [ {
       "localeCode" : "enus",
       "localeCode" : "enus",

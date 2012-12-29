@@ -1,9 +1,7 @@
 {
   "com.touchdata.bits.NominalRollupBit" : {
     "beanName" : "bitHousingUnitStatus",
-    "uuid" : null,
     "desirabilityOrientation" : "NEUTRAL",
-    "bitId" : 31,
     "nounDescriptions" : [ {
       "localeCode" : "enus",
       "localeCode" : "enus",
@@ -27,7 +25,6 @@
         "beanName" : "bitTotalHousingUnits",
         "uuid" : null,
         "desirabilityOrientation" : "NEUTRAL",
-        "bitId" : 34,
         "nounDescriptions" : [ {
           "localeCode" : "enus",
           "localeCode" : "enus",

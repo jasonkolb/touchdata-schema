@@ -1,9 +1,7 @@
 {
   "com.touchdata.bits.FrequencyDistributionBit" : {
     "beanName" : "bitPopulationIncomeDistribution",
-    "uuid" : null,
     "desirabilityOrientation" : "MOREISBETTER",
-    "bitId" : 25,
     "nounDescriptions" : [ {
       "localeCode" : "enus",
       "localeCode" : "enus",

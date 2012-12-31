@@ -15,7 +15,7 @@
       "moreSuperlative" : "most",
       "description" : "A person"
     } ],
-    "bits" : [ "bitPIN", "bitName", "bitTestBatchNumber", "bitSSN", "bitFirstName", "bitLastName", "bitPhone", "bitCounty", "bitCity", "bitState", "bitHintDupe", "bitBedrooms", "bitBathrooms", "bitSubdivision", "bitStreetName", "bitStreetNumber", "bitAssessedValue", "bitGradeschool", "bitHighschool", "bitSchoolDistrict", "bitDupeId", "bitNotes", "bitNotesSentiment", "bitModel", "bitShortSale", "bitSqFt", "bitYrBlt", "bitTownship", "bitZipcode", "bitPropertyType", "bitAge", "bitEducation", "bitTransportationToWork", "bitRace", "bitImgUrl" ],
+    "bits" : [ "bitPIN", "bitName", "bitTestBatchNumber", "bitSSN", "bitFirstName", "bitLastName", "bitPhone", "bitCounty", "bitCity", "bitState", "bitHintDupe", "bitBedrooms", "bitBathrooms", "bitSubdivision", "bitStreetName", "bitStreetNumber", "bitAssessedValue", "bitGradeschool", "bitHighschool", "bitSchoolDistrict", "bitDupeId", "bitNotes", "bitNotesSentiment", "bitModel", "bitShortSale", "bitSqFt", "bitYrBlt", "bitTownship", "bitZipcode", "bitPropertyType", "bitAge", "bitEducation", "bitTransportationToWork", "bitRace", "bitImgUrl", "bitKloutScore", "bitInfluenceScore", "bitGender", "bitAge" ],
     "subTypes" : [ ]
   }
 }

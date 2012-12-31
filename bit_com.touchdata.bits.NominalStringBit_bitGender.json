@@ -1,0 +1,21 @@
+{
+  "com.touchdata.bits.NominalStringBit" : {
+    "beanName" : "bitGender",
+    "desirabilityOrientation" : "NEUTRAL",
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "gender",
+      "pluralForm" : "genders",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "fewer",
+      "lessSuperlative" : "fewest",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "A gender"
+    } ],
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "com.touchdata.bits.NominalStringBit" : {
+    "beanName" : "bitBrand",
+    "desirabilityOrientation" : "NEUTRAL",
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "brand",
+      "pluralForm" : "brands",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "fewer",
+      "lessSuperlative" : "fewest",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "A brand"
+    } ],
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

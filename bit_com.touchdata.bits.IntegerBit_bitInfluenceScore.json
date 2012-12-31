@@ -1,0 +1,24 @@
+{
+  "com.touchdata.bits.IntegerBit" : {
+    "beanName" : "bitInfluenceScore",
+    "desirabilityOrientation" : "MOREISBETTER",
+    "hashAlgorithms" : [ "NUMERIC_MIN_TO_MAX" ],    
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "countNoun" : true,
+      "singularForm" : "influence score",
+      "pluralForm" : "influence scores",
+      "quantifier" : "amount",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "Influence score"
+    } ],
+    "numericMin" : 0.0,
+    "numericMax" : 10.0,
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

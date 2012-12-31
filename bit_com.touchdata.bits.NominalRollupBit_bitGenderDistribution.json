@@ -1,0 +1,26 @@
+{
+  "com.touchdata.bits.NominalRollupBit" : {
+    "aggregatedEntityName" : "personEntity",
+    "aggregatedEntityBitName" : "bitGender",
+    "beanName" : "bitGenderDistribution",
+    "desirabilityOrientation" : "NEUTRAL",
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "gender distribution",
+      "pluralForm" : "gender distributions",
+      "quantifier" : "amount",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "This bit describes a distribution of genders"
+    } ],
+    "brokenDownEntityName" : {
+      "enus" : "genders"
+    },
+    "icon" : "icons/Education-128x128-Education.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

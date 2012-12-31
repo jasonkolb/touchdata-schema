@@ -1,0 +1,60 @@
+{
+  "com.touchdata.bits.FrequencyDistributionBit" : {
+    "beanName" : "bitInfluenceScoreDistribution",
+    "uuid" : null,
+    "desirabilityOrientation" : "NEUTRAL",
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : true,
+      "singularForm" : "influence score distribution",
+      "pluralForm" : "influence score distributions",
+      "quantifier" : "amount",
+      "adjective" : "",
+      "lessComparator" : "short",
+      "lessSuperlative" : "shortest",
+      "moreComparator" : "long",
+      "moreSuperlative" : "longest",
+      "description" : "Influence score distribution"
+    } ],
+    "aggregatedEntityName" : "interactionEntity",
+    "aggregatedEntityBitName" : "bitInfluenceScore",
+    "buckets" : {
+      "0" : "0",
+      "1" : "1",
+      "2" : "2",
+      "3" : "3",
+      "4" : "4",
+      "5" : "5",
+      "6" : "6",
+      "7" : "7",
+      "8" : "8",
+      "9" : "9",
+      "10" : "10"
+    },
+    "bucketRanges" : {
+      "0" : "0-0",
+      "1" : "1-1",
+      "2" : "2-2",
+      "3" : "3-3",
+      "4" : "4-4",
+      "5" : "5-5",
+      "6" : "6-6",
+      "7" : "7-7",
+      "8" : "8-8",
+      "9" : "9-9",
+      "10" : "10-10"
+    },
+    "lowRangeNames" : {
+      "enus" : "least influential"
+    },
+    "highRangeNames" : {
+      "enus" : "most influential"
+    },
+    "representedPropertyName" : {
+      "enus" : "influence score"
+    },
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

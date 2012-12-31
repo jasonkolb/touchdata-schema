@@ -1,0 +1,21 @@
+{
+  "com.touchdata.entity.impl.DataDrivenEntity" : {
+    "beanName" : "productEntity",
+    "dupeDetectionStrategy" : "cost",
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "countNoun" : true,
+      "singularForm" : "product",
+      "pluralForm" : "products",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "A brand" 
+    } ],
+    "bits" : [ "bitSubtype", "bitProduct", "bitDurationDistribution", "bitInteractionStatusDistribution", "bitInteractionChannelDistribution", "bitInteractionResultDistribution", "bitInteractionEventTypeDistribution", "bitInteractionEventResultDistribution", "bitInteractionQueueNameDistribution", "bitKloutScoreDistribution", "bitInfluenceScoreDistribution", "bitGenderDistribution", "bitPopulationAgeDistribution" ],
+    "subTypes" : [ ]
+  }
+}

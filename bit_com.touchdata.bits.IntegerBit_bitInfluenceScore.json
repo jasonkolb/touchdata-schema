@@ -18,6 +18,7 @@
     } ],
     "numericMin" : 0.0,
     "numericMax" : 10.0,
+    "bitsInHash" : 5,
     "icon" : "icons/atom.png",
     "dependentDataAnalysisJobClass" : null
   }

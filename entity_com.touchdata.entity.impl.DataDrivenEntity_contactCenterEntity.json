@@ -16,6 +16,7 @@
       "description" : "A contact center" 
     } ],
     "bits" : [ "bitSubtype", "bitContactCenterName", "bitDurationDistribution", "bitInteractionStatusDistribution", "bitInteractionChannelDistribution", "bitInteractionResultDistribution", "bitInteractionEventTypeDistribution", "bitInteractionEventResultDistribution", "bitBusinessUnitNameDistribution", "bitInteractionQueueNameDistribution"],
+    "uniqueBits" : [ "bitContactCenterName" ],
     "subTypes" : [ ]
   }
 }

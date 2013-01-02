@@ -17,6 +17,7 @@
     } ],
     "sizeBit" : "bitPopulationTotal",
     "bits" : [ "bitSubtype", "bitLogicalRecordNumber", "bitPopulationTotal", "bitPopulationAgeDistribution", "bitDivision", "bitAreaLandProfile", "bitGeoLocation", "bitCongressionalDistrict", "bitTotalHousingUnits", "bitHousingUnitStatus", "bitRaceProfile", "bitPopulationIncomeDistribution", "bitEducationProfile", "bitPIN", "bitCounty", "bitCity", "bitState", "bitCountry", "bitBedrooms", "bitBathrooms", "bitSubdivision", "bitStreetName", "bitStreetNumber", "bitStreetAddress", "bitAssessedValue", "bitGradeschool", "bitHighschool", "bitSchoolDistrict", "bitDupeId", "bitNotes", "bitNotesSentiment", "bitModel", "bitShortSale", "bitSqFt", "bitYrBlt", "bitTownship", "bitZipcode", "bitPropertyType", "bitOccupancyStatus", "bitLandOrWater", "bitName", "bitImgUrl" ],
+    "uniqueBits" : [ "bitLogicalRecordNumber" ],
     "subTypes" : [ "bitStreetAddress@@0", "bitSubdivision@@1", "bitCity@@2", "bitCounty@@3", "bitState@@4", "bitCountry@@5" ]
   }
 }

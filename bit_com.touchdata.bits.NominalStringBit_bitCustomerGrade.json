@@ -15,26 +15,6 @@
       "moreSuperlative" : "most",
       "description" : "A customer grade"
     } ],
-    "dimensions" : {
-      "5-D n" : {
-        "indicatorsOrAbbreviations" : "5-D n",
-        "desireabilityOrientation" : "LESSISBETTER",
-        "nounDescriptions" : [ {
-          "localeCode" : "enus",
-          "localeCode" : "enus",
-          "countNoun" : false,
-          "singularForm" : "business",
-          "pluralForm" : "high school dropouts",
-          "quantifier" : "number",
-          "adjective" : "dropped out of high school",
-          "lessComparator" : "less",
-          "lessSuperlative" : "least",
-          "moreComparator" : "more",
-          "moreSuperlative" : "most",
-          "description" : ""
-        } ]
-      }
-    },
     "icon" : "icons/atom.png",
     "dependentDataAnalysisJobClass" : null
   }

@@ -15,6 +15,7 @@
       "moreSuperlative" : "most",
       "description" : "A brand" 
     } ],
+    "defaultSortBit" : "bitBrand",
     "bits" : [ "bitSubtype", "bitBrand", "bitDurationDistribution", "bitInteractionStatusDistribution", "bitInteractionChannelDistribution", "bitInteractionResultDistribution", "bitInteractionEventTypeDistribution", "bitInteractionEventResultDistribution", "bitInteractionQueueNameDistribution", "bitKloutScoreDistribution", "bitInfluenceScoreDistribution", "bitGenderDistribution", "bitPopulationAgeDistribution" ],
     "uniqueBits" : [ "bitBrand" ],
     "subTypes" : [ ]

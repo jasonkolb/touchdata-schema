@@ -16,6 +16,7 @@
       "description" : "A brand" 
     } ],
     "bits" : [ "bitSubtype", "bitProduct", "bitDurationDistribution", "bitInteractionStatusDistribution", "bitInteractionChannelDistribution", "bitInteractionResultDistribution", "bitInteractionEventTypeDistribution", "bitInteractionEventResultDistribution", "bitInteractionQueueNameDistribution", "bitKloutScoreDistribution", "bitInfluenceScoreDistribution", "bitGenderDistribution", "bitPopulationAgeDistribution" ],
+    "defaultSortBit" : "bitProduct",
     "uniqueBits" : [ "bitProduct" ],
     "subTypes" : [ ]
   }

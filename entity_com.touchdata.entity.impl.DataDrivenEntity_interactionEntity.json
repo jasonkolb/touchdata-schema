@@ -2,6 +2,7 @@
   "com.touchdata.entity.impl.DataDrivenEntity" : {
     "beanName" : "interactionEntity",
     "dupeDetectionStrategy" : "cost",
+    "defaultSortBit" : "bitDateCreated",
     "nounDescriptions" : [ {
       "localeCode" : "enus",
       "countNoun" : true,

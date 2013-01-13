@@ -15,6 +15,7 @@
       "moreSuperlative" : "most",
       "description" : "A contact center" 
     } ],
+    "defaultSortBit" : "bitContactCenterName",
     "bits" : [ "bitSubtype", "bitContactCenterName", "bitDurationDistribution", "bitInteractionStatusDistribution", "bitInteractionChannelDistribution", "bitInteractionResultDistribution", "bitInteractionEventTypeDistribution", "bitInteractionEventResultDistribution", "bitBusinessUnitNameDistribution", "bitInteractionQueueNameDistribution"],
     "uniqueBits" : [ "bitContactCenterName" ],
     "subTypes" : [ ]

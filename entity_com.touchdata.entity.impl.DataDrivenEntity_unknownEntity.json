@@ -15,6 +15,7 @@
       "moreSuperlative" : "most",
       "description" : "An unknown entity"
     } ],
+    "bits" : [ "bitName" ],
     "subTypes" : [ ]
   }
 }

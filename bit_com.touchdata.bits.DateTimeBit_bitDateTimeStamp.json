@@ -1,0 +1,22 @@
+{
+  "com.touchdata.bits.DateTimeBit" : {
+    "beanName" : "bitDateTimeStamp",
+    "desirabilityOrientation" : "NEUTRAL",
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "entity date-time stamp",
+      "pluralForm" : "entity date-time stamps",
+      "quantifier" : "number",
+      "adjective" : "large",
+      "lessComparator" : "fewer",
+      "lessSuperlative" : "fewest",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "A date-time stamp"
+    } ],
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

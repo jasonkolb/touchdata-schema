@@ -15,7 +15,7 @@
       "moreSuperlative" : "most",
       "description" : "A customer" 
     } ],
-    "bits" : [ "bitSubtype", "bitName", "bitCreditLimit", "bitIndustry", "bitCompanyStatus", "bitDateFounded", "bitTwitterID", "bitAccountType", "bitSalesChannel", "bitMarketSegment", "bitSalesDivision", "bitImgUrl", "bitDomainName", "bitCustomerAccountNumber", "bitCustomerGrade", "bitDurationDistribution", "bitInteractionStatusDistribution", "bitInteractionChannelDistribution", "bitInteractionResultDistribution", "bitInteractionEventTypeDistribution", "bitInteractionEventResultDistribution", "bitBusinessUnitNameDistribution", "bitContactCenterNameDistribution", "bitInteractionQueueNameDistribution"],
+    "bits" : [ "bitDateTimeStamp", "bitSubtype", "bitName", "bitCreditLimit", "bitIndustry", "bitCompanyStatus", "bitDateFounded", "bitTwitterID", "bitAccountType", "bitSalesChannel", "bitMarketSegment", "bitSalesDivision", "bitImgUrl", "bitDomainName", "bitCustomerAccountNumber", "bitCustomerGrade", "bitDurationDistribution", "bitInteractionStatusDistribution", "bitInteractionChannelDistribution", "bitInteractionResultDistribution", "bitInteractionEventTypeDistribution", "bitInteractionEventResultDistribution", "bitBusinessUnitNameDistribution", "bitContactCenterNameDistribution", "bitInteractionQueueNameDistribution"],
     "uniqueBits" : [ "bitCustomerAccountNumber" ],
     "subTypes" : [ ]
   }

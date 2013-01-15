@@ -1,6 +1,6 @@
 {
   "com.touchdata.bits.NominalStringBit" : {
-    "beanName" : "bitSalesDivision",
+    "beanName" : "bitCustomerStatus",
     "securityAccessList" : [ ],
     "hashAlgorithms" : [ ],
     "desirabilityOrientation" : "NEUTRAL",
@@ -10,19 +10,19 @@
       "localeCode" : "enus",
       "localeCode" : "enus",
       "countNoun" : false,
-      "singularForm" : "sales division",
-      "pluralForm" : "sales divisions",
+      "singularForm" : "customer status",
+      "pluralForm" : "customer statuses",
       "quantifier" : "number",
       "adjective" : "",
       "lessComparator" : "fewer",
       "lessSuperlative" : "fewest",
       "moreComparator" : "more",
       "moreSuperlative" : "most",
-      "description" : "A sales division"
+      "description" : "Customer status"
     } ],
     "abbreviations" : null,
     "dimensions" : {
-      "2" : {
+      "Active" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -41,7 +41,7 @@
           "description" : ""
         } ]
       },
-      "3" : {
+      "2-1PYL" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -60,64 +60,7 @@
           "description" : ""
         } ]
       },
-      "0" : {
-        "indicatorsOrAbbreviations" : null,
-        "icon" : "icons/atom.png",
-        "desireabilityOrientation" : "NEUTRAL",
-        "nounDescriptions" : [ {
-          "localeCode" : "enus",
-          "localeCode" : "enus",
-          "countNoun" : true,
-          "singularForm" : null,
-          "pluralForm" : null,
-          "quantifier" : null,
-          "adjective" : null,
-          "lessComparator" : "less",
-          "lessSuperlative" : "least",
-          "moreComparator" : "more",
-          "moreSuperlative" : "most",
-          "description" : ""
-        } ]
-      },
-      "12000" : {
-        "indicatorsOrAbbreviations" : null,
-        "icon" : "icons/atom.png",
-        "desireabilityOrientation" : "NEUTRAL",
-        "nounDescriptions" : [ {
-          "localeCode" : "enus",
-          "localeCode" : "enus",
-          "countNoun" : true,
-          "singularForm" : null,
-          "pluralForm" : null,
-          "quantifier" : null,
-          "adjective" : null,
-          "lessComparator" : "less",
-          "lessSuperlative" : "least",
-          "moreComparator" : "more",
-          "moreSuperlative" : "most",
-          "description" : ""
-        } ]
-      },
-      "19000" : {
-        "indicatorsOrAbbreviations" : null,
-        "icon" : "icons/atom.png",
-        "desireabilityOrientation" : "NEUTRAL",
-        "nounDescriptions" : [ {
-          "localeCode" : "enus",
-          "localeCode" : "enus",
-          "countNoun" : true,
-          "singularForm" : null,
-          "pluralForm" : null,
-          "quantifier" : null,
-          "adjective" : null,
-          "lessComparator" : "less",
-          "lessSuperlative" : "least",
-          "moreComparator" : "more",
-          "moreSuperlative" : "most",
-          "description" : ""
-        } ]
-      },
-      "15-Mar-13" : {
+      "5-Jan-13" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",

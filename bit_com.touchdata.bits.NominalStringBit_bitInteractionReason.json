@@ -1,6 +1,6 @@
 {
   "com.touchdata.bits.NominalStringBit" : {
-    "beanName" : "bitInteractionStatus",
+    "beanName" : "bitInteractionReason",
     "securityAccessList" : [ ],
     "hashAlgorithms" : [ ],
     "desirabilityOrientation" : "NEUTRAL",
@@ -10,19 +10,19 @@
       "localeCode" : "enus",
       "localeCode" : "enus",
       "countNoun" : false,
-      "singularForm" : "interaction status,contact status",
-      "pluralForm" : "interaction statuses,contact statuses",
+      "singularForm" : "interaction reason",
+      "pluralForm" : "interaction reasons",
       "quantifier" : "number",
       "adjective" : "",
       "lessComparator" : "fewer",
       "lessSuperlative" : "fewest",
       "moreComparator" : "more",
       "moreSuperlative" : "most",
-      "description" : "A customer interaction status"
+      "description" : "customer interaction reason"
     } ],
     "abbreviations" : null,
     "dimensions" : {
-      "Closed" : {
+      "Financial" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -41,7 +41,7 @@
           "description" : ""
         } ]
       },
-      "Open" : {
+      "Already Contacted" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -60,7 +60,7 @@
           "description" : ""
         } ]
       },
-      "3-1GPLNPP" : {
+      "Contract Issued" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -79,7 +79,7 @@
           "description" : ""
         } ]
       },
-      "0-1" : {
+      "XPPR" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -98,7 +98,7 @@
           "description" : ""
         } ]
       },
-      "3-1MVVMNB" : {
+      "DM Unavailable" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -117,7 +117,7 @@
           "description" : ""
         } ]
       },
-      "3-1KU239D" : {
+      "LCWV" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -136,7 +136,7 @@
           "description" : ""
         } ]
       },
-      "3-1KTV39T" : {
+      "INVC" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -155,7 +155,7 @@
           "description" : ""
         } ]
       },
-      "2-1GBQLN" : {
+      "Address Change" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -174,7 +174,7 @@
           "description" : ""
         } ]
       },
-      "2-6FJ2" : {
+      "Invoice Dispute" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -193,7 +193,7 @@
           "description" : ""
         } ]
       },
-      "3-1KTV3EH" : {
+      "Customer Update" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -212,7 +212,7 @@
           "description" : ""
         } ]
       },
-      "2-CPOGT" : {
+      "Cross-Sell" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -231,7 +231,7 @@
           "description" : ""
         } ]
       },
-      "3-1OPSFSP" : {
+      "PLAC" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -250,7 +250,7 @@
           "description" : ""
         } ]
       },
-      "3-1DO6MAY" : {
+      "Already Net" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -269,7 +269,7 @@
           "description" : ""
         } ]
       },
-      "3-1NIFLEA" : {
+      "LT04" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -288,7 +288,7 @@
           "description" : ""
         } ]
       },
-      "3-1I729JV" : {
+      "XRTS" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -307,7 +307,7 @@
           "description" : ""
         } ]
       },
-      "3-17X34MV" : {
+      "Guidance" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -326,7 +326,7 @@
           "description" : ""
         } ]
       },
-      "3-1BWSVVU" : {
+      "Reset Charges" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -345,7 +345,7 @@
           "description" : ""
         } ]
       },
-      "2-7624K" : {
+      "COA" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -364,7 +364,7 @@
           "description" : ""
         } ]
       },
-      "3-1FOXYRY" : {
+      "OTHO" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -383,7 +383,7 @@
           "description" : ""
         } ]
       },
-      "3-1K29J5D" : {
+      "Accept" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -402,7 +402,7 @@
           "description" : ""
         } ]
       },
-      "3-1OVOCPK" : {
+      "Answer Machine" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -421,7 +421,7 @@
           "description" : ""
         } ]
       },
-      "3-1OPSFTC" : {
+      "Refill Assistance" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -440,7 +440,7 @@
           "description" : ""
         } ]
       },
-      "3-1OIE24A" : {
+      "Cancellation" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -459,7 +459,7 @@
           "description" : ""
         } ]
       },
-      "3-1GPLNQ6" : {
+      "Billing" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -478,7 +478,7 @@
           "description" : ""
         } ]
       },
-      "3-G2R4I9" : {
+      "No Perceived Value" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -497,7 +497,7 @@
           "description" : ""
         } ]
       },
-      "2-6DOAG" : {
+      "Confirm Customer Satisfaction" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -516,7 +516,7 @@
           "description" : ""
         } ]
       },
-      "2-83GR6" : {
+      "Fee" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -535,7 +535,7 @@
           "description" : ""
         } ]
       },
-      "2-1EDSED" : {
+      "CCPC" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -554,7 +554,7 @@
           "description" : ""
         } ]
       },
-      "2-J21A" : {
+      "Balance Inquiry-Explained" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -573,7 +573,7 @@
           "description" : ""
         } ]
       },
-      "3-MEM4SV" : {
+      "DNTC" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -592,7 +592,7 @@
           "description" : ""
         } ]
       },
-      "3-IAVGP4" : {
+      "Follow Up" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -611,7 +611,7 @@
           "description" : ""
         } ]
       },
-      "3-QE6Y8P" : {
+      "Order Supplies" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -630,7 +630,7 @@
           "description" : ""
         } ]
       },
-      "3-OF27CB" : {
+      "Credit Card" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -649,7 +649,7 @@
           "description" : ""
         } ]
       },
-      "3-HWADAT" : {
+      "Incomplete pitch" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -668,7 +668,7 @@
           "description" : ""
         } ]
       },
-      "3-CKTHML" : {
+      "RQAC" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -687,7 +687,7 @@
           "description" : ""
         } ]
       },
-      "2-1IJ2" : {
+      "LMII" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -706,7 +706,7 @@
           "description" : ""
         } ]
       },
-      "3-1OIE20G" : {
+      "Purchase Power Balance" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -725,7 +725,7 @@
           "description" : ""
         } ]
       },
-      "3-1LBDW6W" : {
+      "LMTC" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -744,7 +744,7 @@
           "description" : ""
         } ]
       },
-      "2-17WK" : {
+      "Reconciliations" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -763,7 +763,7 @@
           "description" : ""
         } ]
       },
-      "3-1G9WAIF" : {
+      "Payment" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -782,7 +782,7 @@
           "description" : ""
         } ]
       },
-      "2-4RDV" : {
+      "Consider" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -801,7 +801,7 @@
           "description" : ""
         } ]
       },
-      "3-CKF5YP" : {
+      "Customer Updates" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -820,7 +820,7 @@
           "description" : ""
         } ]
       },
-      "2-1X0A9L" : {
+      "Transfer" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -839,7 +839,7 @@
           "description" : ""
         } ]
       },
-      "3-QV9424" : {
+      "XPSA" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -858,7 +858,7 @@
           "description" : ""
         } ]
       },
-      "3-JBJ6IC" : {
+      "Value Max" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -877,7 +877,7 @@
           "description" : ""
         } ]
       },
-      "3-17TGRUY" : {
+      "MTCA" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -896,7 +896,7 @@
           "description" : ""
         } ]
       },
-      "2-1XNDA1" : {
+      "MPCH" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -915,7 +915,7 @@
           "description" : ""
         } ]
       },
-      "3-AVYC2J" : {
+      "Price Too High" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -934,7 +934,7 @@
           "description" : ""
         } ]
       },
-      "3-NGBEQ1" : {
+      "Lease" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -953,7 +953,7 @@
           "description" : ""
         } ]
       },
-      "3-1LSHT9V" : {
+      "Invoice" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -972,7 +972,7 @@
           "description" : ""
         } ]
       },
-      "3-1LBDW94" : {
+      "CPTP" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -991,7 +991,7 @@
           "description" : ""
         } ]
       },
-      "2-4RDY" : {
+      "MPAY" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1010,7 +1010,7 @@
           "description" : ""
         } ]
       },
-      "2-2GRM" : {
+      "NACH" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1029,7 +1029,7 @@
           "description" : ""
         } ]
       },
-      "3-1N8F9E1" : {
+      "Postal" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1048,7 +1048,7 @@
           "description" : ""
         } ]
       },
-      "3-1LP3Q14" : {
+      "BLIQ" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1067,7 +1067,7 @@
           "description" : ""
         } ]
       },
-      "2-19MVD5" : {
+      "Replace Meter" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1086,7 +1086,7 @@
           "description" : ""
         } ]
       },
-      "3-BL0CMY" : {
+      "Waiting to Migrate" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1105,7 +1105,7 @@
           "description" : ""
         } ]
       },
-      "3-126AIIS" : {
+      "Out of Business" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1124,7 +1124,7 @@
           "description" : ""
         } ]
       },
-      "3-ZH97OJ" : {
+      "Auto Refund" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1143,7 +1143,7 @@
           "description" : ""
         } ]
       },
-      "3-123Q2FM" : {
+      "Balance Inquriry" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1162,7 +1162,7 @@
           "description" : ""
         } ]
       },
-      "3-UOLEHZ" : {
+      "Business Essentials" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1181,7 +1181,7 @@
           "description" : ""
         } ]
       },
-      "2-MGM" : {
+      "XPBP" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1200,7 +1200,7 @@
           "description" : ""
         } ]
       },
-      "3-1JHCLLZ" : {
+      "Guidance - PI - K7" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1219,7 +1219,7 @@
           "description" : ""
         } ]
       },
-      "3-1J5FFA1" : {
+      "Rental" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1238,7 +1238,7 @@
           "description" : ""
         } ]
       },
-      "3-YCI95E" : {
+      "refd" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1257,7 +1257,7 @@
           "description" : ""
         } ]
       },
-      "2-6G6V" : {
+      "Technical - PI - K7" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1276,7 +1276,7 @@
           "description" : ""
         } ]
       },
-      "3-D858EX" : {
+      "Customer Relations" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1295,7 +1295,7 @@
           "description" : ""
         } ]
       },
-      "2-TAD1N" : {
+      "RECL" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1314,7 +1314,7 @@
           "description" : ""
         } ]
       },
-      "2-60JWT" : {
+      "FLCT" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1333,7 +1333,7 @@
           "description" : ""
         } ]
       },
-      "3-7VBQTH" : {
+      "BIAJ" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1352,7 +1352,7 @@
           "description" : ""
         } ]
       },
-      "3-1EXG3Z4" : {
+      "MSDC" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1371,7 +1371,7 @@
           "description" : ""
         } ]
       },
-      "3-1LBDWJO" : {
+      "Cancel Replacement" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1390,7 +1390,7 @@
           "description" : ""
         } ]
       },
-      "2-1124S5" : {
+      "EQDS" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1409,7 +1409,7 @@
           "description" : ""
         } ]
       },
-      "3-1JV5DZH" : {
+      "XSAA" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1428,7 +1428,7 @@
           "description" : ""
         } ]
       },
-      "3-1JAJB57" : {
+      "Letter/Invoice" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1447,7 +1447,7 @@
           "description" : ""
         } ]
       },
-      "3-1LSHSXS" : {
+      "File Correction" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1466,7 +1466,7 @@
           "description" : ""
         } ]
       },
-      "2-18294L" : {
+      "CIML" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1485,7 +1485,7 @@
           "description" : ""
         } ]
       },
-      "2-6BO1" : {
+      "VMIQ" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1504,7 +1504,7 @@
           "description" : ""
         } ]
       },
-      "3-MHZBGE" : {
+      "PAYI" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1523,7 +1523,7 @@
           "description" : ""
         } ]
       },
-      "3-2GTCBO" : {
+      "Terms and Conditions" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1542,7 +1542,7 @@
           "description" : ""
         } ]
       },
-      "3-S78OT0" : {
+      "Early Termination" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1561,7 +1561,7 @@
           "description" : ""
         } ]
       },
-      "3-ZH97P8" : {
+      "NANS" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1580,7 +1580,7 @@
           "description" : ""
         } ]
       },
-      "3-C78M1S" : {
+      "Pick-Up" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1599,7 +1599,7 @@
           "description" : ""
         } ]
       },
-      "2-FK4MD" : {
+      "EMAC" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1618,7 +1618,7 @@
           "description" : ""
         } ]
       },
-      "3-IJ5FE2" : {
+      "Email" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1637,7 +1637,7 @@
           "description" : ""
         } ]
       },
-      "3-PYEVA6" : {
+      "XLEA" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1656,7 +1656,7 @@
           "description" : ""
         } ]
       },
-      "3-UOLEFR" : {
+      "XNMP" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1675,7 +1675,7 @@
           "description" : ""
         } ]
       },
-      "2-TAD3B" : {
+      "Investigation" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1694,7 +1694,7 @@
           "description" : ""
         } ]
       },
-      "3-W5P6S6" : {
+      "No Contact" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1713,7 +1713,7 @@
           "description" : ""
         } ]
       },
-      "3-K065LY" : {
+      "Refused" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1732,7 +1732,7 @@
           "description" : ""
         } ]
       },
-      "3-11TOPDG" : {
+      "Low Postage Volume" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1751,7 +1751,7 @@
           "description" : ""
         } ]
       },
-      "2-1X0AA5" : {
+      "Explanation" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1770,7 +1770,7 @@
           "description" : ""
         } ]
       },
-      "3-11TOP5F" : {
+      "XMSD" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1789,7 +1789,7 @@
           "description" : ""
         } ]
       },
-      "2-1IHN" : {
+      "Equipment" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1808,7 +1808,7 @@
           "description" : ""
         } ]
       },
-      "3-PES267" : {
+      "Meter - Established" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1827,7 +1827,7 @@
           "description" : ""
         } ]
       },
-      "3-PMVSUA" : {
+      "LORI Lead" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1846,7 +1846,7 @@
           "description" : ""
         } ]
       },
-      "2-1EDSDX" : {
+      "Misdirect" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1865,7 +1865,7 @@
           "description" : ""
         } ]
       },
-      "2-17UT" : {
+      "Save" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1884,7 +1884,7 @@
           "description" : ""
         } ]
       },
-      "2-1IE54T" : {
+      "Potential Cancel" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1903,7 +1903,7 @@
           "description" : ""
         } ]
       },
-      "3-RE2RNI" : {
+      "VM Exhaust" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1922,7 +1922,7 @@
           "description" : ""
         } ]
       },
-      "2-5FS3" : {
+      "Credit" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1941,7 +1941,7 @@
           "description" : ""
         } ]
       },
-      "2-1FW765" : {
+      "No Opp" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1960,7 +1960,7 @@
           "description" : ""
         } ]
       },
-      "3-QV93ZW" : {
+      "Pending" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1979,7 +1979,7 @@
           "description" : ""
         } ]
       },
-      "3-YSFDTZ" : {
+      "Pricing" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -1998,7 +1998,7 @@
           "description" : ""
         } ]
       },
-      "3-1BYTKZH" : {
+      "Late Charge" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2017,7 +2017,7 @@
           "description" : ""
         } ]
       },
-      "3-1M4R2YC" : {
+      "Correspondence" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2036,7 +2036,7 @@
           "description" : ""
         } ]
       },
-      "3-OW1A9X" : {
+      "Request PP Fee Waived" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2055,7 +2055,7 @@
           "description" : ""
         } ]
       },
-      "3-V9LP83" : {
+      "Change Billing" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2074,7 +2074,7 @@
           "description" : ""
         } ]
       },
-      "3-BSM6K3" : {
+      "XAOA" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2093,7 +2093,7 @@
           "description" : ""
         } ]
       },
-      "2-BM4JP" : {
+      "INVX" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2112,7 +2112,7 @@
           "description" : ""
         } ]
       },
-      "3-1OJRJBY" : {
+      "RESP" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2131,7 +2131,7 @@
           "description" : ""
         } ]
       },
-      "3-1KTV37P" : {
+      "Equipment nt Installed" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2150,7 +2150,7 @@
           "description" : ""
         } ]
       },
-      "3-1KTV3FJ" : {
+      "PBPQ" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2169,7 +2169,7 @@
           "description" : ""
         } ]
       },
-      "3-JYW8LN" : {
+      "My Bills" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2188,7 +2188,7 @@
           "description" : ""
         } ]
       },
-      "3-QE9G0Z" : {
+      "XESC" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2207,7 +2207,7 @@
           "description" : ""
         } ]
       },
-      "2-931S9" : {
+      "Obtain Coverage" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2226,7 +2226,7 @@
           "description" : ""
         } ]
       },
-      "3-1GX9FY3" : {
+      "Contact Information" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2245,7 +2245,7 @@
           "description" : ""
         } ]
       },
-      "3-1B78UZ5" : {
+      "PEB" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2264,7 +2264,7 @@
           "description" : ""
         } ]
       },
-      "3-1KTV3CH" : {
+      "Scale" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2283,7 +2283,7 @@
           "description" : ""
         } ]
       },
-      "2-20XZQ6" : {
+      "No Opp / Sales Wkg" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2302,7 +2302,7 @@
           "description" : ""
         } ]
       },
-      "3-YJ78AS" : {
+      "XRET" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2321,7 +2321,7 @@
           "description" : ""
         } ]
       },
-      "2-1PYL" : {
+      "Already Cancelled" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2340,7 +2340,7 @@
           "description" : ""
         } ]
       },
-      "2-200321" : {
+      "PEP" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2359,7 +2359,7 @@
           "description" : ""
         } ]
       },
-      "3-1CZ0JKX" : {
+      "SPDY" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2378,7 +2378,7 @@
           "description" : ""
         } ]
       },
-      "3-1KU23BB" : {
+      "UNLK" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2397,7 +2397,7 @@
           "description" : ""
         } ]
       },
-      "3-2Q74DF" : {
+      "MA04" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2416,7 +2416,7 @@
           "description" : ""
         } ]
       },
-      "3-4VFLZW" : {
+      "TCIQ" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2435,7 +2435,7 @@
           "description" : ""
         } ]
       },
-      "3-1OBFU5Z" : {
+      "CCCB" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2454,7 +2454,7 @@
           "description" : ""
         } ]
       },
-      "3-1KTV3BF" : {
+      "Cannot Order Supplies" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2473,7 +2473,7 @@
           "description" : ""
         } ]
       },
-      "2-VE6NW" : {
+      "Customers Payment" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2492,7 +2492,7 @@
           "description" : ""
         } ]
       },
-      "3-IJ5ZLH" : {
+      "LOCK" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2511,7 +2511,7 @@
           "description" : ""
         } ]
       },
-      "3-1AYGEBL" : {
+      "SIT Tone" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2530,7 +2530,7 @@
           "description" : ""
         } ]
       },
-      "3-MT8JOG" : {
+      "BALI" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2549,7 +2549,7 @@
           "description" : ""
         } ]
       },
-      "3-1M3RV3Z" : {
+      "Remind Let" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2568,7 +2568,7 @@
           "description" : ""
         } ]
       },
-      "2-4LQ3" : {
+      "LCIQ" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2587,7 +2587,7 @@
           "description" : ""
         } ]
       },
-      "3-P6N1GF" : {
+      "Errors1" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2606,7 +2606,7 @@
           "description" : ""
         } ]
       },
-      "3-1KU239R" : {
+      "biaj" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2625,7 +2625,7 @@
           "description" : ""
         } ]
       },
-      "2-1TA86H" : {
+      "Misdirected" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2644,7 +2644,7 @@
           "description" : ""
         } ]
       },
-      "3-1JAJB4K" : {
+      "CCBL" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2663,7 +2663,7 @@
           "description" : ""
         } ]
       },
-      "3-1D3A069" : {
+      "Errors" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2682,7 +2682,7 @@
           "description" : ""
         } ]
       },
-      "3-1JAKWVF" : {
+      "EXAJ" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2701,7 +2701,7 @@
           "description" : ""
         } ]
       },
-      "3-ANT404" : {
+      "Technical" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2720,7 +2720,7 @@
           "description" : ""
         } ]
       },
-      "3-HLREGN" : {
+      "Wrong Number" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2739,7 +2739,7 @@
           "description" : ""
         } ]
       },
-      "2-20XZQU" : {
+      "No Answer" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2758,7 +2758,7 @@
           "description" : ""
         } ]
       },
-      "3-TCUVPJ" : {
+      "LEAD" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2777,7 +2777,7 @@
           "description" : ""
         } ]
       },
-      "3-W9RRQI" : {
+      "EQCA" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2796,7 +2796,7 @@
           "description" : ""
         } ]
       },
-      "3-1JHCLJF" : {
+      "Past Due Statement" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2815,7 +2815,7 @@
           "description" : ""
         } ]
       },
-      "3-1IKB6R8" : {
+      "Equipment Sale" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2834,7 +2834,7 @@
           "description" : ""
         } ]
       },
-      "3-1K2D27J" : {
+      "INVT" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2853,7 +2853,7 @@
           "description" : ""
         } ]
       },
-      "3-1PVJDGB" : {
+      "Copy of Check" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2872,7 +2872,7 @@
           "description" : ""
         } ]
       },
-      "3-1LY1UT7" : {
+      "CODX" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2891,7 +2891,7 @@
           "description" : ""
         } ]
       },
-      "3-1K2D1TJ" : {
+      "XFND" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2910,7 +2910,7 @@
           "description" : ""
         } ]
       },
-      "2-9NRG4" : {
+      "Mis-Applied Payment" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2929,7 +2929,7 @@
           "description" : ""
         } ]
       },
-      "3-1LOU1TG" : {
+      "Save (Rent)" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2948,7 +2948,7 @@
           "description" : ""
         } ]
       },
-      "3-1G8U1QJ" : {
+      "ARAJ" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2967,7 +2967,7 @@
           "description" : ""
         } ]
       },
-      "3-1I729KC" : {
+      "Follow-Up" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -2986,7 +2986,7 @@
           "description" : ""
         } ]
       },
-      "3-1D39ZV0" : {
+      "QPN - Saved" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3005,7 +3005,7 @@
           "description" : ""
         } ]
       },
-      "3-1JHCLFY" : {
+      "Intro Letter" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3024,7 +3024,7 @@
           "description" : ""
         } ]
       },
-      "3-1OCLY2H" : {
+      "QPN" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3043,7 +3043,7 @@
           "description" : ""
         } ]
       },
-      "3-1HBBEMP" : {
+      "XEMA" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3062,7 +3062,7 @@
           "description" : ""
         } ]
       },
-      "14-Sep-12" : {
+      "Scale/WP - Established" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3081,7 +3081,7 @@
           "description" : ""
         } ]
       },
-      "27-May-10" : {
+      "DR Letter" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3100,7 +3100,7 @@
           "description" : ""
         } ]
       },
-      "9-Jun-10" : {
+      "Incomplete Solutions Call" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3119,7 +3119,7 @@
           "description" : ""
         } ]
       },
-      "23-Jun-10" : {
+      "Misapplied Payment" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3138,7 +3138,7 @@
           "description" : ""
         } ]
       },
-      "9-Jul-03" : {
+      "LBCH" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3157,7 +3157,7 @@
           "description" : ""
         } ]
       },
-      "18-Sep-12" : {
+      "Need a Copy of Invoice" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3176,7 +3176,7 @@
           "description" : ""
         } ]
       },
-      "15-Jul-10" : {
+      "Invoice Copies" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3195,7 +3195,7 @@
           "description" : ""
         } ]
       },
-      "4-Sep-12" : {
+      "XIVM" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3214,7 +3214,7 @@
           "description" : ""
         } ]
       },
-      "8-Feb-12" : {
+      "Sales Tax" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3233,7 +3233,7 @@
           "description" : ""
         } ]
       },
-      "5-Apr-10" : {
+      "LEAC" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3252,7 +3252,7 @@
           "description" : ""
         } ]
       },
-      "5-Jun-02" : {
+      "Exemptions" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3271,7 +3271,7 @@
           "description" : ""
         } ]
       },
-      "17-Dec-12" : {
+      "Pre-Paid Reserve Balance" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3290,7 +3290,7 @@
           "description" : ""
         } ]
       },
-      "19-Apr-10" : {
+      "Field Account" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3309,7 +3309,7 @@
           "description" : ""
         } ]
       },
-      "25-Dec-12" : {
+      "Ordered Supplies" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3328,7 +3328,7 @@
           "description" : ""
         } ]
       },
-      "5-May-04" : {
+      "Property Tax" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3347,7 +3347,7 @@
           "description" : ""
         } ]
       },
-      "29-Nov-12" : {
+      "Postage" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3366,7 +3366,7 @@
           "description" : ""
         } ]
       },
-      "25-Oct-07" : {
+      "Invoice sent" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3385,7 +3385,7 @@
           "description" : ""
         } ]
       },
-      "10-Sep-12" : {
+      "New Work" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3404,7 +3404,7 @@
           "description" : ""
         } ]
       },
-      "31-Jul-03" : {
+      "Write Off" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3423,7 +3423,7 @@
           "description" : ""
         } ]
       },
-      "9-Oct-12" : {
+      "Tandem" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3442,7 +3442,7 @@
           "description" : ""
         } ]
       },
-      "3-33RD08" : {
+      "Collection Codes" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3461,7 +3461,7 @@
           "description" : ""
         } ]
       },
-      "3-1C3Y7VO" : {
+      "Letters & Invoices" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3480,7 +3480,7 @@
           "description" : ""
         } ]
       },
-      "3-1JAJB7E" : {
+      "Rental (BL)" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3499,7 +3499,7 @@
           "description" : ""
         } ]
       },
-      "3-1JAKWT5" : {
+      "Supplies" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3518,7 +3518,7 @@
           "description" : ""
         } ]
       },
-      "3-JXEQKV" : {
+      "Reports" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3537,7 +3537,7 @@
           "description" : ""
         } ]
       },
-      "3-1B5UKXP" : {
+      "Billing Inquiries" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3556,7 +3556,7 @@
           "description" : ""
         } ]
       },
-      "3-1APJP4Z" : {
+      "Transferred" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3575,7 +3575,7 @@
           "description" : ""
         } ]
       },
-      "3-1LLIZGT" : {
+      "VMAX" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3594,7 +3594,7 @@
           "description" : ""
         } ]
       },
-      "3-5HHH7I" : {
+      "REFL" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3613,7 +3613,7 @@
           "description" : ""
         } ]
       },
-      "2-1ZY4JH" : {
+      "Follow-Up (EmaAR)" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3632,7 +3632,7 @@
           "description" : ""
         } ]
       },
-      "2-PD4X" : {
+      "Manual Update" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3651,7 +3651,7 @@
           "description" : ""
         } ]
       },
-      "2-20XZR6" : {
+      "Frequency - Billing" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3670,7 +3670,7 @@
           "description" : ""
         } ]
       },
-      "3-CS9UIS" : {
+      "XSLS" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3689,7 +3689,7 @@
           "description" : ""
         } ]
       },
-      "3-1LBUX5F" : {
+      "Other - P700 - E" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3708,7 +3708,7 @@
           "description" : ""
         } ]
       },
-      "2-1XDC77" : {
+      "Billing Adjustments" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3727,7 +3727,7 @@
           "description" : ""
         } ]
       },
-      "2-1EBYXX" : {
+      "General PBP/PP Inquiry" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3746,7 +3746,7 @@
           "description" : ""
         } ]
       },
-      "2-1XTH3X" : {
+      "Labor" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3765,7 +3765,7 @@
           "description" : ""
         } ]
       },
-      "3-2CFXFR" : {
+      "Request for Copies" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3784,7 +3784,7 @@
           "description" : ""
         } ]
       },
-      "3-4ENKIR" : {
+      "Equipment Inquiries" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3803,7 +3803,7 @@
           "description" : ""
         } ]
       },
-      "3-XFVR5F" : {
+      "Leasing" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3822,7 +3822,7 @@
           "description" : ""
         } ]
       },
-      "2-1ZY4IX" : {
+      "Checks" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3841,7 +3841,7 @@
           "description" : ""
         } ]
       },
-      "3-ULM67B" : {
+      "SLA/Softguard" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3860,7 +3860,7 @@
           "description" : ""
         } ]
       },
-      "3-9SMH76" : {
+      "Rate Change" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3879,7 +3879,7 @@
           "description" : ""
         } ]
       },
-      "3-FU0AKE" : {
+      "Buy-Out" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3898,7 +3898,7 @@
           "description" : ""
         } ]
       },
-      "3-1CPNH7B" : {
+      "Name Change" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3917,7 +3917,7 @@
           "description" : ""
         } ]
       },
-      "2-10UX63" : {
+      "EQPU" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3936,7 +3936,7 @@
           "description" : ""
         } ]
       },
-      "3-15OETPX" : {
+      "XSPL" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3955,7 +3955,7 @@
           "description" : ""
         } ]
       },
-      "3-YVY0LV" : {
+      "Rejects" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3974,7 +3974,7 @@
           "description" : ""
         } ]
       },
-      "2-696R" : {
+      "Direct Phone Campaign" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -3993,7 +3993,7 @@
           "description" : ""
         } ]
       },
-      "3-1BWSVU6" : {
+      "iSend Bundle" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4012,7 +4012,7 @@
           "description" : ""
         } ]
       },
-      "3-11OTKPH" : {
+      "Registered Customer" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4031,7 +4031,7 @@
           "description" : ""
         } ]
       },
-      "3-P14ZOI" : {
+      "Collections" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4050,7 +4050,7 @@
           "description" : ""
         } ]
       },
-      "3-C6Q552" : {
+      "Y2KI" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4069,7 +4069,7 @@
           "description" : ""
         } ]
       },
-      "3-HLREGA" : {
+      "Sales Call" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4088,7 +4088,7 @@
           "description" : ""
         } ]
       },
-      "3-1IIG9OH" : {
+      "PUOR" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4107,7 +4107,7 @@
           "description" : ""
         } ]
       },
-      "2-695X" : {
+      "XCPO" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4126,7 +4126,7 @@
           "description" : ""
         } ]
       },
-      "3-CUDEDM" : {
+      "Change of Ownership" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4145,7 +4145,7 @@
           "description" : ""
         } ]
       },
-      "3-VZ4Y0A" : {
+      "Save (EOL)" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4164,7 +4164,7 @@
           "description" : ""
         } ]
       },
-      "3-50S92M" : {
+      "Quick Hang Up" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4183,7 +4183,7 @@
           "description" : ""
         } ]
       },
-      "3-WS9QIY" : {
+      "E7xx Replacement" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4202,7 +4202,7 @@
           "description" : ""
         } ]
       },
-      "3-X7EGT2" : {
+      "Meter - Initial" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4221,7 +4221,7 @@
           "description" : ""
         } ]
       },
-      "3-JP7E9H" : {
+      "Non-Opportunity" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4240,7 +4240,7 @@
           "description" : ""
         } ]
       },
-      "3-1EQTB8M" : {
+      "NBC Report" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4259,7 +4259,7 @@
           "description" : ""
         } ]
       },
-      "3-1I5GX53" : {
+      "Scale/WP - Initial" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4278,7 +4278,7 @@
           "description" : ""
         } ]
       },
-      "3-11ZIWR7" : {
+      "XHOF" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4297,7 +4297,7 @@
           "description" : ""
         } ]
       },
-      "3-1FOYL1E" : {
+      "EQTC" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4316,7 +4316,7 @@
           "description" : ""
         } ]
       },
-      "2-7VZ3N" : {
+      "PBP Boss Line - Sales Rep" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4335,7 +4335,7 @@
           "description" : ""
         } ]
       },
-      "3-1A5FH0K" : {
+      "Explanation of Labor Invoice" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4354,7 +4354,7 @@
           "description" : ""
         } ]
       },
-      "2-28HO7D" : {
+      "Refund Request" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4373,7 +4373,7 @@
           "description" : ""
         } ]
       },
-      "3-CHOF30" : {
+      "bliq" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4392,7 +4392,7 @@
           "description" : ""
         } ]
       },
-      "3-Z622GW" : {
+      "Transfer - P700 - E" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4411,7 +4411,7 @@
           "description" : ""
         } ]
       },
-      "3-W9RRR3" : {
+      "Proposal Issued" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4430,7 +4430,7 @@
           "description" : ""
         } ]
       },
-      "3-11TOPFR" : {
+      "CHBP" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4449,7 +4449,7 @@
           "description" : ""
         } ]
       },
-      "2-E4H7B" : {
+      "FDRC" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4468,7 +4468,7 @@
           "description" : ""
         } ]
       },
-      "3-R6E08L" : {
+      "Split Combo**" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4487,7 +4487,7 @@
           "description" : ""
         } ]
       },
-      "3-1KLRJML" : {
+      "bali" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4506,7 +4506,7 @@
           "description" : ""
         } ]
       },
-      "3-1CB5XSV" : {
+      "f/c" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4525,7 +4525,7 @@
           "description" : ""
         } ]
       },
-      "3-1I729A3" : {
+      "Parts Ordered (PI)" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4544,7 +4544,7 @@
           "description" : ""
         } ]
       },
-      "3-1KB143W" : {
+      "ref" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4563,7 +4563,7 @@
           "description" : ""
         } ]
       },
-      "3-1JRZWDT" : {
+      "XSAL" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4582,7 +4582,7 @@
           "description" : ""
         } ]
       },
-      "3-K72AP0" : {
+      "Guidance - K7" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4601,7 +4601,7 @@
           "description" : ""
         } ]
       },
-      "3-1JV5E0Z" : {
+      "mpch" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4620,7 +4620,7 @@
           "description" : ""
         } ]
       },
-      "3-1LOU1ST" : {
+      "Product Support (Post Install)" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4639,7 +4639,7 @@
           "description" : ""
         } ]
       },
-      "3-1LBKR1Z" : {
+      "Sale" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4658,7 +4658,7 @@
           "description" : ""
         } ]
       },
-      "3-18OVLY4" : {
+      "Active Lease" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4677,7 +4677,7 @@
           "description" : ""
         } ]
       },
-      "2-BNT3I" : {
+      "Billing Adjustment" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4696,7 +4696,7 @@
           "description" : ""
         } ]
       },
-      "3-1O08WWC" : {
+      "Collection" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4715,7 +4715,7 @@
           "description" : ""
         } ]
       },
-      "3-QFGVYT" : {
+      "Lease Retention (IB)" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4734,7 +4734,7 @@
           "description" : ""
         } ]
       },
-      "3-S4940L" : {
+      "Customer Retention (IB)" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -4753,7 +4753,2135 @@
           "description" : ""
         } ]
       },
-      "2-6BV9" : {
+      "Inspection" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Trade - Up" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "No Contact (EOL)" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Refused (EOL)" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SARE" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Misdirect (EOL)" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "PbP / PP Inquiries" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Swap" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Parts Dispute" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Refused (AL)" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "STTI" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BYOT" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "69XX (PI)" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Busy" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Positive Result" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Product Support (Other)" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Post Install - K7" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Document Reconciliation" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Incentive" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SAVE" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "No Opp (EOL)" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Dissatisfied w/Pitney Bowes" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Replace G799" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "G799" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Quick Disconnect" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Doesnt Want Long Term Lease" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BOPT" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "No Interest" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Customer Ret" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Inquiry" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Premium Request" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "XR2P" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "NINV" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BUSY" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "MTCA - Undo" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Postal - PI - K7" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "XPLC" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Downloads" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "WTOF" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CC Discrepency" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Financial - K7" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "PRIN" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Customer Funds Debit" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "eqpu" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Manual" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "nach" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Follow-Up (Rent)" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "No Opp (Rent)" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Refused (MMRnt)" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Rate Chg" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "TAXI" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LCAJ" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Internal Support" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Service Rep Transaction/Call" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LT01" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Meter - P700 - E" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Decline" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Resolution" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "XNBO" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "INQ" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "R2PP Dispute Report" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "REFD" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "OWCH" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Misdirect (Rent)" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Pre-Paid Citi-Bank Balance" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Misdirect (IB)" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Technical - K7" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Financial - PI - K7" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Replace Scale (PI)" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "PBP Transaction Assistance" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CODY" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Parts Ordered (I)" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Luyen Getback" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BKRT" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CCPP" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "STAX" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "MTMV" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "PRIC" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "QPN - Invalid" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Fax Machine" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Rental to Rental Swap" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Tax Dept." : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Spanish Call" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "IAJ" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Inbound" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Inbound Phone" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Outbound" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "COD" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CCOP" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Transfer - K7" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Response" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "XCAG" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "QPN - Cancelled" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "B7XX (PI)" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Other" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Purchase Power" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Never" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Install - K7" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "No Opportunity" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Errors-PI - K7" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "XLRT" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Transfer (Welcome)" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "ADDRESS" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Parts Ordered - PI - K7" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "XGEM" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Coupon" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "adaj" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "TAM account - working w/Field" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Web Postage" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Expiring Retention Customers" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Sent E-Mail Link" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Decline - Undo" : {
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : null,
+          "pluralForm" : null,
+          "quantifier" : null,
+          "adjective" : null,
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Welcome Call (OB)" : {
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",

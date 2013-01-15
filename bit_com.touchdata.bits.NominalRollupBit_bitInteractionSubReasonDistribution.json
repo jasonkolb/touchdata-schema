@@ -1,0 +1,30 @@
+{
+  "com.touchdata.bits.NominalRollupBit" : {
+    "aggregatedEntityName" : "interactionEntity",
+    "aggregatedEntityBitName" : "bitInteractionSubReason",
+    "beanName" : "bitInteractionSubReasonDistribution",
+    "desirabilityOrientation" : "NEUTRAL",
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "customer interaction subreason distribution",
+      "pluralForm" : "customer interaction subreason distributions",
+      "quantifier" : "amount",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "This bit describes a distribution of customer interaction sub-reasons"
+    } ],
+    "minimumValue" : 0.0,
+    "maximumValue" : null,
+    "maximumValueBit" : null,
+    "brokenDownEntityName" : {
+      "enus" : "customer interaction sub-reasons"
+    },
+    "icon" : "icons/Education-128x128-Education.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

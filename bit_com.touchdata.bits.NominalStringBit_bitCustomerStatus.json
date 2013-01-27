@@ -21,65 +21,6 @@
       "description" : "Customer status"
     } ],
     "abbreviations" : null,
-    "dimensions" : {
-      "Active" : {
-        "indicatorsOrAbbreviations" : null,
-        "icon" : "icons/atom.png",
-        "desireabilityOrientation" : "NEUTRAL",
-        "nounDescriptions" : [ {
-          "localeCode" : "enus",
-          "localeCode" : "enus",
-          "countNoun" : true,
-          "singularForm" : null,
-          "pluralForm" : null,
-          "quantifier" : null,
-          "adjective" : null,
-          "lessComparator" : "less",
-          "lessSuperlative" : "least",
-          "moreComparator" : "more",
-          "moreSuperlative" : "most",
-          "description" : ""
-        } ]
-      },
-      "2-1PYL" : {
-        "indicatorsOrAbbreviations" : null,
-        "icon" : "icons/atom.png",
-        "desireabilityOrientation" : "NEUTRAL",
-        "nounDescriptions" : [ {
-          "localeCode" : "enus",
-          "localeCode" : "enus",
-          "countNoun" : true,
-          "singularForm" : null,
-          "pluralForm" : null,
-          "quantifier" : null,
-          "adjective" : null,
-          "lessComparator" : "less",
-          "lessSuperlative" : "least",
-          "moreComparator" : "more",
-          "moreSuperlative" : "most",
-          "description" : ""
-        } ]
-      },
-      "5-Jan-13" : {
-        "indicatorsOrAbbreviations" : null,
-        "icon" : "icons/atom.png",
-        "desireabilityOrientation" : "NEUTRAL",
-        "nounDescriptions" : [ {
-          "localeCode" : "enus",
-          "localeCode" : "enus",
-          "countNoun" : true,
-          "singularForm" : null,
-          "pluralForm" : null,
-          "quantifier" : null,
-          "adjective" : null,
-          "lessComparator" : "less",
-          "lessSuperlative" : "least",
-          "moreComparator" : "more",
-          "moreSuperlative" : "most",
-          "description" : ""
-        } ]
-      }
-    },
     "icon" : "icons/atom.png",
     "dependentDataAnalysisJobClass" : null
   }

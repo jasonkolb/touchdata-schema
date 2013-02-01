@@ -7,8 +7,8 @@
     "nounDescriptions" : [ {
       "localeCode" : "enus",
       "countNoun" : false,
-      "singularForm" : "sales division distribution",
-      "pluralForm" : "sales division distributions",
+      "singularForm" : "sales division",
+      "pluralForm" : "sales divisions",
       "quantifier" : "number",
       "adjective" : "",
       "lessComparator" : "less",

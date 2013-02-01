@@ -1,13 +1,13 @@
-Code/Key,Desirability(0=horrible;5=fantastic),Monetary value(positive or negative)
-2-A E,NEUTRAL,0.0
-*NY35,NEUTRAL,0.0
-0,NEUTRAL,0.0
-6-E N,NEUTRAL,0.0
-3-B P,NEUTRAL,0.0
-4-C N,NEUTRAL,0.0
-SSI00,NEUTRAL,0.0
-3-B N,NEUTRAL,0.0
-1-AA N,NEUTRAL,0.0
-5-D N,NEUTRAL,0.0
-2-A P,NEUTRAL,0.0
-2-A N,NEUTRAL,0.0
+Code/Key,Natural Language Description,Desirability(0=horrible;5=fantastic),Monetary value(positive or negative)
+2-A E,singular,NEUTRAL,0.0
+*NY35,singular,NEUTRAL,0.0
+0,singular,NEUTRAL,0.0
+6-E N,singular,NEUTRAL,0.0
+3-B P,singular,NEUTRAL,0.0
+4-C N,singular,NEUTRAL,0.0
+SSI00,singular,NEUTRAL,0.0
+3-B N,singular,NEUTRAL,0.0
+1-AA N,singular,NEUTRAL,0.0
+5-D N,singular,NEUTRAL,0.0
+2-A P,singular,NEUTRAL,0.0
+2-A N,singular,NEUTRAL,0.0

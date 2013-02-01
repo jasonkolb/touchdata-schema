@@ -1,7 +1,7 @@
-Code/Key,Desirability(0=horrible;5=fantastic),Monetary value(positive or negative)
-12000,NEUTRAL,0.0
-3,NEUTRAL,0.0
-2,NEUTRAL,0.0
-0,NEUTRAL,0.0
-15-MAR-13,NEUTRAL,0.0
-19000,NEUTRAL,0.0
+Code/Key,Natural Language Description,Desirability(0=horrible;5=fantastic),Monetary value(positive or negative)
+12000,singular,NEUTRAL,0.0
+3,singular,NEUTRAL,0.0
+2,singular,NEUTRAL,0.0
+0,singular,NEUTRAL,0.0
+15-MAR-13,singular,NEUTRAL,0.0
+19000,singular,NEUTRAL,0.0

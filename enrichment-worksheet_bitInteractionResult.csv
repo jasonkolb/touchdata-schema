@@ -1,2 +1,2 @@
-Code/Key,Desirability(0=horrible;5=fantastic),Monetary value(positive or negative)
-closed,MOREISBETTER,0.0
+Code/Key,Natural Language Description,Desirability(0=horrible;5=fantastic),Monetary value(positive or negative)
+closed,sale,MOREISBETTER,0.0

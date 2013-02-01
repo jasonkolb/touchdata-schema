@@ -1,3 +1,3 @@
-Code/Key,Desirability(0=horrible;5=fantastic),Monetary value(positive or negative)
-Female,NEUTRAL,0.0
-Male,NEUTRAL,0.0
+Code/Key,Natural Language Description,Desirability(0=horrible;5=fantastic),Monetary value(positive or negative)
+Female,singular,NEUTRAL,0.0
+Male,singular,NEUTRAL,0.0

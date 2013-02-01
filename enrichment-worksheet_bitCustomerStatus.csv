@@ -1,4 +1,4 @@
-Code/Key,Desirability(0=horrible;5=fantastic),Monetary value(positive or negative)
-5-JAN-13,NEUTRAL,0.0
-2-1PYL,NEUTRAL,0.0
-ACTIVE,NEUTRAL,0.0
+Code/Key,Natural Language Description,Desirability(0=horrible;5=fantastic),Monetary value(positive or negative)
+5-JAN-13,singular,NEUTRAL,0.0
+2-1PYL,singular,NEUTRAL,0.0
+ACTIVE,singular,NEUTRAL,0.0

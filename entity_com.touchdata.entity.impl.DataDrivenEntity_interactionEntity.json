@@ -17,6 +17,7 @@
     } ],
       "bits" : [ "bitDateCreated", "bitInteractionReferenceNumber", "bitDuration", "bitCustomerAccountNumber", "bitDomainName", "bitCustomerGrade", "bitInteractionStatus", "bitInteractionChannel", "bitInteractionResult", "bitInteractionEventType", "bitInteractionEventResult", "bitBusinessUnitName", "bitContactCenterName", "bitInteractionQueueName", "bitCreditLimit", "bitSalesChannel", "bitMarketSegment", "bitSalesDivision", "bitKloutScore", "bitInfluenceScore", "bitBrand", "bitSubBrand", "bitProductCategory", "bitProduct", "bitGender", "bitAge", "bitSentiment"],
       "uniqueBits" : [ "bitInteractionReferenceNumber" ],
+      "defaultSortBit" : "bitDateCreated",      
       "subTypes" : [ ]
   }
 }

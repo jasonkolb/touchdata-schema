@@ -17,6 +17,7 @@
     } ],
     "bits" : [ "bitSubtype", "bitBrand", "bitDurationDistribution", "bitInteractionStatusDistribution", "bitInteractionChannelDistribution", "bitInteractionResultDistribution", "bitInteractionEventTypeDistribution", "bitInteractionEventResultDistribution", "bitInteractionQueueNameDistribution", "bitKloutScoreDistribution", "bitInfluenceScoreDistribution", "bitGenderDistribution", "bitPopulationAgeDistribution" ],
     "uniqueBits" : [ "bitBrand" ],
+    "defaultSortBit" : "bitBrand",
     "subTypes" : [ ]
   }
 }

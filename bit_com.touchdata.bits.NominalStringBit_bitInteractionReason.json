@@ -1,6 +1,6 @@
 {
   "com.touchdata.bits.NominalStringBit" : {
-    "beanName" : "bitContactCenterName",
+    "beanName" : "bitInteractionReason",
     "securityAccessList" : [ ],
     "hashAlgorithms" : [ ],
     "desirabilityOrientation" : "NEUTRAL",
@@ -10,15 +10,15 @@
       "localeCode" : "enus",
       "localeCode" : "enus",
       "countNoun" : false,
-      "singularForm" : "contact center",
-      "pluralForm" : "contact centers",
+      "singularForm" : "interaction reason",
+      "pluralForm" : "interaction reasons",
       "quantifier" : "number",
       "adjective" : "",
       "lessComparator" : "fewer",
       "lessSuperlative" : "fewest",
       "moreComparator" : "more",
       "moreSuperlative" : "most",
-      "description" : "A contact center"
+      "description" : "customer interaction reason"
     } ],
     "abbreviations" : null,
     "dependentDataAnalysisJobClass" : null,

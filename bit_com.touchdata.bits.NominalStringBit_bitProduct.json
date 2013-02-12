@@ -20,7 +20,7 @@
       "moreSuperlative" : "most",
       "description" : "A product"
     } ],
-    "abbreviations" : null,    
+    "abbreviations" : null,
     "dependentDataAnalysisJobClass" : null,
     "icon" : "icons/atom.png"
   }

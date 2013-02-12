@@ -1,0 +1,26 @@
+{
+  "com.touchdata.bits.NominalRollupBit" : {
+    "aggregatedEntityName" : "customerEntity",
+    "aggregatedEntityBitName" : "bitSalesDivision",
+    "beanName" : "bitSalesDivisionDistribution",
+    "desirabilityOrientation" : "NEUTRAL",
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "sales division distribution",
+      "pluralForm" : "sales division distributions",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "This bit describes a distribution of sales divisions"
+    } ],
+    "brokenDownEntityName" : {
+      "enus" : "sales division"
+    },
+    "icon" : "icons/Education-128x128-Education.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

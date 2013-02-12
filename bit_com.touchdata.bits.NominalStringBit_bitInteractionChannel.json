@@ -20,8 +20,8 @@
       "moreSuperlative" : "most",
       "description" : "customer interaction type"
     } ],
-    "abbreviations" : null,    
-    "icon" : "icons/atom.png",
-    "dependentDataAnalysisJobClass" : null
+    "abbreviations" : null,
+    "dependentDataAnalysisJobClass" : null,
+    "icon" : "icons/atom.png"
   }
 }

@@ -1,0 +1,30 @@
+{
+  "com.touchdata.bits.NominalRollupBit" : {
+    "aggregatedEntityName" : "customaerEntity",
+    "aggregatedEntityBitName" : "bitAccountType",
+    "beanName" : "bitAccountTypeDistribution",
+    "desirabilityOrientation" : "NEUTRAL",
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "account type distribution",
+      "pluralForm" : "account type distributions",
+      "quantifier" : "amount",
+      "adjective" : "graded",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "This bit describes a distribution of account types"
+    } ],
+    "minimumValue" : 0.0,
+    "maximumValue" : null,
+    "maximumValueBit" : null,
+    "brokenDownEntityName" : {
+      "enus" : "account types"
+    },
+    "icon" : "icons/Education-128x128-Education.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

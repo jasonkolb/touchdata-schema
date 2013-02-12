@@ -4,6 +4,7 @@
     "securityAccessList" : [ ],
     "hashAlgorithms" : [ ],
     "desirabilityOrientation" : "NEUTRAL",
+    "bitsInHash" : 16,
     "stringFormat" : null,
     "nounDescriptions" : [ {
       "localeCode" : "enus",
@@ -19,7 +20,7 @@
       "moreSuperlative" : "most",
       "description" : "A customer interaction status"
     } ],
-    "abbreviations" : null,    
+    "abbreviations" : null,
     "dependentDataAnalysisJobClass" : null,
     "icon" : "icons/atom.png"
   }

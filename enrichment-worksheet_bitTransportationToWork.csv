@@ -1,0 +1,8 @@
+Code/Key,Natural Language Description,Desirability(0=horrible;5=fantastic),Monetary value(positive or negative)
+DRIVEALONE,solo driver,NEUTRAL,0.0
+CARPOOL,carpooler,NEUTRAL,0.0
+PUBLICTRANSPORT,User of public transportation,NEUTRAL,0.0
+WALK,walker,NEUTRAL,0.0
+BIKE,biker,NEUTRAL,0.0
+OTHER,commutes in other ways,NEUTRAL,0.0
+WORKATHOME,home worker,NEUTRAL,0.0

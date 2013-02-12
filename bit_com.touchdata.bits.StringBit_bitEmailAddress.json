@@ -1,0 +1,24 @@
+{
+  "com.touchdata.bits.StringBit" : {
+    "beanName" : "bitEmailAddress",
+    "desirabilityOrientation" : "NEUTRAL",
+    "hashAlgorithms" : [],    
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : true,
+      "singularForm" : "email address",
+      "pluralForm" : "email addresses",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "Email Address"
+    } ],
+    "abbreviations" : null,
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : "emailAnalysisBot"
+  }
+}

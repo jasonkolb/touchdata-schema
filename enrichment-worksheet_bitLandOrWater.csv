@@ -1,0 +1,3 @@
+Code/Key,Natural Language Description,Desirability(0=horrible;5=fantastic),Monetary value(positive or negative)
+AREAWATR,water area,NEUTRAL,0.0
+AREALAND,land area,NEUTRAL,0.0

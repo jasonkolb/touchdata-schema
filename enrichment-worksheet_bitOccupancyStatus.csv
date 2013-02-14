@@ -1,3 +1,0 @@
-Code/Key,Natural Language Description,Desirability(0=horrible;5=fantastic),Monetary value(positive or negative)
-H0030002,occupied house,MOREISBETTER,0.0
-H0030003,vacant house,LESSISBETTER,0.0

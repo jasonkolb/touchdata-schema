@@ -1,6 +1,0 @@
-Code/Key,Natural Language Description,Desirability(0=horrible;5=fantastic),Monetary value(positive or negative)
-B06009002,business,LESSISBETTER,0.0
-B06009003,high school graduate,NEUTRAL,0.0
-B06009004,college educated person,NEUTRAL,0.0
-B06009005,college graduate,MOREISBETTER,0.0
-B06009006,post-graduate educated person,MOREISBETTER,0.0

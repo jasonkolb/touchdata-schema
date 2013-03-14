@@ -4,6 +4,7 @@
     "securityAccessList" : [ ],
     "hashAlgorithms" : [ ],
     "desirabilityOrientation" : "NEUTRAL",
+    "bitsInHash" : 16,
     "stringFormat" : null,
     "nounDescriptions" : [ {
       "localeCode" : "enus",
@@ -22,6 +23,7 @@
     "abbreviations" : null,
     "dimensions" : {
       "Female" : {
+        "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -29,10 +31,10 @@
           "localeCode" : "enus",
           "localeCode" : "enus",
           "countNoun" : true,
-          "singularForm" : null,
+          "singularForm" : "singular",
           "pluralForm" : null,
-          "quantifier" : null,
-          "adjective" : null,
+          "quantifier" : "number (default quantifier)",
+          "adjective" : "most (default adjective)",
           "lessComparator" : "less",
           "lessSuperlative" : "least",
           "moreComparator" : "more",
@@ -41,6 +43,7 @@
         } ]
       },
       "Male" : {
+        "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
         "desireabilityOrientation" : "NEUTRAL",
@@ -48,10 +51,50 @@
           "localeCode" : "enus",
           "localeCode" : "enus",
           "countNoun" : true,
-          "singularForm" : null,
+          "singularForm" : "singular",
           "pluralForm" : null,
-          "quantifier" : null,
-          "adjective" : null,
+          "quantifier" : "number (default quantifier)",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "MALE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "FEMALE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
           "lessComparator" : "less",
           "lessSuperlative" : "least",
           "moreComparator" : "more",
@@ -60,7 +103,7 @@
         } ]
       }
     },
-    "icon" : "icons/atom.png",
-    "dependentDataAnalysisJobClass" : null
+    "dependentDataAnalysisJobClass" : null,
+    "icon" : "icons/atom.png"
   }
 }

@@ -1,26 +1,21 @@
 {
-  "com.touchdata.bits.NominalStringBit" : {
-    "beanName" : "bitBrand",
-    "securityAccessList" : [ ],
-    "hashAlgorithms" : [ ],
+  "com.touchdata.bits.BooleanBit" : {
+    "beanName" : "bitOverAgeIndicator",
     "desirabilityOrientation" : "NEUTRAL",
-    "bitsInHash" : 16,
-    "stringFormat" : null,
     "nounDescriptions" : [ {
       "localeCode" : "enus",
       "localeCode" : "enus",
-      "countNoun" : false,
-      "singularForm" : "brand",
-      "pluralForm" : "brands",
+      "countNoun" : true,
+      "singularForm" : "over age",
+      "pluralForm" : "over age",
       "quantifier" : "number",
-      "adjective" : "",
+      "adjective" : "duplicate",
       "lessComparator" : "fewer",
       "lessSuperlative" : "fewest",
       "moreComparator" : "more",
       "moreSuperlative" : "most",
-      "description" : "A brand"
+      "description" : "A flag indicating that the product is past its shelf life."
     } ],
-    "abbreviations" : null,
     "icon" : "icons/atom.png",
     "dependentDataAnalysisJobClass" : null
   }

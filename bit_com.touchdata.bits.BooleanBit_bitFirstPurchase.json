@@ -1,0 +1,22 @@
+{
+  "com.touchdata.bits.BooleanBit" : {
+    "beanName" : "bitFirstPurchase",
+    "desirabilityOrientation" : "NEUTRAL",
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : true,
+      "singularForm" : "short sale",
+      "pluralForm" : "short sales",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "First purchase"
+    } ],
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

@@ -1,6 +1,6 @@
 {
   "com.touchdata.bits.NominalStringBit" : {
-    "beanName" : "bitBrand",
+    "beanName" : "bitSubSpecificReason",
     "securityAccessList" : [ ],
     "hashAlgorithms" : [ ],
     "desirabilityOrientation" : "NEUTRAL",
@@ -10,18 +10,18 @@
       "localeCode" : "enus",
       "localeCode" : "enus",
       "countNoun" : false,
-      "singularForm" : "brand",
-      "pluralForm" : "brands",
+      "singularForm" : "interaction sub-reason",
+      "pluralForm" : "interaction sub-reasons",
       "quantifier" : "number",
       "adjective" : "",
       "lessComparator" : "fewer",
       "lessSuperlative" : "fewest",
       "moreComparator" : "more",
       "moreSuperlative" : "most",
-      "description" : "A brand"
+      "description" : "customer interaction sub-reason"
     } ],
     "abbreviations" : null,
-    "icon" : "icons/atom.png",
-    "dependentDataAnalysisJobClass" : null
+    "dependentDataAnalysisJobClass" : null,
+    "icon" : "icons/atom.png"
   }
 }

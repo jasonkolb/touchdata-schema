@@ -1,0 +1,22 @@
+{
+  "com.touchdata.bits.BooleanBit" : {
+    "beanName" : "bitFirstPurchase",
+    "desirabilityOrientation" : "NEUTRAL",
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : true,
+      "singularForm" : "is critical",
+      "pluralForm" : "are critical",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "Critical Flag"
+    } ],
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

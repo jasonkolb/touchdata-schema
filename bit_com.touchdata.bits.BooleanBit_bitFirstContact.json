@@ -1,0 +1,22 @@
+{
+  "com.touchdata.bits.BooleanBit" : {
+    "beanName" : "bitFirstContact",
+    "desirabilityOrientation" : "NEUTRAL",
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : true,
+      "singularForm" : "first contact",
+      "pluralForm" : "first contacts",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "first contact"
+    } ],
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

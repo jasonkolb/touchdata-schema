@@ -1,24 +1,20 @@
 {
   "com.touchdata.bits.NominalStringBit" : {
-    "beanName" : "bitBrand",
-    "securityAccessList" : [ ],
-    "hashAlgorithms" : [ ],
+    "beanName" : "bitPNL",
     "desirabilityOrientation" : "NEUTRAL",
-    "bitsInHash" : 16,
-    "stringFormat" : null,
     "nounDescriptions" : [ {
       "localeCode" : "enus",
       "localeCode" : "enus",
       "countNoun" : false,
-      "singularForm" : "brand",
-      "pluralForm" : "brands",
-      "quantifier" : "number",
-      "adjective" : "",
+      "singularForm" : "PNL",
+      "pluralForm" : "PNLs",
+      "quantifier" : "most",
+      "adjective" : "adj",
       "lessComparator" : "fewer",
       "lessSuperlative" : "fewest",
       "moreComparator" : "more",
       "moreSuperlative" : "most",
-      "description" : "A brand"
+      "description" : "A PNL"
     } ],
     "abbreviations" : null,
     "icon" : "icons/atom.png",

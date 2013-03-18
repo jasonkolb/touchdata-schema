@@ -1,0 +1,24 @@
+{
+  "com.touchdata.bits.IntegerBit" : {
+    "beanName" : "bitDuration",
+    "desirabilityOrientation" : "MOREISBETTER",
+    "hashAlgorithms" : [ "NUMERIC_MIN_TO_MAX" ],    
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "quantity purchased",
+      "pluralForm" : "quantities purchased",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "quantity purchased"
+    } ],
+    "numericMin" : 0.0,
+    "numericMax" : 10000.0,
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

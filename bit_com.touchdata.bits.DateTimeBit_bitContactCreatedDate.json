@@ -1,0 +1,22 @@
+{
+  "com.touchdata.bits.DateTimeBit" : {
+    "beanName" : "bitContactCreatedDate",
+    "desirabilityOrientation" : "NEUTRAL",
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "contact creation date",
+      "pluralForm" : "contact creation times",
+      "quantifier" : "length",
+      "adjective" : "large",
+      "lessComparator" : "fewer",
+      "lessSuperlative" : "fewest",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "A place"
+    } ],
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : "durationCalculatorActor"
+  }
+}

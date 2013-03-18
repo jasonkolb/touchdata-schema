@@ -1,0 +1,18 @@
+Gender = collective noun, causative
+	Women = common
+	Men = common
+Influence = abstract noun (collective)
+	High influence = common abstract
+	Low influcence = common abstract
+
+Sentiment = abstract noun (collective)
+
+possessive nouns?
+
+BLOGSITE customer interaction channel distributions are strongly associated with FEMALE genders: The probability of new interactionEntity of BLOGSITE customer interaction channel distributions being FEMALE is 0.89, calculated using Lambdas and 70.0 observations. Explore! Try 'show FEMALE interactions'.
+
+"Interactions coming from blogs are strongly associated with women. There is an 89% probability that blog interactions come from women."
+
+YOPLAIT product category distributions are strongly associated with FEMALE genders: The probability of new interactionEntity of YOPLAIT product category distributions being FEMALE is 0.82, calculated using Lambdas and 250.0 observations. Explore! Try 'show FEMALE interactions'.
+
+YOPLAIT product category distributions are strongly associated with women: The probability of new interactionEntity of YOPLAIT product category distributions being FEMALE is 0.82, calculated using Lambdas and 250.0 observations. Explore! Try 'show FEMALE interactions'.

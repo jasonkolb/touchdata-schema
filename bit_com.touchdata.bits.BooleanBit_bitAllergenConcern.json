@@ -1,26 +1,21 @@
 {
-  "com.touchdata.bits.NominalStringBit" : {
-    "beanName" : "bitBrand",
-    "securityAccessList" : [ ],
-    "hashAlgorithms" : [ ],
+  "com.touchdata.bits.BooleanBit" : {
+    "beanName" : "bitAllergenConcern",
     "desirabilityOrientation" : "NEUTRAL",
-    "bitsInHash" : 16,
-    "stringFormat" : null,
     "nounDescriptions" : [ {
       "localeCode" : "enus",
       "localeCode" : "enus",
-      "countNoun" : false,
-      "singularForm" : "brand",
-      "pluralForm" : "brands",
+      "countNoun" : true,
+      "singularForm" : "allergen concern",
+      "pluralForm" : "allergen concern",
       "quantifier" : "number",
-      "adjective" : "",
+      "adjective" : "concerned about allergens",
       "lessComparator" : "fewer",
       "lessSuperlative" : "fewest",
       "moreComparator" : "more",
       "moreSuperlative" : "most",
-      "description" : "A brand"
+      "description" : "A flag indicating that contact is about allergen concerns"
     } ],
-    "abbreviations" : null,
     "icon" : "icons/atom.png",
     "dependentDataAnalysisJobClass" : null
   }

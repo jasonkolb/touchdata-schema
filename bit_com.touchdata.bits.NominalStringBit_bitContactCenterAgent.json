@@ -1,6 +1,6 @@
 {
   "com.touchdata.bits.NominalStringBit" : {
-    "beanName" : "bitBrand",
+    "beanName" : "bitContactCenterAgent",
     "securityAccessList" : [ ],
     "hashAlgorithms" : [ ],
     "desirabilityOrientation" : "NEUTRAL",
@@ -10,18 +10,18 @@
       "localeCode" : "enus",
       "localeCode" : "enus",
       "countNoun" : false,
-      "singularForm" : "brand",
-      "pluralForm" : "brands",
+      "singularForm" : "contact center agent",
+      "pluralForm" : "contact center agents",
       "quantifier" : "number",
       "adjective" : "",
       "lessComparator" : "fewer",
       "lessSuperlative" : "fewest",
       "moreComparator" : "more",
       "moreSuperlative" : "most",
-      "description" : "A brand"
+      "description" : "A contact center"
     } ],
     "abbreviations" : null,
-    "icon" : "icons/atom.png",
-    "dependentDataAnalysisJobClass" : null
+    "dependentDataAnalysisJobClass" : null,
+    "icon" : "icons/atom.png"
   }
 }

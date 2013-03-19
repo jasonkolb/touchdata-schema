@@ -19,9 +19,6 @@
       "moreComparator" : "more",
       "moreSuperlative" : "most",
       "description" : "A brand"
-    } ],
-    "abbreviations" : null,
-    "icon" : "icons/atom.png",
-    "dependentDataAnalysisJobClass" : null
-  }
+    } ]
+}
 }

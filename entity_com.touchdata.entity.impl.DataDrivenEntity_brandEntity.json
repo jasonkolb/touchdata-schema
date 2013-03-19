@@ -16,7 +16,7 @@
       "description" : "A brand" 
     } ],
     "defaultSortBit" : "bitBrand",
-    "bits" : [ "bitSubtype", "bitDateTimeStamp", "bitBrand", "bitDurationDistribution", "bitInteractionStatusDistribution", "bitInteractionChannelDistribution", "bitInteractionResultDistribution", "bitInteractionEventTypeDistribution", "bitInteractionEventResultDistribution", "bitInteractionQueueNameDistribution", "bitKloutScoreDistribution", "bitInfluenceScoreDistribution", "bitGenderDistribution", "bitPopulationAgeDistribution" ],
+    "bits" : [ "bitSubtype", "bitDateTimeStamp", "bitBrand"],
     "uniqueBits" : [ "bitBrand" ],
     "defaultSortBit" : "bitBrand",
     "subTypes" : [ ]

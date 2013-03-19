@@ -1,0 +1,24 @@
+{
+  "com.touchdata.bits.IntegerBit" : {
+    "beanName" : "bitProductShelfLife",
+    "desirabilityOrientation" : "NEUTRAL",
+    "hashAlgorithms" : [ "NUMERIC_MIN_TO_MAX" ],    
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "product shelf life",
+      "pluralForm" : "product shelf life",
+      "quantifier" : "length",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "product shelf life"
+    } ],
+    "numericMin" : 0.0,
+    "numericMax" : 10000.0,
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
+  }
+}

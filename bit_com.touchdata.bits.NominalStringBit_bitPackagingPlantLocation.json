@@ -1,8 +1,13 @@
 {
   "com.touchdata.bits.NominalStringBit" : {
     "beanName" : "bitPackagingPlantLocation",
+    "securityAccessList" : [ ],
+    "hashAlgorithms" : [ ],
     "desirabilityOrientation" : "NEUTRAL",
+    "bitsInHash" : 16,
+    "stringFormat" : null,
     "nounDescriptions" : [ {
+      "localeCode" : "enus",
       "localeCode" : "enus",
       "countNoun" : false,
       "singularForm" : "packaging plant location",
@@ -15,6 +20,3229 @@
       "moreSuperlative" : "most",
       "description" : "A packaging plant location"
     } ],
+    "abbreviations" : null,
+    "dimensions" : {
+      "UNIDENTIFIED" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CEDAR RAPIDS, IA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "COLUMBUS, GA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BELVIDERE, IL" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LONDON, KY" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "GENEVA, IL" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "KENTWOOD, MI" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "VIRU LA LIBERTAD, 04" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "COVINGTON, GA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "MURFREESBORO, TN" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "NEW ALBANY, IN" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LODI, CA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "ST CHARLES, IL" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "HANNIBAL, MO" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "WILLIAMS, CA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "VINELAND, NJ" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "JOPLIN, MO" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "ROME, GA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SCARBOROUGH, ON" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "MONTGOMERY, MN" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "WELLSTON, OH" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "KANSAS CITY, MO" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SHARONVILLE, OH" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LOUISVILLE, CO" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "MILWAUKEE, WI" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LAKEVILLE, MN" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "ASHTON, IL" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "TORONTO, ON" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "GOLDEN VALLEY, MN" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CHARLOTTE, NC" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "MICHIGAN CITY, IN" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "WEST CHICAGO, IL" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "REED CITY, MI" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LAVAL, QC" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "FREDERICKSBURG, IA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "ALBUQUERQUE, NM" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "IRAPUATO, GTO" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SANTA CRUZ, CA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "METHUEN, MA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BUFFALO, NY" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CARLISLE, IA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "IRAPUATO, GT" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SHIRLEY, NY" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "GREAT FALLS, MT" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "N/A, ZZ" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CHANHASSEN, MN" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "FARIBAULT, MN" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "NASHVILLE, TN" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "ENGLEWOOD, CO" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CARSON, CA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "GREENVILLE, SC" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BENNETTSVILLE, SC" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "MARTEL, OH" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "GLENCOE, MN" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "MOJOKERTO 61373, 04" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "ELGIN, IL" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "ROCHESTER, MN" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "GREENVILLE, NH" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "RICHLAND CENTER, WI" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "ST AUGUSTIN-DE-DESMAURES, QC" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CUMBERLAND, WI" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "WATSONVILLE, CA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SHIPPENSBURG, PA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BOSCOBEL, WI" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SALEM, OR" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "MIDLAND, ON" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SEALY, TX" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "PORTLAND, OR" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "ERIE, PA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LEMOORE, CA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "WENONA, IL" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CHILLAN, CHILE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SAVANNAH, GA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CHESTER, IL" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BOLINGBROOK, IL" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "DEMING, NM" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "AUSTIN, MN" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "HIAWATHA, IA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "GENEVA, NY" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "EUGENE, OR" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "HORST, NETHERLANDS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BUHL, ID" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "DAYTON, WA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "FOREST GROVE, OR" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "WHEELING, IL" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BLUE EARTH, MN" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LINCOLN, NE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "WINNIPEG, MB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "MAYVILLE, WI" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "JONESBORO AR" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "N/A, INDONESIA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "NORTH LITTLE ROCK, AR" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CHINA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "ITASCA, IL" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "MAYAGUEZ, PR" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CHICAGO, IL" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "FAIRPORT, NY" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "JACKSON, OH" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "DENVER, CO" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "WILLINGBORO, NJ" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "COBOURG, ON" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "FULLERTON, CA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "DALLAS, TX" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "PROSSER, WA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "COMMERCE, CA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SAINTE-CLARIE, QC" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "OMAK, WA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LOGAN, UT" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "POPLAR, WI" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "MASSILLON, OH" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "PASURUAN, 02" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "FRESNO, CA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "PLOVER, WI" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CITY OF COMMERCE, CA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "HARTFORD, CT" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BRISTOL, VA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "FRANKLIN, WI" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "HERMISTON, OR" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "PAYETTE, ID" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "TAIAN, 120" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "DUNMORE, PA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CHATTANOOGA, TN" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "HUDSONVILLE, MI" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "TOLDEO, OH" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "EASTON, PA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "HOLLAND, MI" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "JACKSON, TN" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "FRANKLIN PARK, IL" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "MANTECA, CA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CASTROVILLE, CA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LE MARS, IA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "STUTTGARD, AR" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "MURCIA, 30" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "MONTGOMERY, IL" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "GERMANTOWN, WI" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "JANESVILLE, WI" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LOUISVILLE, KY" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "EL RAAL, 30" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "WOODLAND, CA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BLACKFOOT, ID" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SEELYVILLE, IN" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "VERNON, CA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "OGDEN, UTAH" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SANTA FE SPRINGS, CA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "GRAND RAPIDS, MI" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BAKERSFIELD, CA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BROADVIEW, IL" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SANFORD, NC" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LONGUEUIL, QC" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "OAKLAND, CA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "FOREST PARK, GA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CTRA DEL JIMENADO KM 2, 30" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "HILLSDALE, MI" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BALTIMORE, MD" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "TECUMSEH, ON" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "STE. MARTINE, QC" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "NEW HOPE, MN" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "OMAHA, NE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "MISSISSAUGA, ON" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "ST AUGUSTIN DE DESMAURES, QC" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "NORTHLAKE, IL" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      }
+    },
     "icon" : "icons/atom.png",
     "dependentDataAnalysisJobClass" : null
   }

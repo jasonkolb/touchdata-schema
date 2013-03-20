@@ -1,7 +1,11 @@
 {
   "com.touchdata.bits.NominalStringBit" : {
     "beanName" : "bitProductReceivedStatus",
+    "securityAccessList" : [ ],
+    "hashAlgorithms" : [ ],
     "desirabilityOrientation" : "NEUTRAL",
+    "bitsInHash" : 16,
+    "stringFormat" : null,
     "nounDescriptions" : [ {
       "localeCode" : "enus",
       "localeCode" : "enus",
@@ -17,6 +21,48 @@
       "description" : "Received Status"
     } ],
     "abbreviations" : null,
+    "dimensions" : {
+      "NOT RECD" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "RECD" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      }
+    },
     "icon" : "icons/atom.png",
     "dependentDataAnalysisJobClass" : null
   }

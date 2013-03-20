@@ -21,6 +21,1588 @@
       "description" : "contact channel"
     } ],
     "abbreviations" : null,
+    "dimensions" : {
+      "OLD EL PASO WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BETTY CROCKER WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "PHONE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LETTER" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "B&FS 800" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "GENERAL MILLS WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "PILLSBURY WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CHEERIOS WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "FIBERSEEKERS WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "GREEN GIANT WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "PROGRESSO WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "NATURE VALLEY WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "TOTINOS WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CHEX MIX WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CHEXMIX WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "ALICE.COM WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BIGGCEREAL CLUB WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "WANCHAI FERRY WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CORPORATE RECRUITING" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SMALL PLANET FOODS WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "EATBETTERAMERICA WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LARABAR WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "GLUTEN FREELY WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "REPLICATED" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "PSST WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "E-MAIL" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "RESTAURANT FAVORITES" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "GOLD MEDAL FLOUR" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "EVERYDAY SAVER WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "B&FS EMAIL" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "RETRIEVAL ONLY" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "B&FS WEB FORM" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "NATURE VALLEY AU WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "MOUNTAIN HIGH WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "RETAIL WEB FORM" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "B&FS INTERNATIONAL LETTER/FAX" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "TABLESPOON WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CORPORATE SOCIAL MEDIA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "B&FS INTERNATIONAL 800" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BIG G GAZETTE WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "YOPLAIT WEBSITE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BETTY CROCKER UK" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "TOTAL CEREAL WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "EAT BETTER EARLY WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "QUE RICA VIDA WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "B&FS LETTER/FAX" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "FAX" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "OLD EL PASO AU WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "OLD ELPASO UK" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CONSUMER SERVICES INTERNAL WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "GROW UP STRONG WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "TWITTER" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "INTERNAL" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BETTYCROCKER CANADIAN WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "WEBSITE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "B&FS INTERNATIONAL WEB/EMAIL" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CHEERIOS.CA WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "POUND FOR POUND WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "FSTG WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "FACEBOOK" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "GREEN AWARDS WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "JOIN MY VILLAGE WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CLAIMS ONLY" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LIBERTEUSA WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LIFEMADEDELICIOUS  CA WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "MUIR GLEN WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LIVE BETTER EARLY WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BETTY CROCKER AU WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CEREAL BENEFITS WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "YOPLAIT CA WEBSITE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LIVEBETTERAMERICA WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LATINA FRESH AU WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "JUSROL UK" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "OLD ELPASO FR" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LOCAL CALLS (CANADA USE ONLY)" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SP. COUPON-ADMIN ONLY" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "NATURE VALLEY UK" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LIFE MADE DELICIOUS FACEBOOK" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BELL INSTITUTE.CA WEB" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      }
+    },
     "icon" : "icons/atom.png",
     "dependentDataAnalysisJobClass" : null
   }

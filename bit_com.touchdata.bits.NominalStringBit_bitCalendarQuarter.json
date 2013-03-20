@@ -21,7 +21,69 @@
       "description" : "A calendar quarter"
     } ],
     "abbreviations" : null,
-    "dependentDataAnalysisJobClass" : null,
-    "icon" : "icons/atom.png"
+    "dimensions" : {
+      "Q2" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Q3" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "Q4" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      }
+    },
+    "icon" : "icons/atom.png",
+    "dependentDataAnalysisJobClass" : null
   }
 }

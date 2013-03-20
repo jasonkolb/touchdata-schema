@@ -1,8 +1,13 @@
 {
   "com.touchdata.bits.NominalStringBit" : {
     "beanName" : "bitPackagingPlant",
+    "securityAccessList" : [ ],
+    "hashAlgorithms" : [ ],
     "desirabilityOrientation" : "NEUTRAL",
+    "bitsInHash" : 16,
+    "stringFormat" : null,
     "nounDescriptions" : [ {
+      "localeCode" : "enus",
       "localeCode" : "enus",
       "countNoun" : false,
       "singularForm" : "packaging plant",
@@ -15,6 +20,3709 @@
       "moreSuperlative" : "most",
       "description" : "A packaging plant"
     } ],
+    "abbreviations" : null,
+    "dimensions" : {
+      "UNIDENTIFIED" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CEDAR RAPIDS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LANCE INC - COLUMBUS GA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BELVIDERE - PNA/GG FZ" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "HEARTHSIDE FOODS SOLUTIONS LLC" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "POWER PACKAGING INC - GENEVA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "ROSKAM BAKING COMPANY" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "VIRU - LA LIBERTAD" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "COVINGTON WEST" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "MURFREESBORO - PNA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "NEW ALBANY - PNA/RBG" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LODI" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "POWER PACKAGING INC. ST. CHARL" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "HANNIBAL - PNA/OEP" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "OLAM TOMATO PROC INC-WILLIAMS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "AUNT KITTYS FOODS INC" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "HEARTHSIDE FOOD SOLUTIONS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "JOPLIN - FS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SARA LEE - ROME" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "MORRISON LAMOTHE INC" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SENECA FOODS CORP-MONTGOMERY" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "WELLSTON - PNA/PIZZA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "KANSAS CITY FLOUR" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CINCINNATI" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "FRESCA FOODS INC PIERCE AVE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "MILWAUKEE - GARDETTOS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "COVINGTON EAST" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "FUSION CULINARY CENTER" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CREST FOODS, INC." : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "TRADITION FINE FOODS - TORONTO" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "JFB TECHNICAL CENTER" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "VINELAND - PNA/PROGRESSO" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LANCE COMPANY" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "HEARTHSIDE FOODS - MICH CITY" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "WEST CHICAGO" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "REED CITY" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "GLUTINO FOOD GROUP" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "KERRY ING & FLAVOURS - IOWA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "ALBUQUERQUE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "IRAPUATO SUR (SOUTH)" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "HARMONY FOODS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "METHUEN" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BUFFALO" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "AVON FLOUR @ CARLISLE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "IRAPUATO" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "UNITED BAKING" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "GREAT FALLS FLOUR" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "ICE CREAM SPECIALTIES" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CHANHASSEN" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "FARIBAULT FOODS, INC." : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "STANDARD CANDY - NASHVILLE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "DEAN FOODS - ENGLEWOOD" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CARSON" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "GICS FOODS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SOPAKCO PACKAGING" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "MARTEL - FS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SENECA FOODS CORP-GLENCOE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "PT KARYA KOMPOS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "PROVEN PARTNERS GROUP INC" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SENECA FOODS CORP-ROCHESTER" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "OLD DUTCH MUSTARD" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SCHREIBER FOODS INC - RICHLAND" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BISCUITS LECLERC LTEE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SENECA FOODS CORP-CUMBERLAND" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "DEL MAR FOOD PROD. CORP." : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SCHREIBER FOODS - SHIPPENSBURG" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "NU-PAK" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "RAINSWEET" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "MIDLAND - PNA/RBG" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BLENCOR LLC" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "HARRYS FRESH FOODS, INC" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BETTER BAKED FOODS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "OLAM TOMATO PROC INC-LEMOORE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "OAK STATE PRODUCTS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "COMFRUT" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "KERRY INC - SAVANNAH" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "GILSTER MARY" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BRIDGETOWN BAKERY" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "PEACOCK ENGINEERING" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SCHREIBER FOODS INC RC WEST" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BORDER FOODS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "AUSTIN PACKAGING COMPANY" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CCB PACKAGING INC." : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SENECA FOODS CORP-GENEVA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "HEARTHSIDE FOODS - EUGENE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LUTECE BV" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SENECA FOODS CORP-BUHL" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SENECA FOODS CORP-DAYTON" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "JIM LIEB FOODS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CANO PACKAGING CORP" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "KERRY INGREDIENTS & FLAVOURS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "US FOODS INC" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "WINNIPEG" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "AMERICOLD - MURFREESBORO" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SENECA FOODS CORP-MAYVILLE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "RYTWAY @ LAKEVILLE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "RIVLAND FOODS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "PT ZETA AGRO" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SENECA FOODS-ROCHESTER FROZ" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "DEWAFELBAKKERS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BLUE FIELD SICHUAN FOODS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "PEACOCK ENGINEERING COMPANY" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BUMBLE BEE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "GOLD STANDARD BAKING COMPANY" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LIDESTRI FOODS - NEW YORK" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SENECA FOODS CORP-BLUE EARTH" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SENECA FOODS CORP - GLENCOE FR" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BELLISIO FOODS INC" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "RUSTCO" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "QUALITY BAKERY - WILLINGBORO" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "WEETABIX - COBURG, CANADA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SCHREIBER FOODS INC -FULLERTON" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "GRUMA CORP - MISSION" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "TEENY FOODS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "TREE TOP INC" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LOS ANGELES - FS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "KERRY SAINTE-CLAIRE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SUNOPTA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LA HACIENDA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SCHREIBER FOODS INC - LOGAN" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "POPLAR (PB)" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SHEARERS FOODS INC" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "PT EKA TIMUR RAYA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LI DESTRI FOODS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "KERRY GOLDEN COUNTY FOODS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SENECA FOODS - BUHL FROZ" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "PACIFIC CHOICE BRANDS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SAFEWAY INC - LA MILK PLANT" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SEVERANCE FOODS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BUFFALO FLOUR" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CONDOR SNACKS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SHEARERS FOODS - BRISTOL" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "PRIME CHOICE FOODS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BAPTISTA#S BAKERY INC." : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SHEARERS FOODS - HERMISTON" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SENECA FOODS - PAYETTE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "TAISHAN ASIA FOODS CO" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "GERTRUDE HAWK" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "FARLEYS & SATHERS CHATTANOOGA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CREME CURLS BAKERY" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "TOLEDO" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "KEYSTONE FOOD PRODUCTS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "HEINZ USA" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "ADM MILLING - JACKSON FS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "OLMARC @ FRANKLIN PARK" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "ADVD PCKG & DIST SPECIALISTS I" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "NATIONAL CUSTOM PACKING" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "WELLS DAIRY INC." : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "RICELAND" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "HALCON FOODS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "MONTGM PLT" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "IFS - FULTON" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SCHULZE & BURCH BISCUIT CO." : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SENECA FOODS CORP-JANESVILLE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CASA DE ORO FOODS-LOUISVILLE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CLOVERHILL BAKERY" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CONSERVAS EL RAAL" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "S K FOODS - WOODLAND" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BASIC AMERICAN FOODS-BLACKFOOT" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "PB&FS CHAN BREAKOUT" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "INDYBAKE PRODUCTS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "VERNON FLOUR" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "ADM MILLING - BUFFALO" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "FARLEYS & SATHERS-JERSEY PIKE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "HORIZON MILLING - OGDEN" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BUMBLE BEE FOODS-SANTAFE SPRNG" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "HOLLAND" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BAKERSFIELD - FS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "MULLINS FOOD PRODUCTS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "TYSON FOODS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "ULTIMA FOODS INC" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "KERRY (SPF)" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CALIFORNIA CEREAL PRODUCTS INC" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SARA LEE BAKERY GROUP" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "ANTONIO RODENAS MESEGUER" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "HILLSDALE - FS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "SCHMIDT BAKING COMPANY" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BONDUELLE NA - TECUMSEH" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BONDUELLE NA -FROZEN" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "BONDUELLE NA - STE MARTINE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "DAKOTA GROWERS - NEW HOPE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "CASA DE ORO FOODS" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "IMAGE PAC MDSE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "LECLERC FOODS - ST AUGUSTIN" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      },
+      "OLMARC @ NORTHLAKE" : {
+        "monetaryValue" : 0.0,
+        "indicatorsOrAbbreviations" : null,
+        "icon" : "icons/atom.png",
+        "desireabilityOrientation" : "NEUTRAL",
+        "nounDescriptions" : [ {
+          "localeCode" : "enus",
+          "localeCode" : "enus",
+          "countNoun" : true,
+          "singularForm" : "singular",
+          "pluralForm" : null,
+          "quantifier" : "number",
+          "adjective" : "most (default adjective)",
+          "lessComparator" : "less",
+          "lessSuperlative" : "least",
+          "moreComparator" : "more",
+          "moreSuperlative" : "most",
+          "description" : ""
+        } ]
+      }
+    },
     "icon" : "icons/atom.png",
     "dependentDataAnalysisJobClass" : null
   }

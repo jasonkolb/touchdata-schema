@@ -1,9 +1,13 @@
 {
   "com.touchdata.bits.IntegerBit" : {
     "beanName" : "bitUnitsAffected",
+    "securityAccessList" : [ ],
+    "hashAlgorithms" : [ "NUMERIC_MIN_TO_MAX" ],
     "desirabilityOrientation" : "LESSISBETTER",
-    "hashAlgorithms" : [ "NUMERIC_MIN_TO_MAX" ],    
+    "bitsInHash" : 2,
+    "stringFormat" : null,
     "nounDescriptions" : [ {
+      "localeCode" : "enus",
       "localeCode" : "enus",
       "countNoun" : false,
       "singularForm" : "units affected",
@@ -16,8 +20,8 @@
       "moreSuperlative" : "most",
       "description" : "units affected"
     } ],
-    "numericMin" : 0.0,
-    "numericMax" : 10000.0,
+    "numericMin" : 1.0,
+    "numericMax" : 3.0,
     "icon" : "icons/atom.png",
     "dependentDataAnalysisJobClass" : null
   }

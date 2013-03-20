@@ -1,0 +1,32 @@
+{
+  "com.touchdata.bits.NominalRollupBit" : {
+    "beanName" : "bitCalendarQuarterDistribution",
+    "securityAccessList" : [ ],
+    "hashAlgorithms" : [ "BREAKDOWN_MORTON_ENCODING" ],
+    "desirabilityOrientation" : "NEUTRAL",
+    "bitsInHash" : 16,
+    "stringFormat" : null,
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "calendar quarter",
+      "pluralForm" : "calendar quarters",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "fewer",
+      "lessSuperlative" : "fewest",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "A calendar quarter"
+    } ],
+    "aggregatedEntityName" : "interactionEntity",
+    "aggregatedEntityBitName" : "bitCalendarQuarter",
+    "minimumValue" : null,
+    "maximumValue" : null,
+    "maximumValueBit" : null,
+    "brokenDownEntityName" : null,
+    "dependentDataAnalysisJobClass" : null,
+    "icon" : "icons/atom.png"
+  }
+}

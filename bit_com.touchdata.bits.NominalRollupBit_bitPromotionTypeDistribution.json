@@ -1,0 +1,32 @@
+{
+  "com.touchdata.bits.NominalRollupBit" : {
+    "beanName" : "bitPromotionTypeDistribution",
+    "securityAccessList" : [ ],
+    "hashAlgorithms" : [ "BREAKDOWN_MORTON_ENCODING" ],
+    "desirabilityOrientation" : "NEUTRAL",
+    "bitsInHash" : 16,
+    "stringFormat" : null,
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "localeCode" : "enus",
+      "countNoun" : false,
+      "singularForm" : "promotion type",
+      "pluralForm" : "promotion types",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "fewer",
+      "lessSuperlative" : "fewest",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "A promotion type"
+    } ],
+    "aggregatedEntityName" : "interactionEntity",
+    "aggregatedEntityBitName" : "bitPromotionType",
+    "minimumValue" : null,
+    "maximumValue" : null,
+    "maximumValueBit" : null,
+    "brokenDownEntityName" : null,
+    "dependentDataAnalysisJobClass" : null,
+    "icon" : "icons/atom.png"
+  }
+}

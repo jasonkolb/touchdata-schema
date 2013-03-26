@@ -1,8 +1,11 @@
 {
   "com.touchdata.bits.DecimalBit" : {
     "beanName" : "bitCreditLimit",
+    "securityAccessList" : [ ],
+    "hashAlgorithms" : [ "NUMERIC_MIN_TO_MAX" ],
     "desirabilityOrientation" : "MOREISBETTER",
-    "hashAlgorithms" : [ "NUMERIC_MIN_TO_MAX" ],    
+    "bitsInHash" : 74,
+    "stringFormat" : null,
     "nounDescriptions" : [ {
       "localeCode" : "enus",
       "localeCode" : "enus",
@@ -19,8 +22,8 @@
     } ],
     "decimalPrecision" : 2,
     "numericMin" : 0.0,
-    "numericMax" : 3000000.0,
-    "icon" : "icons/atom.png",
-    "dependentDataAnalysisJobClass" : null
+    "numericMax" : 55102.3,
+    "dependentDataAnalysisJobClass" : null,
+    "icon" : "icons/atom.png"
   }
 }

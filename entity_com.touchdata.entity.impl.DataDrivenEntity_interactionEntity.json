@@ -2,7 +2,6 @@
   "com.touchdata.entity.impl.DataDrivenEntity" : {
     "beanName" : "interactionEntity",
     "dupeDetectionStrategy" : "cost",
-    "defaultSortBit" : "bitDateTimeStamp",
     "nounDescriptions" : [ {
       "localeCode" : "enus",
       "countNoun" : true,
@@ -16,8 +15,8 @@
       "moreSuperlative" : "most",
       "description" : "An interaction"
     } ],
-      "bits" : [ "bitDateTimeStamp", "bitDateCreated", "bitInteractionReferenceNumber", "bitInteractionReason", "bitDuration", "bitCustomerAccountNumber", "bitDomainName", "bitCustomerGrade", "bitInteractionStatus", "bitInteractionChannel", "bitInteractionResult", "bitInteractionEventType", "bitInteractionEventResult", "bitBusinessUnitName", "bitContactCenterName", "bitInteractionQueueName", "bitCreditLimit", "bitSalesChannel", "bitMarketSegment", "bitSalesDivision", "bitKloutScore", "bitInfluenceScore", "bitBrand", "bitSubBrand", "bitProductCategory", "bitProduct", "bitGender", "bitAge", "bitSentiment"],
-      "uniqueBits" : [ "bitInteractionReferenceNumber" ],
-      "subTypes" : [ ]
+    "defaultSortBit" : "bitDateTimeStamp",
+    "bits" : [ "bitDateTimeStamp", "bitDateCreated", "bitInteractionReferenceNumber", "bitInteractionReason", "bitDuration", "bitCustomerAccountNumber", "bitDomainName", "bitCustomerGrade", "bitInteractionStatus", "bitInteractionChannel", "bitInteractionResult", "bitInteractionEventType", "bitInteractionEventResult", "bitBusinessUnitName", "bitContactCenterName", "bitInteractionQueueName", "bitCreditLimit", "bitSalesChannel", "bitMarketSegment", "bitSalesDivision", "bitKloutScore", "bitInfluenceScore", "bitBrand", "bitSubBrand", "bitProuctCategory", "bitProduct", "bitGender", "bitAge", "bitSentiment", "bitName", "bitAccountType", "bitEmailAddress", "bitCustomerStatus", "bitInteractionSubReason", "bitInteractionArea" ],
+    "subTypes" : [ ]
   }
 }

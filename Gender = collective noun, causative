@@ -16,3 +16,34 @@ BLOGSITE customer interaction channel distributions are strongly associated with
 YOPLAIT product category distributions are strongly associated with FEMALE genders: The probability of new interactionEntity of YOPLAIT product category distributions being FEMALE is 0.82, calculated using Lambdas and 250.0 observations. Explore! Try 'show FEMALE interactions'.
 
 YOPLAIT product category distributions are strongly associated with women: The probability of new interactionEntity of YOPLAIT product category distributions being FEMALE is 0.82, calculated using Lambdas and 250.0 observations. Explore! Try 'show FEMALE interactions'.
+
+TURN OFF DEGRADED HASHING FOR NOMINAL STRING ROLLUP BITS <-- yes
+
+
+WORKER:
+
+
+export MAVEN_OPTS="-Xmx3G -XX:MaxPermSize=1g -XX:+UseParallelGC  -XX:+AggressiveHeap"
+mvn jetty:run -Dtarget=staging -DfeaturesTarget=staging -D jetty.port=9900 -DinitialBatchSize=10 -DbatchSize=500 -DrecordLimit=100000
+
+CLIENT:
+export MAVEN_OPTS="-Xmx1G -XX:MaxPermSize=500m -XX:+UseParallelGC"
+
+	FOR CRM
+	mvn jetty:run -Dtarget=staging -DfeaturesTarget=staging -DdataSourceToImport=crm -DrunDefaultQuery=true
+
+	FOR SOCIAL
+	mvn jetty:run -Dtarget=staging -DfeaturesTarget=staging -DdataSourceToImport=socialmedia -DrunDefaultQuery=true 
+
+	FOR BRANDS
+	mvn jetty:run -Dtarget=staging -DfeaturesTarget=staging -DdataSourceToImport=brands -DrunDefaultQuery=true -DrescanNumericRanges=true -DrescanNominals=true
+
+	-DrescanNumericRanges=true -DrescanNominals=true
+
+	OPTIONAL -DrescanNumericRanges=true -DrescanNominals=true
+
+batch size of 50 = ~30s per entry
+batch size of 1000 = timeouts
+batch size of 500 = timeouts
+batch size of 32 (4 per core) = ~27s per record - ~760% CPU  <----- 32 seems optimal
+batch size of 24 (3 per core) = 

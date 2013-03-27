@@ -16242,7 +16242,7 @@
           "description" : ""
         } ]
       },
-      "DANBURY MINT/MBI, INC." : {
+      "DANBURY MINT/MBI INC." : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -17002,7 +17002,7 @@
           "description" : ""
         } ]
       },
-      "E.F. APPLIANCES, CANADA, LTD." : {
+      "E.F. APPLIANCES CANADA LTD." : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -21942,7 +21942,7 @@
           "description" : ""
         } ]
       },
-      "TWIN PK-CHEERIOS/48\"C 37 OZ" : {
+      "TWIN PK-CHEERIOS/48C 37 OZ" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -47662,7 +47662,7 @@
           "description" : ""
         } ]
       },
-      "GG FRESH ASPARAGUS 36OZ BUNCH, CARTON 27#, LARGE" : {
+      "GG FRESH ASPARAGUS 36OZ BUNCH CARTON 27# LARGE" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -48082,7 +48082,7 @@
           "description" : ""
         } ]
       },
-      "GG VEGT BROC,PS,CAR,ALF SCE LG PLYBG  24 OZ" : {
+      "GG VEGT BROCPSCARALF SCE LG PLYBG  24 OZ" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -59102,7 +59102,7 @@
           "description" : ""
         } ]
       },
-      "GG FRESH BROCCOLI, CAULIFLOWER, CARROT MEDLEY 3 LB" : {
+      "GG FRESH BROCCOLI CAULIFLOWER CARROT MEDLEY 3 LB" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -65142,7 +65142,7 @@
           "description" : ""
         } ]
       },
-      "HASBRO, INC. - SFX" : {
+      "HASBRO INC. - SFX" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -73742,7 +73742,7 @@
           "description" : ""
         } ]
       },
-      "GG FRESH BABY SPINACH, 24 OZ." : {
+      "GG FRESH BABY SPINACH 24 OZ." : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -87502,7 +87502,7 @@
           "description" : ""
         } ]
       },
-      "TUBES 24 PACK ( 2X2301,1X2302 ) 1440 GR" : {
+      "TUBES 24 PACK ( 2X23011X2302 ) 1440 GR" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -88363,7 +88363,7 @@
         } ]
       }
     },
-    "icon" : "icons/atom.png",
-    "dependentDataAnalysisJobClass" : null
+    "dependentDataAnalysisJobClass" : null,
+    "icon" : "icons/atom.png"
   }
 }

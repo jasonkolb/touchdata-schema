@@ -1,0 +1,23 @@
+{
+  "com.touchdata.entity.impl.DataDrivenEntity" : {
+    "beanName" : "reasonEntity",
+    "dupeDetectionStrategy" : "cost",
+    "nounDescriptions" : [ {
+      "localeCode" : "enus",
+      "countNoun" : true,
+      "singularForm" : "reason",
+      "pluralForm" : "reasons",
+      "quantifier" : "number",
+      "adjective" : "",
+      "lessComparator" : "less",
+      "lessSuperlative" : "least",
+      "moreComparator" : "more",
+      "moreSuperlative" : "most",
+      "description" : "A reason" 
+    } ],
+    "bits" : [ "bitSpecificReason" ],
+    "uniqueBits" : [ "bitSpecificReason" ],
+    "defaultSortBit" : "bitSpecificReason",
+    "subTypes" : [ ]
+  }
+}

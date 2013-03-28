@@ -2922,7 +2922,7 @@
           "description" : ""
         } ]
       },
-      "MEIJERS, STRACK AND VANTILLS, PAYLO, WALMART" : {
+      "MEIJERS STRACK AND VANTILLS PAYLO WALMART" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -3382,7 +3382,7 @@
           "description" : ""
         } ]
       },
-      "ALBERTSONS, FRED MEYER, RITE AID" : {
+      "ALBERTSONS FRED MEYER RITE AID" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -3862,7 +3862,7 @@
           "description" : ""
         } ]
       },
-      "WALMART, HEB, COMMISSARY" : {
+      "WALMART HEB COMMISSARY" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -4122,7 +4122,7 @@
           "description" : ""
         } ]
       },
-      "SULLIVAN," : {
+      "SULLIVAN" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -4622,7 +4622,7 @@
           "description" : ""
         } ]
       },
-      "MARKET ST MARKET, LOWELL, MA" : {
+      "MARKET ST MARKET LOWELL MA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -5942,26 +5942,6 @@
           "description" : ""
         } ]
       },
-      "SAM,S" : {
-        "monetaryValue" : 0.0,
-        "indicatorsOrAbbreviations" : null,
-        "icon" : "icons/atom.png",
-        "desireabilityOrientation" : "NEUTRAL",
-        "nounDescriptions" : [ {
-          "localeCode" : "enus",
-          "localeCode" : "enus",
-          "countNoun" : true,
-          "singularForm" : "singular",
-          "pluralForm" : null,
-          "quantifier" : "number",
-          "adjective" : "most (default adjective)",
-          "lessComparator" : "less",
-          "lessSuperlative" : "least",
-          "moreComparator" : "more",
-          "moreSuperlative" : "most",
-          "description" : ""
-        } ]
-      },
       "RACE TRACK" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
@@ -6422,7 +6402,7 @@
           "description" : ""
         } ]
       },
-      "FAIRWAY," : {
+      "FAIRWAY" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -6602,7 +6582,7 @@
           "description" : ""
         } ]
       },
-      "\"UNSURE\"" : {
+      "UNSURE" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -6782,7 +6762,7 @@
           "description" : ""
         } ]
       },
-      "STOP & SHOP, SHAWS, WALMART, AND MARKET BASKET" : {
+      "STOP & SHOP SHAWS WALMART AND MARKET BASKET" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -7342,7 +7322,7 @@
           "description" : ""
         } ]
       },
-      "TARGET, SHOP RITE, WEIS" : {
+      "TARGET SHOP RITE WEIS" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -7942,7 +7922,7 @@
           "description" : ""
         } ]
       },
-      "PUBLIX, WALMART OR WALGREENS" : {
+      "PUBLIX WALMART OR WALGREENS" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -8002,7 +7982,7 @@
           "description" : ""
         } ]
       },
-      "SHADY MAPLE  FARM MARKET" : {
+      "SHADY MAPLE FARM MARKET" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -8762,7 +8742,7 @@
           "description" : ""
         } ]
       },
-      "PATHMARK, WALMART OR KMART" : {
+      "PATHMARK WALMART OR KMART" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -10062,7 +10042,7 @@
           "description" : ""
         } ]
       },
-      "WALMART, FOOD LION, LOWES" : {
+      "WALMART FOOD LION LOWES" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -11402,26 +11382,6 @@
           "description" : ""
         } ]
       },
-      "FAIRWAY" : {
-        "monetaryValue" : 0.0,
-        "indicatorsOrAbbreviations" : null,
-        "icon" : "icons/atom.png",
-        "desireabilityOrientation" : "NEUTRAL",
-        "nounDescriptions" : [ {
-          "localeCode" : "enus",
-          "localeCode" : "enus",
-          "countNoun" : true,
-          "singularForm" : "singular",
-          "pluralForm" : null,
-          "quantifier" : "number",
-          "adjective" : "most (default adjective)",
-          "lessComparator" : "less",
-          "lessSuperlative" : "least",
-          "moreComparator" : "more",
-          "moreSuperlative" : "most",
-          "description" : ""
-        } ]
-      },
       "WILLIAMS SUPER MARKET" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
@@ -11502,7 +11462,7 @@
           "description" : ""
         } ]
       },
-      "PRICE CHOPPER, TOPPS, OR WEGMANS" : {
+      "PRICE CHOPPER TOPPS OR WEGMANS" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -11642,7 +11602,7 @@
           "description" : ""
         } ]
       },
-      "I&M OIL, INC." : {
+      "I&M OIL INC." : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -13742,7 +13702,7 @@
           "description" : ""
         } ]
       },
-      "KINGS, WEGMANS, A & P" : {
+      "KINGS WEGMANS A & P" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -14242,7 +14202,7 @@
           "description" : ""
         } ]
       },
-      "FOOD LION, INGALLS, OR BI-LO" : {
+      "FOOD LION INGALLS OR BI-LO" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -14302,7 +14262,7 @@
           "description" : ""
         } ]
       },
-      "WALMART, COMMISSARY" : {
+      "WALMART COMMISSARY" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -14682,7 +14642,7 @@
           "description" : ""
         } ]
       },
-      "FRED MEIJER," : {
+      "FRED MEIJER" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -14942,7 +14902,7 @@
           "description" : ""
         } ]
       },
-      "WALMART, HEB, TARGET" : {
+      "WALMART HEB TARGET" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -15182,7 +15142,7 @@
           "description" : ""
         } ]
       },
-      "TOPPS, WEGMANS" : {
+      "TOPPS WEGMANS" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -15402,7 +15362,7 @@
           "description" : ""
         } ]
       },
-      "P & C FRESH MARKET, WEGMANS OR TOPPS" : {
+      "P & C FRESH MARKET WEGMANS OR TOPPS" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -15822,7 +15782,7 @@
           "description" : ""
         } ]
       },
-      "EL REY," : {
+      "EL REY" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -18602,7 +18562,7 @@
           "description" : ""
         } ]
       },
-      "PECHIM," : {
+      "PECHIM" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -22182,7 +22142,7 @@
           "description" : ""
         } ]
       },
-      "NEWSO,S GROCERY" : {
+      "NEWSOS GROCERY" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -24362,7 +24322,7 @@
           "description" : ""
         } ]
       },
-      "PUBLIX, INGLES, KROGERS" : {
+      "PUBLIX INGLES KROGERS" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -24762,7 +24722,7 @@
           "description" : ""
         } ]
       },
-      "JEWEL, DOMINICKS OR WALMART" : {
+      "JEWEL DOMINICKS OR WALMART" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -24842,7 +24802,7 @@
           "description" : ""
         } ]
       },
-      "TOPPS, WEGMANS OR WALMART" : {
+      "TOPPS WEGMANS OR WALMART" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -27022,7 +26982,7 @@
           "description" : ""
         } ]
       },
-      "PAYLESS  & WAL MART" : {
+      "PAYLESS & WAL MART" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -27062,7 +27022,7 @@
           "description" : ""
         } ]
       },
-      "BURKHOLDERS COUNTRY MARKET, GIANT" : {
+      "BURKHOLDERS COUNTRY MARKET GIANT" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -28323,26 +28283,6 @@
         } ]
       },
       "FOOD CO OP" : {
-        "monetaryValue" : 0.0,
-        "indicatorsOrAbbreviations" : null,
-        "icon" : "icons/atom.png",
-        "desireabilityOrientation" : "NEUTRAL",
-        "nounDescriptions" : [ {
-          "localeCode" : "enus",
-          "localeCode" : "enus",
-          "countNoun" : true,
-          "singularForm" : "singular",
-          "pluralForm" : null,
-          "quantifier" : "number",
-          "adjective" : "most (default adjective)",
-          "lessComparator" : "less",
-          "lessSuperlative" : "least",
-          "moreComparator" : "more",
-          "moreSuperlative" : "most",
-          "description" : ""
-        } ]
-      },
-      "FRED MEIJER" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -30002,7 +29942,7 @@
           "description" : ""
         } ]
       },
-      "KROGER, MEIJERS, AND WALMART" : {
+      "KROGER MEIJERS AND WALMART" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -32022,7 +31962,7 @@
           "description" : ""
         } ]
       },
-      "VONS, TOP VALUE, OR SPROUTS" : {
+      "VONS TOP VALUE OR SPROUTS" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -32223,26 +32163,6 @@
         } ]
       },
       "COST LESS" : {
-        "monetaryValue" : 0.0,
-        "indicatorsOrAbbreviations" : null,
-        "icon" : "icons/atom.png",
-        "desireabilityOrientation" : "NEUTRAL",
-        "nounDescriptions" : [ {
-          "localeCode" : "enus",
-          "localeCode" : "enus",
-          "countNoun" : true,
-          "singularForm" : "singular",
-          "pluralForm" : null,
-          "quantifier" : "number",
-          "adjective" : "most (default adjective)",
-          "lessComparator" : "less",
-          "lessSuperlative" : "least",
-          "moreComparator" : "more",
-          "moreSuperlative" : "most",
-          "description" : ""
-        } ]
-      },
-      "WALMART, AND PUBLIX" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -33082,7 +33002,7 @@
           "description" : ""
         } ]
       },
-      "JEWEL, TARGET, WALMART, TRADER JOES" : {
+      "JEWEL TARGET WALMART TRADER JOES" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -33862,7 +33782,7 @@
           "description" : ""
         } ]
       },
-      "WALMART, WEIS, SHUR FINE, BOYERS" : {
+      "WALMART WEIS SHUR FINE BOYERS" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -34802,7 +34722,7 @@
           "description" : ""
         } ]
       },
-      "WALMART, PUBLIX, KROGER" : {
+      "WALMART PUBLIX KROGER" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -36042,7 +35962,7 @@
           "description" : ""
         } ]
       },
-      "WALMART, HOMELAND" : {
+      "WALMART HOMELAND" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -36102,7 +36022,7 @@
           "description" : ""
         } ]
       },
-      "A & P, KINGS, STOP & SHOP, AND SHOP RITE" : {
+      "A & P KINGS STOP & SHOP AND SHOP RITE" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -36222,7 +36142,7 @@
           "description" : ""
         } ]
       },
-      "KROGER,  DAVIDS" : {
+      "KROGER DAVIDS" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -36442,7 +36362,7 @@
           "description" : ""
         } ]
       },
-      "WALMART, GIANT EAGLE AND MARCS" : {
+      "WALMART GIANT EAGLE AND MARCS" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -36562,7 +36482,7 @@
           "description" : ""
         } ]
       },
-      "FAMILY FARE QUICK STOP GAS STATION," : {
+      "FAMILY FARE QUICK STOP GAS STATION" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -36723,26 +36643,6 @@
         } ]
       },
       "SAMS OR BJS" : {
-        "monetaryValue" : 0.0,
-        "indicatorsOrAbbreviations" : null,
-        "icon" : "icons/atom.png",
-        "desireabilityOrientation" : "NEUTRAL",
-        "nounDescriptions" : [ {
-          "localeCode" : "enus",
-          "localeCode" : "enus",
-          "countNoun" : true,
-          "singularForm" : "singular",
-          "pluralForm" : null,
-          "quantifier" : "number",
-          "adjective" : "most (default adjective)",
-          "lessComparator" : "less",
-          "lessSuperlative" : "least",
-          "moreComparator" : "more",
-          "moreSuperlative" : "most",
-          "description" : ""
-        } ]
-      },
-      "DOLLAR  GENERAL STORE" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -38582,7 +38482,7 @@
           "description" : ""
         } ]
       },
-      "BED, BATH & BEYOND" : {
+      "BED BATH & BEYOND" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -38862,7 +38762,7 @@
           "description" : ""
         } ]
       },
-      "KROGER, PUBLIX, WALMART" : {
+      "KROGER PUBLIX WALMART" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -39182,7 +39082,7 @@
           "description" : ""
         } ]
       },
-      "PUBLIX, SWEET BAY, AND WALMART" : {
+      "PUBLIX SWEET BAY AND WALMART" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -39522,7 +39422,7 @@
           "description" : ""
         } ]
       },
-      "MARTINS, KROGER, AND FOOD LION" : {
+      "MARTINS KROGER AND FOOD LION" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -41842,7 +41742,7 @@
           "description" : ""
         } ]
       },
-      "HUCKLBERRIES," : {
+      "HUCKLBERRIES" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -42122,7 +42022,7 @@
           "description" : ""
         } ]
       },
-      "ALBERTSONS, CHAMPAGNE,  AND WINN DIXIE" : {
+      "ALBERTSONS CHAMPAGNE AND WINN DIXIE" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -42142,7 +42042,7 @@
           "description" : ""
         } ]
       },
-      "SAFEWAY, BASHAS," : {
+      "SAFEWAY BASHAS" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -42282,7 +42182,7 @@
           "description" : ""
         } ]
       },
-      "MEIJERS, WALMART, FAMILY FARE" : {
+      "MEIJERS WALMART FAMILY FARE" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -43802,7 +43702,7 @@
           "description" : ""
         } ]
       },
-      "MEIJER, WALMART OR TARGET" : {
+      "MEIJER WALMART OR TARGET" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -43962,7 +43862,7 @@
           "description" : ""
         } ]
       },
-      "KROGER, PUBLIX, HARVEYS" : {
+      "KROGER PUBLIX HARVEYS" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -44822,7 +44722,7 @@
           "description" : ""
         } ]
       },
-      "DRUGSTORE,COM" : {
+      "DRUGSTORECOM" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -45922,7 +45822,7 @@
           "description" : ""
         } ]
       },
-      "WALMART, INGLES" : {
+      "WALMART INGLES" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -46322,7 +46222,7 @@
           "description" : ""
         } ]
       },
-      "BASHAS, FRYES, SAFEWAY" : {
+      "BASHAS FRYES SAFEWAY" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -46742,7 +46642,7 @@
           "description" : ""
         } ]
       },
-      "WALMART, KROGER, HEB, RANDALLS" : {
+      "WALMART KROGER HEB RANDALLS" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -46923,26 +46823,6 @@
         } ]
       },
       "SUPER FOOD" : {
-        "monetaryValue" : 0.0,
-        "indicatorsOrAbbreviations" : null,
-        "icon" : "icons/atom.png",
-        "desireabilityOrientation" : "NEUTRAL",
-        "nounDescriptions" : [ {
-          "localeCode" : "enus",
-          "localeCode" : "enus",
-          "countNoun" : true,
-          "singularForm" : "singular",
-          "pluralForm" : null,
-          "quantifier" : "number",
-          "adjective" : "most (default adjective)",
-          "lessComparator" : "less",
-          "lessSuperlative" : "least",
-          "moreComparator" : "more",
-          "moreSuperlative" : "most",
-          "description" : ""
-        } ]
-      },
-      "PUBLIX, OR WINN DIXIE" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -47262,26 +47142,6 @@
           "description" : ""
         } ]
       },
-      "BOTTOM DOLLAR STORE," : {
-        "monetaryValue" : 0.0,
-        "indicatorsOrAbbreviations" : null,
-        "icon" : "icons/atom.png",
-        "desireabilityOrientation" : "NEUTRAL",
-        "nounDescriptions" : [ {
-          "localeCode" : "enus",
-          "localeCode" : "enus",
-          "countNoun" : true,
-          "singularForm" : "singular",
-          "pluralForm" : null,
-          "quantifier" : "number",
-          "adjective" : "most (default adjective)",
-          "lessComparator" : "less",
-          "lessSuperlative" : "least",
-          "moreComparator" : "more",
-          "moreSuperlative" : "most",
-          "description" : ""
-        } ]
-      },
       "YES ORGANIC MARKET" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
@@ -47402,7 +47262,7 @@
           "description" : ""
         } ]
       },
-      "BILL\"S FRESH MARKET" : {
+      "BILLS FRESH MARKET" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -47902,7 +47762,7 @@
           "description" : ""
         } ]
       },
-      "WALMART, BOTTOM DOLLAR" : {
+      "WALMART BOTTOM DOLLAR" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -49022,26 +48882,6 @@
           "description" : ""
         } ]
       },
-      "FRYS," : {
-        "monetaryValue" : 0.0,
-        "indicatorsOrAbbreviations" : null,
-        "icon" : "icons/atom.png",
-        "desireabilityOrientation" : "NEUTRAL",
-        "nounDescriptions" : [ {
-          "localeCode" : "enus",
-          "localeCode" : "enus",
-          "countNoun" : true,
-          "singularForm" : "singular",
-          "pluralForm" : null,
-          "quantifier" : "number",
-          "adjective" : "most (default adjective)",
-          "lessComparator" : "less",
-          "lessSuperlative" : "least",
-          "moreComparator" : "more",
-          "moreSuperlative" : "most",
-          "description" : ""
-        } ]
-      },
       "EL PUEBLO" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
@@ -49322,7 +49162,7 @@
           "description" : ""
         } ]
       },
-      "FESTA  SUPERMARKET" : {
+      "FESTA SUPERMARKET" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -50242,7 +50082,7 @@
           "description" : ""
         } ]
       },
-      "KROGER, WALMART, INGALLS, AND FOOD CITY" : {
+      "KROGER WALMART INGALLS AND FOOD CITY" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -50482,7 +50322,7 @@
           "description" : ""
         } ]
       },
-      "MARSH, KROGERS, WALMART" : {
+      "MARSH KROGERS WALMART" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -50522,7 +50362,7 @@
           "description" : ""
         } ]
       },
-      "WALMART, PUBLIX" : {
+      "WALMART PUBLIX" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -50682,7 +50522,7 @@
           "description" : ""
         } ]
       },
-      "AMAZON.COM, LLC, ORDER # 102 5561004 8785853" : {
+      "AMAZON.COM LLC ORDER # 102 5561004 8785853" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -50762,7 +50602,7 @@
           "description" : ""
         } ]
       },
-      "WALMAR, KROGER, PUBLIX" : {
+      "WALMAR KROGER PUBLIX" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -50802,7 +50642,7 @@
           "description" : ""
         } ]
       },
-      "PUBLIX, KROGER" : {
+      "PUBLIX KROGER" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -51682,7 +51522,7 @@
           "description" : ""
         } ]
       },
-      "WALMART, KROGER, AND MEIJERS" : {
+      "WALMART KROGER AND MEIJERS" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -53662,7 +53502,7 @@
           "description" : ""
         } ]
       },
-      "PIGGLY WIGGLY, PICK N SAVE, SENDIX, WALMART" : {
+      "PIGGLY WIGGLY PICK N SAVE SENDIX WALMART" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -53702,7 +53542,7 @@
           "description" : ""
         } ]
       },
-      "ACME, HEINENS, WALMART" : {
+      "ACME HEINENS WALMART" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -54042,7 +53882,7 @@
           "description" : ""
         } ]
       },
-      "WALMART, SHOP N SAVE, GIANT EAG;E" : {
+      "WALMART SHOP N SAVE GIANT EAG;E" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -54962,7 +54802,7 @@
           "description" : ""
         } ]
       },
-      "FT. BENNING, COMMISSARY" : {
+      "FT. BENNING COMMISSARY" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -55202,7 +55042,7 @@
           "description" : ""
         } ]
       },
-      "HANNAFORD, SHAWS, AND WALMART" : {
+      "HANNAFORD SHAWS AND WALMART" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -55322,7 +55162,7 @@
           "description" : ""
         } ]
       },
-      "MEIJER, KROGER, HILLARS" : {
+      "MEIJER KROGER HILLARS" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -58942,7 +58782,7 @@
           "description" : ""
         } ]
       },
-      "WALMART, SHOP RITE , ACME" : {
+      "WALMART SHOP RITE ACME" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -59142,7 +58982,7 @@
           "description" : ""
         } ]
       },
-      "PICK N SAVE, SENTRY, PIGGLY WIGGLY" : {
+      "PICK N SAVE SENTRY PIGGLY WIGGLY" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -59302,7 +59142,7 @@
           "description" : ""
         } ]
       },
-      "DOROTHY LANE," : {
+      "DOROTHY LANE" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -59342,7 +59182,7 @@
           "description" : ""
         } ]
       },
-      "ALBERTSONS, RALPHS, PAVILLIONS" : {
+      "ALBERTSONS RALPHS PAVILLIONS" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -59362,7 +59202,7 @@
           "description" : ""
         } ]
       },
-      "TARGET, WALMART OR HYVEE" : {
+      "TARGET WALMART OR HYVEE" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -60062,7 +59902,7 @@
           "description" : ""
         } ]
       },
-      "WALMART, SUPER FOODS," : {
+      "WALMART SUPER FOODS" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -60323,26 +60163,6 @@
         } ]
       },
       "BOBBY AND STEVES" : {
-        "monetaryValue" : 0.0,
-        "indicatorsOrAbbreviations" : null,
-        "icon" : "icons/atom.png",
-        "desireabilityOrientation" : "NEUTRAL",
-        "nounDescriptions" : [ {
-          "localeCode" : "enus",
-          "localeCode" : "enus",
-          "countNoun" : true,
-          "singularForm" : "singular",
-          "pluralForm" : null,
-          "quantifier" : "number",
-          "adjective" : "most (default adjective)",
-          "lessComparator" : "less",
-          "lessSuperlative" : "least",
-          "moreComparator" : "more",
-          "moreSuperlative" : "most",
-          "description" : ""
-        } ]
-      },
-      "PUBLIX, OR WALMART" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -60642,7 +60462,7 @@
           "description" : ""
         } ]
       },
-      "MARCS, SPARKLE, GIANT EAGLE" : {
+      "MARCS SPARKLE GIANT EAGLE" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -61122,7 +60942,7 @@
           "description" : ""
         } ]
       },
-      "WALMART, WINN DIXIE, OTHER" : {
+      "WALMART WINN DIXIE OTHER" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -62122,7 +61942,7 @@
           "description" : ""
         } ]
       },
-      "MAC DEAL," : {
+      "MAC DEAL" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -62462,7 +62282,7 @@
           "description" : ""
         } ]
       },
-      "SHOPPERS FOOD," : {
+      "SHOPPERS FOOD" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -62622,7 +62442,7 @@
           "description" : ""
         } ]
       },
-      "WALMART, GIANT, MARS AND FOOD LION" : {
+      "WALMART GIANT MARS AND FOOD LION" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -62702,7 +62522,7 @@
           "description" : ""
         } ]
       },
-      "FOOD LION, KROGER AND FARM FRESH" : {
+      "FOOD LION KROGER AND FARM FRESH" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -62802,7 +62622,7 @@
           "description" : ""
         } ]
       },
-      "MARTINS, KROGER, FOOD LION, AND WALMART" : {
+      "MARTINS KROGER FOOD LION AND WALMART" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -62842,7 +62662,7 @@
           "description" : ""
         } ]
       },
-      "WALMART, CENTURY OR WOODMANS" : {
+      "WALMART CENTURY OR WOODMANS" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -63662,7 +63482,7 @@
           "description" : ""
         } ]
       },
-      "SHOP RIGHT, PATHMARK, STOP & SHOP" : {
+      "SHOP RIGHT PATHMARK STOP & SHOP" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -64102,7 +63922,7 @@
           "description" : ""
         } ]
       },
-      "WALMART, WINN DIXIE" : {
+      "WALMART WINN DIXIE" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -64782,7 +64602,7 @@
           "description" : ""
         } ]
       },
-      "DIERDERGES, OLIVE BLVD, MO" : {
+      "DIERDERGES OLIVE BLVD MO" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -67722,7 +67542,7 @@
           "description" : ""
         } ]
       },
-      "MIKES, JACK & JILL" : {
+      "MIKES JACK & JILL" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -69782,7 +69602,7 @@
           "description" : ""
         } ]
       },
-      "PUBLIX, TARGET OR WALMAR" : {
+      "PUBLIX TARGET OR WALMAR" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -69822,7 +69642,7 @@
           "description" : ""
         } ]
       },
-      "KROGER, FOOD LION, LEOS SPRING STREET FOOD MARKET" : {
+      "KROGER FOOD LION LEOS SPRING STREET FOOD MARKET" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -70682,7 +70502,7 @@
           "description" : ""
         } ]
       },
-      "WALMART & KROGER, SPRINGFIELD,OH" : {
+      "WALMART & KROGER SPRINGFIELDOH" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -70963,26 +70783,6 @@
         } ]
       },
       "EDDIE" : {
-        "monetaryValue" : 0.0,
-        "indicatorsOrAbbreviations" : null,
-        "icon" : "icons/atom.png",
-        "desireabilityOrientation" : "NEUTRAL",
-        "nounDescriptions" : [ {
-          "localeCode" : "enus",
-          "localeCode" : "enus",
-          "countNoun" : true,
-          "singularForm" : "singular",
-          "pluralForm" : null,
-          "quantifier" : "number",
-          "adjective" : "most (default adjective)",
-          "lessComparator" : "less",
-          "lessSuperlative" : "least",
-          "moreComparator" : "more",
-          "moreSuperlative" : "most",
-          "description" : ""
-        } ]
-      },
-      "BILLS FRESH MARKET" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -73222,7 +73022,7 @@
           "description" : ""
         } ]
       },
-      "DOMINICKS, JEWEL" : {
+      "DOMINICKS JEWEL" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -73242,7 +73042,7 @@
           "description" : ""
         } ]
       },
-      "WALMART, TOMS OR GLENS" : {
+      "WALMART TOMS OR GLENS" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -73442,7 +73242,7 @@
           "description" : ""
         } ]
       },
-      "A & P, STOP AND SHOP" : {
+      "A & P STOP AND SHOP" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -73842,7 +73642,7 @@
           "description" : ""
         } ]
       },
-      "FIESTA HOUSTON ,TX" : {
+      "FIESTA HOUSTON TX" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -74042,7 +73842,7 @@
           "description" : ""
         } ]
       },
-      "SAFEWAY, TOPPS, AND COSTCO" : {
+      "SAFEWAY TOPPS AND COSTCO" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -76002,7 +75802,7 @@
           "description" : ""
         } ]
       },
-      "WALMART, SMITHS, AND ALBERTSONS" : {
+      "WALMART SMITHS AND ALBERTSONS" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -76682,7 +76482,7 @@
           "description" : ""
         } ]
       },
-      "PUBLIX, WALMART,SWEET BAY" : {
+      "PUBLIX WALMARTSWEET BAY" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -76883,26 +76683,6 @@
         } ]
       },
       "STRACK & VAN HILLS" : {
-        "monetaryValue" : 0.0,
-        "indicatorsOrAbbreviations" : null,
-        "icon" : "icons/atom.png",
-        "desireabilityOrientation" : "NEUTRAL",
-        "nounDescriptions" : [ {
-          "localeCode" : "enus",
-          "localeCode" : "enus",
-          "countNoun" : true,
-          "singularForm" : "singular",
-          "pluralForm" : null,
-          "quantifier" : "number",
-          "adjective" : "most (default adjective)",
-          "lessComparator" : "less",
-          "lessSuperlative" : "least",
-          "moreComparator" : "more",
-          "moreSuperlative" : "most",
-          "description" : ""
-        } ]
-      },
-      "SULLIVAN" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -78942,7 +78722,7 @@
           "description" : ""
         } ]
       },
-      "CORAOPOLUS CASH  MARKET" : {
+      "CORAOPOLUS CASH MARKET" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -79062,7 +78842,7 @@
           "description" : ""
         } ]
       },
-      "PUBLIX, WALMART, WINN DIXIE" : {
+      "PUBLIX WALMART WINN DIXIE" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -79162,7 +78942,7 @@
           "description" : ""
         } ]
       },
-      "WALMART, TOM THUMB, KROGER" : {
+      "WALMART TOM THUMB KROGER" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -79222,7 +79002,7 @@
           "description" : ""
         } ]
       },
-      "CENTRY, PICK N SAVE, WALMART" : {
+      "CENTRY PICK N SAVE WALMART" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -79922,7 +79702,7 @@
           "description" : ""
         } ]
       },
-      "WALMART, HY-VEE,OR FAREWAY" : {
+      "WALMART HY-VEEOR FAREWAY" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -80942,26 +80722,6 @@
           "description" : ""
         } ]
       },
-      "FARM, FRESH" : {
-        "monetaryValue" : 0.0,
-        "indicatorsOrAbbreviations" : null,
-        "icon" : "icons/atom.png",
-        "desireabilityOrientation" : "NEUTRAL",
-        "nounDescriptions" : [ {
-          "localeCode" : "enus",
-          "localeCode" : "enus",
-          "countNoun" : true,
-          "singularForm" : "singular",
-          "pluralForm" : null,
-          "quantifier" : "number",
-          "adjective" : "most (default adjective)",
-          "lessComparator" : "less",
-          "lessSuperlative" : "least",
-          "moreComparator" : "more",
-          "moreSuperlative" : "most",
-          "description" : ""
-        } ]
-      },
       "CROSBY" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
@@ -81462,7 +81222,7 @@
           "description" : ""
         } ]
       },
-      "WHEATSFIELD, CO OP" : {
+      "WHEATSFIELD CO OP" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -81742,7 +81502,7 @@
           "description" : ""
         } ]
       },
-      "S MART, SAFEWAY" : {
+      "S MART SAFEWAY" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -81782,7 +81542,7 @@
           "description" : ""
         } ]
       },
-      "WALMART. TOPS. WEGMANS, AND DASHES" : {
+      "WALMART. TOPS. WEGMANS AND DASHES" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -81962,7 +81722,7 @@
           "description" : ""
         } ]
       },
-      "TEMS  FOODS" : {
+      "TEMS FOODS" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -82222,7 +81982,7 @@
           "description" : ""
         } ]
       },
-      "FRYES, BASHAS, SAFEWAY, ALBERTSONS AND WALMART" : {
+      "FRYES BASHAS SAFEWAY ALBERTSONS AND WALMART" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -82302,27 +82062,7 @@
           "description" : ""
         } ]
       },
-      "KUHNS  MARKET" : {
-        "monetaryValue" : 0.0,
-        "indicatorsOrAbbreviations" : null,
-        "icon" : "icons/atom.png",
-        "desireabilityOrientation" : "NEUTRAL",
-        "nounDescriptions" : [ {
-          "localeCode" : "enus",
-          "localeCode" : "enus",
-          "countNoun" : true,
-          "singularForm" : "singular",
-          "pluralForm" : null,
-          "quantifier" : "number",
-          "adjective" : "most (default adjective)",
-          "lessComparator" : "less",
-          "lessSuperlative" : "least",
-          "moreComparator" : "more",
-          "moreSuperlative" : "most",
-          "description" : ""
-        } ]
-      },
-      "SMITHS, SUPER SAVER" : {
+      "SMITHS SUPER SAVER" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -82462,7 +82202,7 @@
           "description" : ""
         } ]
       },
-      "SAFEWAY, FRED MEYER, WALMART" : {
+      "SAFEWAY FRED MEYER WALMART" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -82602,7 +82342,7 @@
           "description" : ""
         } ]
       },
-      "CERTIFIED  FOOD WAREHOUSE" : {
+      "CERTIFIED FOOD WAREHOUSE" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -82942,7 +82682,7 @@
           "description" : ""
         } ]
       },
-      "RALPHS, VONS OR FRESH AND EASY" : {
+      "RALPHS VONS OR FRESH AND EASY" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -84002,26 +83742,6 @@
           "description" : ""
         } ]
       },
-      "GIANT, OR WALMART" : {
-        "monetaryValue" : 0.0,
-        "indicatorsOrAbbreviations" : null,
-        "icon" : "icons/atom.png",
-        "desireabilityOrientation" : "NEUTRAL",
-        "nounDescriptions" : [ {
-          "localeCode" : "enus",
-          "localeCode" : "enus",
-          "countNoun" : true,
-          "singularForm" : "singular",
-          "pluralForm" : null,
-          "quantifier" : "number",
-          "adjective" : "most (default adjective)",
-          "lessComparator" : "less",
-          "lessSuperlative" : "least",
-          "moreComparator" : "more",
-          "moreSuperlative" : "most",
-          "description" : ""
-        } ]
-      },
       "FARE" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
@@ -84202,7 +83922,7 @@
           "description" : ""
         } ]
       },
-      "CUB, WALMART, OGLES MARKETPLACE" : {
+      "CUB WALMART OGLES MARKETPLACE" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -84602,7 +84322,7 @@
           "description" : ""
         } ]
       },
-      "CVS, WALGREENS, WALMART, OR WINN DIXIE" : {
+      "CVS WALGREENS WALMART OR WINN DIXIE" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -84623,26 +84343,6 @@
         } ]
       },
       "CARROWS" : {
-        "monetaryValue" : 0.0,
-        "indicatorsOrAbbreviations" : null,
-        "icon" : "icons/atom.png",
-        "desireabilityOrientation" : "NEUTRAL",
-        "nounDescriptions" : [ {
-          "localeCode" : "enus",
-          "localeCode" : "enus",
-          "countNoun" : true,
-          "singularForm" : "singular",
-          "pluralForm" : null,
-          "quantifier" : "number",
-          "adjective" : "most (default adjective)",
-          "lessComparator" : "less",
-          "lessSuperlative" : "least",
-          "moreComparator" : "more",
-          "moreSuperlative" : "most",
-          "description" : ""
-        } ]
-      },
-      "SWEET BAY," : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -84702,7 +84402,7 @@
           "description" : ""
         } ]
       },
-      "WALMART, GIANT, AND FOOD LION" : {
+      "WALMART GIANT AND FOOD LION" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -86462,7 +86162,7 @@
           "description" : ""
         } ]
       },
-      "COLLADO," : {
+      "COLLADO" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -88202,7 +87902,7 @@
           "description" : ""
         } ]
       },
-      "COMMISSARY, PUBLIX OR WALMART" : {
+      "COMMISSARY PUBLIX OR WALMART" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -88322,7 +88022,7 @@
           "description" : ""
         } ]
       },
-      "FOOD LION, WALMART OR HARRIS TETER" : {
+      "FOOD LION WALMART OR HARRIS TETER" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -88582,7 +88282,7 @@
           "description" : ""
         } ]
       },
-      "STOP & SHOP, WALDBAUMS, KING CULLEN, AND PATHMARK" : {
+      "STOP & SHOP WALDBAUMS KING CULLEN AND PATHMARK" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -89002,7 +88702,7 @@
           "description" : ""
         } ]
       },
-      "GESBACK, MD" : {
+      "GESBACK MD" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -89662,7 +89362,7 @@
           "description" : ""
         } ]
       },
-      "BRIGIOTTA\"S" : {
+      "BRIGIOTTAS" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -90923,26 +90623,6 @@
         } ]
       },
       "MCCATFFREYS" : {
-        "monetaryValue" : 0.0,
-        "indicatorsOrAbbreviations" : null,
-        "icon" : "icons/atom.png",
-        "desireabilityOrientation" : "NEUTRAL",
-        "nounDescriptions" : [ {
-          "localeCode" : "enus",
-          "localeCode" : "enus",
-          "countNoun" : true,
-          "singularForm" : "singular",
-          "pluralForm" : null,
-          "quantifier" : "number",
-          "adjective" : "most (default adjective)",
-          "lessComparator" : "less",
-          "lessSuperlative" : "least",
-          "moreComparator" : "more",
-          "moreSuperlative" : "most",
-          "description" : ""
-        } ]
-      },
-      "DOROTHY LANE" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",

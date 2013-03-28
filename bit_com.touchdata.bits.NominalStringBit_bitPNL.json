@@ -13442,7 +13442,7 @@
           "description" : ""
         } ]
       },
-      "GMCI SNACKS/BEVERAGES, MISC." : {
+      "GMCI SNACKS/BEVERAGES MISC." : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -14022,7 +14022,7 @@
           "description" : ""
         } ]
       },
-      "GMCI BETTY CROCKER, MISC." : {
+      "GMCI BETTY CROCKER MISC." : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -15202,7 +15202,7 @@
           "description" : ""
         } ]
       },
-      "GMCI BAKING PRODUCTS, MISC." : {
+      "GMCI BAKING PRODUCTS MISC." : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",

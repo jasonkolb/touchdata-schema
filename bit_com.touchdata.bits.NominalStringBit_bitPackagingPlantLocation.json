@@ -42,7 +42,7 @@
           "description" : ""
         } ]
       },
-      "CEDAR RAPIDS, IA" : {
+      "CEDAR RAPIDS IA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -62,7 +62,7 @@
           "description" : ""
         } ]
       },
-      "COLUMBUS, GA" : {
+      "COLUMBUS GA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -82,7 +82,7 @@
           "description" : ""
         } ]
       },
-      "BELVIDERE, IL" : {
+      "BELVIDERE IL" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -102,7 +102,7 @@
           "description" : ""
         } ]
       },
-      "LONDON, KY" : {
+      "LONDON KY" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -122,7 +122,7 @@
           "description" : ""
         } ]
       },
-      "GENEVA, IL" : {
+      "GENEVA IL" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -142,7 +142,7 @@
           "description" : ""
         } ]
       },
-      "KENTWOOD, MI" : {
+      "KENTWOOD MI" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -162,7 +162,7 @@
           "description" : ""
         } ]
       },
-      "VIRU LA LIBERTAD, 04" : {
+      "VIRU LA LIBERTAD 04" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -182,7 +182,7 @@
           "description" : ""
         } ]
       },
-      "COVINGTON, GA" : {
+      "COVINGTON GA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -202,7 +202,7 @@
           "description" : ""
         } ]
       },
-      "MURFREESBORO, TN" : {
+      "MURFREESBORO TN" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -222,7 +222,7 @@
           "description" : ""
         } ]
       },
-      "NEW ALBANY, IN" : {
+      "NEW ALBANY IN" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -242,7 +242,7 @@
           "description" : ""
         } ]
       },
-      "LODI, CA" : {
+      "LODI CA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -262,7 +262,7 @@
           "description" : ""
         } ]
       },
-      "ST CHARLES, IL" : {
+      "ST CHARLES IL" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -282,7 +282,7 @@
           "description" : ""
         } ]
       },
-      "HANNIBAL, MO" : {
+      "HANNIBAL MO" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -302,7 +302,7 @@
           "description" : ""
         } ]
       },
-      "WILLIAMS, CA" : {
+      "WILLIAMS CA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -322,7 +322,7 @@
           "description" : ""
         } ]
       },
-      "VINELAND, NJ" : {
+      "VINELAND NJ" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -342,7 +342,7 @@
           "description" : ""
         } ]
       },
-      "JOPLIN, MO" : {
+      "JOPLIN MO" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -362,7 +362,7 @@
           "description" : ""
         } ]
       },
-      "ROME, GA" : {
+      "ROME GA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -382,7 +382,7 @@
           "description" : ""
         } ]
       },
-      "SCARBOROUGH, ON" : {
+      "SCARBOROUGH ON" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -402,7 +402,7 @@
           "description" : ""
         } ]
       },
-      "MONTGOMERY, MN" : {
+      "MONTGOMERY MN" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -422,7 +422,7 @@
           "description" : ""
         } ]
       },
-      "WELLSTON, OH" : {
+      "WELLSTON OH" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -442,7 +442,7 @@
           "description" : ""
         } ]
       },
-      "KANSAS CITY, MO" : {
+      "KANSAS CITY MO" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -462,7 +462,7 @@
           "description" : ""
         } ]
       },
-      "SHARONVILLE, OH" : {
+      "SHARONVILLE OH" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -482,7 +482,7 @@
           "description" : ""
         } ]
       },
-      "LOUISVILLE, CO" : {
+      "LOUISVILLE CO" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -502,7 +502,7 @@
           "description" : ""
         } ]
       },
-      "MILWAUKEE, WI" : {
+      "MILWAUKEE WI" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -522,7 +522,7 @@
           "description" : ""
         } ]
       },
-      "LAKEVILLE, MN" : {
+      "LAKEVILLE MN" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -542,7 +542,7 @@
           "description" : ""
         } ]
       },
-      "ASHTON, IL" : {
+      "ASHTON IL" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -562,7 +562,7 @@
           "description" : ""
         } ]
       },
-      "TORONTO, ON" : {
+      "TORONTO ON" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -582,7 +582,7 @@
           "description" : ""
         } ]
       },
-      "GOLDEN VALLEY, MN" : {
+      "GOLDEN VALLEY MN" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -602,7 +602,7 @@
           "description" : ""
         } ]
       },
-      "CHARLOTTE, NC" : {
+      "CHARLOTTE NC" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -622,7 +622,7 @@
           "description" : ""
         } ]
       },
-      "MICHIGAN CITY, IN" : {
+      "MICHIGAN CITY IN" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -642,7 +642,7 @@
           "description" : ""
         } ]
       },
-      "WEST CHICAGO, IL" : {
+      "WEST CHICAGO IL" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -662,7 +662,7 @@
           "description" : ""
         } ]
       },
-      "REED CITY, MI" : {
+      "REED CITY MI" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -682,7 +682,7 @@
           "description" : ""
         } ]
       },
-      "LAVAL, QC" : {
+      "LAVAL QC" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -702,7 +702,7 @@
           "description" : ""
         } ]
       },
-      "FREDERICKSBURG, IA" : {
+      "FREDERICKSBURG IA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -722,7 +722,7 @@
           "description" : ""
         } ]
       },
-      "ALBUQUERQUE, NM" : {
+      "ALBUQUERQUE NM" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -742,7 +742,7 @@
           "description" : ""
         } ]
       },
-      "IRAPUATO, GTO" : {
+      "IRAPUATO GTO" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -762,7 +762,7 @@
           "description" : ""
         } ]
       },
-      "SANTA CRUZ, CA" : {
+      "SANTA CRUZ CA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -782,7 +782,7 @@
           "description" : ""
         } ]
       },
-      "METHUEN, MA" : {
+      "METHUEN MA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -802,7 +802,7 @@
           "description" : ""
         } ]
       },
-      "BUFFALO, NY" : {
+      "BUFFALO NY" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -822,7 +822,7 @@
           "description" : ""
         } ]
       },
-      "CARLISLE, IA" : {
+      "CARLISLE IA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -842,7 +842,7 @@
           "description" : ""
         } ]
       },
-      "IRAPUATO, GT" : {
+      "IRAPUATO GT" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -862,7 +862,7 @@
           "description" : ""
         } ]
       },
-      "SHIRLEY, NY" : {
+      "SHIRLEY NY" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -882,7 +882,7 @@
           "description" : ""
         } ]
       },
-      "GREAT FALLS, MT" : {
+      "GREAT FALLS MT" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -902,7 +902,7 @@
           "description" : ""
         } ]
       },
-      "N/A, ZZ" : {
+      "N/A ZZ" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -922,7 +922,7 @@
           "description" : ""
         } ]
       },
-      "CHANHASSEN, MN" : {
+      "CHANHASSEN MN" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -942,7 +942,7 @@
           "description" : ""
         } ]
       },
-      "FARIBAULT, MN" : {
+      "FARIBAULT MN" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -962,7 +962,7 @@
           "description" : ""
         } ]
       },
-      "NASHVILLE, TN" : {
+      "NASHVILLE TN" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -982,7 +982,7 @@
           "description" : ""
         } ]
       },
-      "ENGLEWOOD, CO" : {
+      "ENGLEWOOD CO" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1002,7 +1002,7 @@
           "description" : ""
         } ]
       },
-      "CARSON, CA" : {
+      "CARSON CA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1022,7 +1022,7 @@
           "description" : ""
         } ]
       },
-      "GREENVILLE, SC" : {
+      "GREENVILLE SC" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1042,7 +1042,7 @@
           "description" : ""
         } ]
       },
-      "BENNETTSVILLE, SC" : {
+      "BENNETTSVILLE SC" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1062,7 +1062,7 @@
           "description" : ""
         } ]
       },
-      "MARTEL, OH" : {
+      "MARTEL OH" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1082,7 +1082,7 @@
           "description" : ""
         } ]
       },
-      "GLENCOE, MN" : {
+      "GLENCOE MN" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1102,7 +1102,7 @@
           "description" : ""
         } ]
       },
-      "MOJOKERTO 61373, 04" : {
+      "MOJOKERTO 61373 04" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1122,7 +1122,7 @@
           "description" : ""
         } ]
       },
-      "ELGIN, IL" : {
+      "ELGIN IL" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1142,7 +1142,7 @@
           "description" : ""
         } ]
       },
-      "ROCHESTER, MN" : {
+      "ROCHESTER MN" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1162,7 +1162,7 @@
           "description" : ""
         } ]
       },
-      "GREENVILLE, NH" : {
+      "GREENVILLE NH" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1182,7 +1182,7 @@
           "description" : ""
         } ]
       },
-      "RICHLAND CENTER, WI" : {
+      "RICHLAND CENTER WI" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1202,7 +1202,7 @@
           "description" : ""
         } ]
       },
-      "ST AUGUSTIN-DE-DESMAURES, QC" : {
+      "ST AUGUSTIN-DE-DESMAURES QC" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1222,7 +1222,7 @@
           "description" : ""
         } ]
       },
-      "CUMBERLAND, WI" : {
+      "CUMBERLAND WI" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1242,7 +1242,7 @@
           "description" : ""
         } ]
       },
-      "WATSONVILLE, CA" : {
+      "WATSONVILLE CA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1262,7 +1262,7 @@
           "description" : ""
         } ]
       },
-      "SHIPPENSBURG, PA" : {
+      "SHIPPENSBURG PA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1282,7 +1282,7 @@
           "description" : ""
         } ]
       },
-      "BOSCOBEL, WI" : {
+      "BOSCOBEL WI" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1302,7 +1302,7 @@
           "description" : ""
         } ]
       },
-      "SALEM, OR" : {
+      "SALEM OR" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1322,7 +1322,7 @@
           "description" : ""
         } ]
       },
-      "MIDLAND, ON" : {
+      "MIDLAND ON" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1342,7 +1342,7 @@
           "description" : ""
         } ]
       },
-      "SEALY, TX" : {
+      "SEALY TX" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1362,7 +1362,7 @@
           "description" : ""
         } ]
       },
-      "PORTLAND, OR" : {
+      "PORTLAND OR" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1382,7 +1382,7 @@
           "description" : ""
         } ]
       },
-      "ERIE, PA" : {
+      "ERIE PA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1402,7 +1402,7 @@
           "description" : ""
         } ]
       },
-      "LEMOORE, CA" : {
+      "LEMOORE CA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1422,7 +1422,7 @@
           "description" : ""
         } ]
       },
-      "WENONA, IL" : {
+      "WENONA IL" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1442,7 +1442,7 @@
           "description" : ""
         } ]
       },
-      "CHILLAN, CHILE" : {
+      "CHILLAN CHILE" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1462,7 +1462,7 @@
           "description" : ""
         } ]
       },
-      "SAVANNAH, GA" : {
+      "SAVANNAH GA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1482,7 +1482,7 @@
           "description" : ""
         } ]
       },
-      "CHESTER, IL" : {
+      "CHESTER IL" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1502,7 +1502,7 @@
           "description" : ""
         } ]
       },
-      "BOLINGBROOK, IL" : {
+      "BOLINGBROOK IL" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1522,7 +1522,7 @@
           "description" : ""
         } ]
       },
-      "DEMING, NM" : {
+      "DEMING NM" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1542,7 +1542,7 @@
           "description" : ""
         } ]
       },
-      "AUSTIN, MN" : {
+      "AUSTIN MN" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1562,7 +1562,7 @@
           "description" : ""
         } ]
       },
-      "HIAWATHA, IA" : {
+      "HIAWATHA IA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1582,7 +1582,7 @@
           "description" : ""
         } ]
       },
-      "GENEVA, NY" : {
+      "GENEVA NY" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1602,7 +1602,7 @@
           "description" : ""
         } ]
       },
-      "EUGENE, OR" : {
+      "EUGENE OR" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1622,7 +1622,7 @@
           "description" : ""
         } ]
       },
-      "HORST, NETHERLANDS" : {
+      "HORST NETHERLANDS" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1642,7 +1642,7 @@
           "description" : ""
         } ]
       },
-      "BUHL, ID" : {
+      "BUHL ID" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1662,7 +1662,7 @@
           "description" : ""
         } ]
       },
-      "DAYTON, WA" : {
+      "DAYTON WA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1682,7 +1682,7 @@
           "description" : ""
         } ]
       },
-      "FOREST GROVE, OR" : {
+      "FOREST GROVE OR" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1702,7 +1702,7 @@
           "description" : ""
         } ]
       },
-      "WHEELING, IL" : {
+      "WHEELING IL" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1722,7 +1722,7 @@
           "description" : ""
         } ]
       },
-      "BLUE EARTH, MN" : {
+      "BLUE EARTH MN" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1742,7 +1742,7 @@
           "description" : ""
         } ]
       },
-      "LINCOLN, NE" : {
+      "LINCOLN NE" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1762,7 +1762,7 @@
           "description" : ""
         } ]
       },
-      "WINNIPEG, MB" : {
+      "WINNIPEG MB" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1782,7 +1782,7 @@
           "description" : ""
         } ]
       },
-      "MAYVILLE, WI" : {
+      "MAYVILLE WI" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1822,7 +1822,7 @@
           "description" : ""
         } ]
       },
-      "N/A, INDONESIA" : {
+      "N/A INDONESIA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1842,7 +1842,7 @@
           "description" : ""
         } ]
       },
-      "NORTH LITTLE ROCK, AR" : {
+      "NORTH LITTLE ROCK AR" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1882,7 +1882,7 @@
           "description" : ""
         } ]
       },
-      "ITASCA, IL" : {
+      "ITASCA IL" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1902,7 +1902,7 @@
           "description" : ""
         } ]
       },
-      "MAYAGUEZ, PR" : {
+      "MAYAGUEZ PR" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1922,7 +1922,7 @@
           "description" : ""
         } ]
       },
-      "CHICAGO, IL" : {
+      "CHICAGO IL" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1942,7 +1942,7 @@
           "description" : ""
         } ]
       },
-      "FAIRPORT, NY" : {
+      "FAIRPORT NY" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1962,7 +1962,7 @@
           "description" : ""
         } ]
       },
-      "JACKSON, OH" : {
+      "JACKSON OH" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -1982,7 +1982,7 @@
           "description" : ""
         } ]
       },
-      "DENVER, CO" : {
+      "DENVER CO" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2002,7 +2002,7 @@
           "description" : ""
         } ]
       },
-      "WILLINGBORO, NJ" : {
+      "WILLINGBORO NJ" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2022,7 +2022,7 @@
           "description" : ""
         } ]
       },
-      "COBOURG, ON" : {
+      "COBOURG ON" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2042,7 +2042,7 @@
           "description" : ""
         } ]
       },
-      "FULLERTON, CA" : {
+      "FULLERTON CA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2062,7 +2062,7 @@
           "description" : ""
         } ]
       },
-      "DALLAS, TX" : {
+      "DALLAS TX" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2082,7 +2082,7 @@
           "description" : ""
         } ]
       },
-      "PROSSER, WA" : {
+      "PROSSER WA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2102,7 +2102,7 @@
           "description" : ""
         } ]
       },
-      "COMMERCE, CA" : {
+      "COMMERCE CA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2122,7 +2122,7 @@
           "description" : ""
         } ]
       },
-      "SAINTE-CLARIE, QC" : {
+      "SAINTE-CLARIE QC" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2142,7 +2142,7 @@
           "description" : ""
         } ]
       },
-      "OMAK, WA" : {
+      "OMAK WA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2162,7 +2162,7 @@
           "description" : ""
         } ]
       },
-      "LOGAN, UT" : {
+      "LOGAN UT" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2182,7 +2182,7 @@
           "description" : ""
         } ]
       },
-      "POPLAR, WI" : {
+      "POPLAR WI" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2202,7 +2202,7 @@
           "description" : ""
         } ]
       },
-      "MASSILLON, OH" : {
+      "MASSILLON OH" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2222,7 +2222,7 @@
           "description" : ""
         } ]
       },
-      "PASURUAN, 02" : {
+      "PASURUAN 02" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2242,7 +2242,7 @@
           "description" : ""
         } ]
       },
-      "FRESNO, CA" : {
+      "FRESNO CA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2262,7 +2262,7 @@
           "description" : ""
         } ]
       },
-      "PLOVER, WI" : {
+      "PLOVER WI" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2282,7 +2282,7 @@
           "description" : ""
         } ]
       },
-      "CITY OF COMMERCE, CA" : {
+      "CITY OF COMMERCE CA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2302,7 +2302,7 @@
           "description" : ""
         } ]
       },
-      "HARTFORD, CT" : {
+      "HARTFORD CT" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2322,7 +2322,7 @@
           "description" : ""
         } ]
       },
-      "BRISTOL, VA" : {
+      "BRISTOL VA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2342,7 +2342,7 @@
           "description" : ""
         } ]
       },
-      "FRANKLIN, WI" : {
+      "FRANKLIN WI" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2362,7 +2362,7 @@
           "description" : ""
         } ]
       },
-      "HERMISTON, OR" : {
+      "HERMISTON OR" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2382,7 +2382,7 @@
           "description" : ""
         } ]
       },
-      "PAYETTE, ID" : {
+      "PAYETTE ID" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2402,7 +2402,7 @@
           "description" : ""
         } ]
       },
-      "TAIAN, 120" : {
+      "TAIAN 120" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2422,7 +2422,7 @@
           "description" : ""
         } ]
       },
-      "DUNMORE, PA" : {
+      "DUNMORE PA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2442,7 +2442,7 @@
           "description" : ""
         } ]
       },
-      "CHATTANOOGA, TN" : {
+      "CHATTANOOGA TN" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2462,7 +2462,7 @@
           "description" : ""
         } ]
       },
-      "HUDSONVILLE, MI" : {
+      "HUDSONVILLE MI" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2482,7 +2482,7 @@
           "description" : ""
         } ]
       },
-      "TOLDEO, OH" : {
+      "TOLDEO OH" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2502,7 +2502,7 @@
           "description" : ""
         } ]
       },
-      "EASTON, PA" : {
+      "EASTON PA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2522,7 +2522,7 @@
           "description" : ""
         } ]
       },
-      "HOLLAND, MI" : {
+      "HOLLAND MI" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2542,7 +2542,7 @@
           "description" : ""
         } ]
       },
-      "JACKSON, TN" : {
+      "JACKSON TN" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2562,7 +2562,7 @@
           "description" : ""
         } ]
       },
-      "FRANKLIN PARK, IL" : {
+      "FRANKLIN PARK IL" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2582,7 +2582,7 @@
           "description" : ""
         } ]
       },
-      "MANTECA, CA" : {
+      "MANTECA CA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2602,7 +2602,7 @@
           "description" : ""
         } ]
       },
-      "CASTROVILLE, CA" : {
+      "CASTROVILLE CA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2622,7 +2622,7 @@
           "description" : ""
         } ]
       },
-      "LE MARS, IA" : {
+      "LE MARS IA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2642,7 +2642,7 @@
           "description" : ""
         } ]
       },
-      "STUTTGARD, AR" : {
+      "STUTTGARD AR" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2662,7 +2662,7 @@
           "description" : ""
         } ]
       },
-      "MURCIA, 30" : {
+      "MURCIA 30" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2682,7 +2682,7 @@
           "description" : ""
         } ]
       },
-      "MONTGOMERY, IL" : {
+      "MONTGOMERY IL" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2702,7 +2702,7 @@
           "description" : ""
         } ]
       },
-      "GERMANTOWN, WI" : {
+      "GERMANTOWN WI" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2722,7 +2722,7 @@
           "description" : ""
         } ]
       },
-      "JANESVILLE, WI" : {
+      "JANESVILLE WI" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2742,7 +2742,7 @@
           "description" : ""
         } ]
       },
-      "LOUISVILLE, KY" : {
+      "LOUISVILLE KY" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2762,7 +2762,7 @@
           "description" : ""
         } ]
       },
-      "EL RAAL, 30" : {
+      "EL RAAL 30" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2782,7 +2782,7 @@
           "description" : ""
         } ]
       },
-      "WOODLAND, CA" : {
+      "WOODLAND CA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2802,7 +2802,7 @@
           "description" : ""
         } ]
       },
-      "BLACKFOOT, ID" : {
+      "BLACKFOOT ID" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2822,7 +2822,7 @@
           "description" : ""
         } ]
       },
-      "SEELYVILLE, IN" : {
+      "SEELYVILLE IN" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2842,7 +2842,7 @@
           "description" : ""
         } ]
       },
-      "VERNON, CA" : {
+      "VERNON CA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2862,7 +2862,7 @@
           "description" : ""
         } ]
       },
-      "OGDEN, UTAH" : {
+      "OGDEN UTAH" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2882,7 +2882,7 @@
           "description" : ""
         } ]
       },
-      "SANTA FE SPRINGS, CA" : {
+      "SANTA FE SPRINGS CA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2902,7 +2902,7 @@
           "description" : ""
         } ]
       },
-      "GRAND RAPIDS, MI" : {
+      "GRAND RAPIDS MI" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2922,7 +2922,7 @@
           "description" : ""
         } ]
       },
-      "BAKERSFIELD, CA" : {
+      "BAKERSFIELD CA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2942,7 +2942,7 @@
           "description" : ""
         } ]
       },
-      "BROADVIEW, IL" : {
+      "BROADVIEW IL" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2962,7 +2962,7 @@
           "description" : ""
         } ]
       },
-      "SANFORD, NC" : {
+      "SANFORD NC" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2982,7 +2982,7 @@
           "description" : ""
         } ]
       },
-      "LONGUEUIL, QC" : {
+      "LONGUEUIL QC" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -3002,7 +3002,7 @@
           "description" : ""
         } ]
       },
-      "OAKLAND, CA" : {
+      "OAKLAND CA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -3022,7 +3022,7 @@
           "description" : ""
         } ]
       },
-      "FOREST PARK, GA" : {
+      "FOREST PARK GA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -3042,7 +3042,7 @@
           "description" : ""
         } ]
       },
-      "CTRA DEL JIMENADO KM 2, 30" : {
+      "CTRA DEL JIMENADO KM 2 30" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -3062,7 +3062,7 @@
           "description" : ""
         } ]
       },
-      "HILLSDALE, MI" : {
+      "HILLSDALE MI" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -3082,7 +3082,7 @@
           "description" : ""
         } ]
       },
-      "BALTIMORE, MD" : {
+      "BALTIMORE MD" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -3102,7 +3102,7 @@
           "description" : ""
         } ]
       },
-      "TECUMSEH, ON" : {
+      "TECUMSEH ON" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -3122,7 +3122,7 @@
           "description" : ""
         } ]
       },
-      "STE. MARTINE, QC" : {
+      "STE. MARTINE QC" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -3142,7 +3142,7 @@
           "description" : ""
         } ]
       },
-      "NEW HOPE, MN" : {
+      "NEW HOPE MN" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -3162,7 +3162,7 @@
           "description" : ""
         } ]
       },
-      "OMAHA, NE" : {
+      "OMAHA NE" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -3182,7 +3182,7 @@
           "description" : ""
         } ]
       },
-      "MISSISSAUGA, ON" : {
+      "MISSISSAUGA ON" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -3202,7 +3202,7 @@
           "description" : ""
         } ]
       },
-      "ST AUGUSTIN DE DESMAURES, QC" : {
+      "ST AUGUSTIN DE DESMAURES QC" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -3222,7 +3222,7 @@
           "description" : ""
         } ]
       },
-      "NORTHLAKE, IL" : {
+      "NORTHLAKE IL" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",

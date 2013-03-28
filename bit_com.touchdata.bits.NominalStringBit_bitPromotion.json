@@ -182,7 +182,7 @@
           "description" : ""
         } ]
       },
-      "IN STORE, INTERNET OR RADIO PROMOTIONS" : {
+      "IN STORE INTERNET OR RADIO PROMOTIONS" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -2022,7 +2022,7 @@
           "description" : ""
         } ]
       },
-      "CRAYOLA - LIGHTS, CAMERA, COLOR" : {
+      "CRAYOLA - LIGHTS CAMERA COLOR" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -3102,7 +3102,7 @@
           "description" : ""
         } ]
       },
-      "ON-LINE BUY 1 GET 1  MOVIE TICKET ON PB PIZZA POPS 2012 - X" : {
+      "ON-LINE BUY 1 GET 1 MOVIE TICKET ON PB PIZZA POPS 2012 - X" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -3122,7 +3122,7 @@
           "description" : ""
         } ]
       },
-      "COUPON - FREE CHOCOLATE CHEERIOS ON JUNE 21, 2011 - X" : {
+      "COUPON - FREE CHOCOLATE CHEERIOS ON JUNE 21 2011 - X" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -3142,7 +3142,7 @@
           "description" : ""
         } ]
       },
-      "IN STORE, INTERNET OR RADIO PROMOTIONS-CANADA" : {
+      "IN STORE INTERNET OR RADIO PROMOTIONS-CANADA" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -3242,7 +3242,7 @@
           "description" : ""
         } ]
       },
-      "COUPON - F1 BROWNIES, GRANOLA THINS, F1 100 CAL BAR 7/24/12" : {
+      "COUPON - F1 BROWNIES GRANOLA THINS F1 100 CAL BAR 7/24/12" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -3342,7 +3342,7 @@
           "description" : ""
         } ]
       },
-      "ON-LINE BUY 1 GET 1  CHILD MOVIE TICKET ON SNACKS 2012 - X" : {
+      "ON-LINE BUY 1 GET 1 CHILD MOVIE TICKET ON SNACKS 2012 - X" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -3502,7 +3502,7 @@
           "description" : ""
         } ]
       },
-      "COUPON - FREE ICE CREAM, FROZEN YOGOURT OR CONE - X" : {
+      "COUPON - FREE ICE CREAM FROZEN YOGOURT OR CONE - X" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -3662,7 +3662,7 @@
           "description" : ""
         } ]
       },
-      "SWEEPS/CONTEST-FILL UP AND GO, WIN A $500 GAS GIFT CARD" : {
+      "SWEEPS/CONTEST-FILL UP AND GO WIN A $500 GAS GIFT CARD" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",
@@ -3682,7 +3682,7 @@
           "description" : ""
         } ]
       },
-      "SWEEPS/CONTEST-FILL UP AND GO, WIN A 2013 FORD ESCAPE" : {
+      "SWEEPS/CONTEST-FILL UP AND GO WIN A 2013 FORD ESCAPE" : {
         "monetaryValue" : 0.0,
         "indicatorsOrAbbreviations" : null,
         "icon" : "icons/atom.png",

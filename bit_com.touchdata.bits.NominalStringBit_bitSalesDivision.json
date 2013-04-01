@@ -161,89 +161,9 @@
           "moreSuperlative" : "most",
           "description" : ""
         } ]
-      },
-      "10-MAY-13" : {
-        "monetaryValue" : 0.0,
-        "indicatorsOrAbbreviations" : null,
-        "icon" : "icons/atom.png",
-        "desireabilityOrientation" : "NEUTRAL",
-        "nounDescriptions" : [ {
-          "localeCode" : "enus",
-          "localeCode" : "enus",
-          "countNoun" : true,
-          "singularForm" : "singular",
-          "pluralForm" : null,
-          "quantifier" : "number",
-          "adjective" : "most (default adjective)",
-          "lessComparator" : "less",
-          "lessSuperlative" : "least",
-          "moreComparator" : "more",
-          "moreSuperlative" : "most",
-          "description" : ""
-        } ]
-      },
-      "06" : {
-        "monetaryValue" : 0.0,
-        "indicatorsOrAbbreviations" : null,
-        "icon" : "icons/atom.png",
-        "desireabilityOrientation" : "NEUTRAL",
-        "nounDescriptions" : [ {
-          "localeCode" : "enus",
-          "localeCode" : "enus",
-          "countNoun" : true,
-          "singularForm" : "singular",
-          "pluralForm" : null,
-          "quantifier" : "number",
-          "adjective" : "most (default adjective)",
-          "lessComparator" : "less",
-          "lessSuperlative" : "least",
-          "moreComparator" : "more",
-          "moreSuperlative" : "most",
-          "description" : ""
-        } ]
-      },
-      "12657" : {
-        "monetaryValue" : 0.0,
-        "indicatorsOrAbbreviations" : null,
-        "icon" : "icons/atom.png",
-        "desireabilityOrientation" : "NEUTRAL",
-        "nounDescriptions" : [ {
-          "localeCode" : "enus",
-          "localeCode" : "enus",
-          "countNoun" : true,
-          "singularForm" : "singular",
-          "pluralForm" : null,
-          "quantifier" : "number",
-          "adjective" : "most (default adjective)",
-          "lessComparator" : "less",
-          "lessSuperlative" : "least",
-          "moreComparator" : "more",
-          "moreSuperlative" : "most",
-          "description" : ""
-        } ]
-      },
-      "14000" : {
-        "monetaryValue" : 0.0,
-        "indicatorsOrAbbreviations" : null,
-        "icon" : "icons/atom.png",
-        "desireabilityOrientation" : "NEUTRAL",
-        "nounDescriptions" : [ {
-          "localeCode" : "enus",
-          "localeCode" : "enus",
-          "countNoun" : true,
-          "singularForm" : "singular",
-          "pluralForm" : null,
-          "quantifier" : "number",
-          "adjective" : "most (default adjective)",
-          "lessComparator" : "less",
-          "lessSuperlative" : "least",
-          "moreComparator" : "more",
-          "moreSuperlative" : "most",
-          "description" : ""
-        } ]
       }
     },
-    "icon" : "icons/atom.png",
-    "dependentDataAnalysisJobClass" : null
+    "dependentDataAnalysisJobClass" : null,
+    "icon" : "icons/atom.png"
   }
 }

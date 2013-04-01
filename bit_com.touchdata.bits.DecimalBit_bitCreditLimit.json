@@ -23,7 +23,7 @@
     "decimalPrecision" : 2,
     "numericMin" : 0.0,
     "numericMax" : 1044047.4000000001,
-    "icon" : "icons/atom.png",
-    "dependentDataAnalysisJobClass" : null
+    "dependentDataAnalysisJobClass" : null,
+    "icon" : "icons/atom.png"
   }
 }

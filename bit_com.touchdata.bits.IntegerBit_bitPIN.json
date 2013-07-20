@@ -1,5 +1,5 @@
 {
-  "com.touchdata.bits.IntegerBit" : {
+  "com.touchdata.common.bits.IntegerBit" : {
     "beanName" : "bitPIN",
     "securityAccessList" : [ ],
     "desirabilityOrientation" : "NEUTRAL",

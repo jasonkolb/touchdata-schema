@@ -1,5 +1,5 @@
 {
-  "com.touchdata.bits.SSNBit" : {
+  "com.touchdata.common.bits.SSNBit" : {
     "beanName" : "bitSSN",
     "desirabilityOrientation" : "NEUTRAL",
     "nounDescriptions" : [ {

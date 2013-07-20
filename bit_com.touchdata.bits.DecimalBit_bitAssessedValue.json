@@ -1,5 +1,5 @@
 {
-  "com.touchdata.bits.DecimalBit" : {
+  "com.touchdata.common.bits.DecimalBit" : {
     "beanName" : "bitAssessedValue",
     "desirabilityOrientation" : "NEUTRAL",
     "hashAlgorithms" : [ "NUMERIC_MIN_TO_MAX" ],    

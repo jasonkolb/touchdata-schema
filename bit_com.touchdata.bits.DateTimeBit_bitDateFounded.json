@@ -1,5 +1,5 @@
 {
-  "com.touchdata.bits.DateTimeBit" : {
+  "com.touchdata.common.bits.DateTimeBit" : {
     "beanName" : "bitDateFounded",
     "desirabilityOrientation" : "NEUTRAL",
     "nounDescriptions" : [ {

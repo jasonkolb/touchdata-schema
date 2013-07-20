@@ -1,5 +1,5 @@
 {
-  "com.touchdata.bits.GeopointBit" : {
+  "com.touchdata.common.bits.GeopointBit" : {
     "beanName" : "bitGeoLocation",
     "desirabilityOrientation" : "NEUTRAL",
     "nounDescriptions" : [ {

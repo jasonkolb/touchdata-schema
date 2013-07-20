@@ -1,5 +1,5 @@
 {
-  "com.touchdata.bits.BooleanBit" : {
+  "com.touchdata.common.bits.BooleanBit" : {
     "beanName" : "bitShortSale",
     "desirabilityOrientation" : "NEUTRAL",
     "nounDescriptions" : [ {

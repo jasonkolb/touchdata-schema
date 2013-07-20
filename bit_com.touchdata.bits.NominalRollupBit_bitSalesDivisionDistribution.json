@@ -1,5 +1,5 @@
 {
-  "com.touchdata.bits.NominalRollupBit" : {
+  "com.touchdata.common.bits.NominalRollupBit" : {
     "aggregatedEntityName" : "customerEntity",
     "aggregatedEntityBitName" : "bitSalesDivision",
     "beanName" : "bitSalesDivisionDistribution",

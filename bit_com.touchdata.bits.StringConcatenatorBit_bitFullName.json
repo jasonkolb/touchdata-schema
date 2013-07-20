@@ -1,5 +1,5 @@
 {
-  "com.touchdata.bits.StringConcatenatorBit" : {
+  "com.touchdata.common.bits.StringConcatenatorBit" : {
     "beanName" : "bitFullName",
     "desirabilityOrientation" : "NEUTRAL",
     "hashAlgorithms" : [ "PHONETIC" ],    

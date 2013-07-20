@@ -1,5 +1,5 @@
 {
-  "com.touchdata.bits.StringBit" : {
+  "com.touchdata.common.bits.StringBit" : {
     "beanName" : "bitCounty",
     "desirabilityOrientation" : "NEUTRAL",
     "hashAlgorithms" : [ "PHONETIC" ],    

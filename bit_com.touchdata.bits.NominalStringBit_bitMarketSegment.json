@@ -1,5 +1,5 @@
 {
-  "com.touchdata.bits.NominalStringBit" : {
+  "com.touchdata.common.bits.NominalStringBit" : {
     "beanName" : "bitMarketSegment",
     "securityAccessList" : [ ],
     "hashAlgorithms" : [ ],

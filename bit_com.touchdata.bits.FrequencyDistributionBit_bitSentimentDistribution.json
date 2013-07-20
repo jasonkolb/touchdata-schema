@@ -1,5 +1,5 @@
 {
-  "com.touchdata.bits.FrequencyDistributionBit" : {
+  "com.touchdata.common.bits.FrequencyDistributionBit" : {
     "beanName" : "bitSentimentDistribution",
     "desirabilityOrientation" : "MOREISBETTER",
     "nounDescriptions" : [ {

@@ -1,5 +1,5 @@
 {
-  "com.touchdata.bits.FreeformBit" : {
+  "com.touchdata.common.bits.FreeformBit" : {
     "beanName" : "bitNotes",
     "desirabilityOrientation" : "NEUTRAL",
     "nounDescriptions" : [ {

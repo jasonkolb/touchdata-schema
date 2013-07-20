@@ -1,5 +1,5 @@
 {
-  "com.touchdata.bits.SubtypeBit" : {
+  "com.touchdata.common.bits.SubtypeBit" : {
     "beanName" : "bitSubtype",
     "desirabilityOrientation" : "NEUTRAL",
     "nounDescriptions" : [ {

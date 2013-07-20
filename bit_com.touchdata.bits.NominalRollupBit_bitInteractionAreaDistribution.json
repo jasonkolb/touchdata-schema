@@ -1,5 +1,5 @@
 {
-  "com.touchdata.bits.NominalRollupBit" : {
+  "com.touchdata.common.bits.NominalRollupBit" : {
     "aggregatedEntityName" : "interactionEntity",
     "aggregatedEntityBitName" : "bitInteractionArea",
     "beanName" : "bitInteractionAreaDistribution",

@@ -1,5 +1,5 @@
 {
-  "com.touchdata.bits.NominalRollupBit" : {
+  "com.touchdata.common.bits.NominalRollupBit" : {
     "beanName" : "bitHousingUnitStatus",
     "desirabilityOrientation" : "NEUTRAL",
     "nounDescriptions" : [ {
@@ -21,7 +21,7 @@
     "minimumValue" : 0.0,
     "maximumValue" : null,
     "maximumValueBit" : {
-      "com.touchdata.bits.IntegerBit" : {
+      "com.touchdata.common.bits.IntegerBit" : {
         "beanName" : "bitTotalHousingUnits",
         "uuid" : null,
         "desirabilityOrientation" : "NEUTRAL",

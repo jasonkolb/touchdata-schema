@@ -1,5 +1,5 @@
 {
-  "com.touchdata.bits.SentimentBit" : {
+  "com.touchdata.common.bits.SentimentBit" : {
     "beanName" : "bitNotesSentiment",
     "desirabilityOrientation" : "NEUTRAL",
     "nounDescriptions" : [ {
